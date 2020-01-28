@@ -1,0 +1,891 @@
+PlInf_City,PlInf_Pr/St,PlInf_Cntry,PlInf_Nat,PlInf_Hand,PlInf_CorsicaID,PlInf_H-Ref_Name,PlInf_Last_Name,PlInf_First_Name,PlInf_Position,PlInf_Team,Other_Injuries,ContInf_NMC,ContInf_Status,Eqip_Stick,Eqip_Glove,Eqip_Pants,Eqip_Helmet,Eqip_Skates
+Dorchester,MA,USA,USA,R,JIMMY.HAYES,Jimmy Hayes,Hayes,Jimmy,RW,NJD,,,UFA,Warrior - Covert QRL,Bauer - Vapor 1X,Bauer,Bauer - 4500,TRUE - Pro Custom
+Helsinki,,FIN,FIN,L,JORI.LEHTERA,Jori Lehtera,Lehtera,Jori,C,PHI,Illness,,UFA,Warrior - Alpha QX,Warrior - Dynasty AX1,Warrior,CCM - Vector V08,Bauer - Vapor 1X
+Winnipeg,MB,CAN,CAN,R,MICHAEL.STONE,Michael Stone,Stone,Michael,D,CGY,,NTC,UFA,Warrior - Alpha QX,Bauer - Supreme 1S,Warrior,Bauer - 5100,Bauer - Supreme 1S
+Regina,SK,CAN,CAN,L,SCOTT.HARTNELL,Scott Hartnell,Hartnell,Scott,LW,NSH,Lower body,,UFA,Bauer - Vapor 1X Lite,Warrior - Dynasty AX1,Bauer,Bauer - 9900,TRUE - Pro Custom
+Bolton,CT,USA,USA,L,RON.HAINSEY,Ron Hainsey,Hainsey,Ron,D,TOR,Illness,M-NTC,UFA,Warrior - Alpha QX,Warrior - Dynasty AX1,Warrior,Warrior - Covert PX2,Bauer - Nexus 1N
+Regina,SK,CAN,CAN,L,CHRIS.KUNITZ,Chris Kunitz,Kunitz,Chris,LW,TBL,,NMC,UFA,CCM - RBZ Speedburner,Bauer - Supreme 1S,Bauer,Bauer - 7500,Bauer - Vapor 1X 2.0
+Brantford,ON,CAN,CAN,L,ADAM.HENRIQUE,Adam Henrique,Henrique,Adam,C,"NJD, ANA",,,UFA,Warrior - Alpha QX,Warrior - Covert QRL,Warrior,Warrior - Covert PX2,TRUE - Pro Custom
+San Francisco,CA,USA,USA,L,BROOKS.ORPIK,Brooks Orpik,Orpik,Brooks,D,WSH,Lower body,,UFA,,,,,
+Sandy,UT,USA,USA,L,DANIEL.BRICKLEY,Daniel Brickley,Brickley,Daniel,D,LAK,,,RFA,,,,,
+Golden,BC,CAN,CAN,L,CURTIS.MCKENZIE,Curtis McKenzie,McKenzie,Curtis,LW,DAL,,,UFA,,,,,
+Dubuque,IA,USA,USA,R,TUCKER.POOLMAN,Tucker Poolman,Poolman,Tucker,D,WPG,,,RFA,CCM - Ribcor Trigger 2 PMT,CCM - CL Pro,CCM,CCM - Resistance,CCM - Super Tacks
+Cobourg,ON,CAN,CAN,R,JUSTIN.WILLIAMS,Justin Williams,Williams,Justin,RW,CAR,,M-NTC,UFA,CCM - Jetspeed,CCM - CL Pro,CCM,CCM - Fitlite 80,Bauer - Nexus 1N
+Stockholm,,SWE,SWE,L,NIKLAS.KRONWALL,Niklas Kronwall,Kronwall,Niklas,D,DET,Groin,,UFA,CCM - Ribcor Reckoner,CCM - HG12,CCM,CCM - Vector V08,CCM - JetSpeed
+Marshfield,MA,USA,USA,L,DAVID.WARSOFSKY,David Warsofsky,Warsofsky,David,D,COL,,,UFA,CCM - Super Tacks,CCM - CL Pro,CCM,CCM - Vector V08,Bauer - Supreme TotalOne MX3
+Winnipeg,MB,CAN,CAN,R,DALE.WEISE,Dale Weise,Weise,Dale,RW,PHI,,,UFA,Bauer - Nexus 1N,Bauer - Supreme 1S,Bauer,Bauer - Re-Akt,Bauer - Supreme 1S
+Edina,MN,USA,USA,L,ANDERS.LEE,Anders Lee,Lee,Anders,LW,NYI,,,UFA,Bauer - Nexus 1N,Bauer - Nexus 1N,Bauer,Bauer - Re-Akt,Bauer - Supreme 1S
+Chatham,ON,CAN,CAN,L,TJ.BRODIE,T.J. Brodie,Brodie,TJ,D,CGY,Upper body,,UFA,CCM - Ribcor Trigger 2 PMT,Warrior - Dynasty AX1,CCM,CCM - Vector V08,Bauer - Supreme 1S
+Halmstad,,SWE,SWE,L,GUSTAV.NYQUIST,Gustav Nyquist,Nyquist,Gustav,RW,DET,,M-NTC,UFA,Warrior - Alpha QX,Warrior - Covert QR1,Warrior,Warrior - Covert PX2,Bauer - Supreme 1S
+Abbotsford,BC,CAN,CAN,L,DEREK.GRANT,Derek Grant,Grant,Derek,C,ANA,,,UFA,Bauer - Nexus 1N,Bauer - Vapor APX2,Bauer,Bauer - Re-Akt,Bauer - Supreme 1S
+Brandon,MB,CAN,CAN,L,MATT.CALVERT,Matt Calvert,Calvert,Matt,LW,CBJ,"Illness, Upper body",,UFA,Bauer - Vapor 1X Lite,Bauer - Vapor 1X,Bauer,Bauer - 4500,TRUE - Pro Custom
+Minneapolis,MN,USA,USA,L,PAUL.MARTIN,Paul Martin,Martin,Paul,D,SJS,Ankle,,UFA,CCM - Super Tacks,CCM - CL Pro,Warrior,CCM - Vector V08,CCM - Super Tacks
+Sterling Heights,MI,USA,USA,R,GREG.PATERYN,Greg Pateryn,Pateryn,Greg,D,DAL,,,UFA,Warrior - Covert QRL,Warrior - Covert QRL,Warrior,Bauer - 4500,Bauer - Supreme 1S
+Thunder Bay,ON,CAN,CAN,L,ERIC.STAAL,Eric Staal,Staal,Eric,C,MIN,,M-NTC,UFA,Bauer - Supreme 1S,Bauer - Nexus 1N,Bauer,Bauer - Re-Akt,Bauer - Nexus 1N
+Vienna,,AUT,AUT,R,THOMAS.VANEK,Thomas Vanek,Vanek,Thomas,LW,"VAN, CBJ",,,UFA,Warrior - Alpha QX,Warrior - Covert QRL,Warrior,CCM - Vector V08,CCM - Super Tacks AS1
+Madison,WI,USA,USA,L,RYAN.SUTER,Ryan Suter,Suter,Ryan,D,MIN,Ankle,,UFA,Warrior - Alpha QX,Warrior - Dynasty AX1,Warrior,Warrior - Covert PX2,Bauer - Nexus 1N
+Shaunavon,SK,CAN,CAN,L,BRAYDON.COBURN,Braydon Coburn,Coburn,Braydon,D,TBL,Undisclosed,M-NTC,UFA,Bauer - Vapor 1X Lite,Bauer - Vapor 1X,CCM,Easton - E400,Bauer - Supreme 1S
+Edmonton,AB,CAN,CAN,L,DION.PHANEUF,Dion Phaneuf,Phaneuf,Dion,D,"OTT, LAK",,,UFA,Easton - Stealth CX,CCM - Quicklite,CCM,CCM - Fitlite,CCM - Tacks
+London,ON,CAN,CAN,R,JEFF.CARTER,Jeff Carter,Carter,Jeff,C,LAK,Ankle,M-NTC,UFA,Bauer - Supreme 1S,Bauer - Vapor 1X,Bauer,Bauer - 4500,Bauer - Vapor 1X
+Ithaca,NY,USA,USA,R,DUSTIN.BROWN,Dustin Brown,Brown,Dustin,RW,LAK,,M-NTC,UFA,Warrior - Covert QRL,Warrior - Covert QRL,CCM,CCM - Fitlite 80,Bauer - Nexus 1N
+Richmond,BC,CAN,CAN,R,BRENT.SEABROOK,Brent Seabrook,Seabrook,Brent,D,CHI,,,UFA,CCM - Ribcor Trigger 2 PMT,CCM - Ultra Tacks,Warrior,CCM - Resistance,Bauer - Nexus 1N
+Quebec City,QC,CAN,CAN,R,STEVE.BERNIER,Steve Bernier,Bernier,Steve,RW,NYI,,,UFA,,,,,
+Minneapolis,MN,USA,USA,L,ZACH.PARISE,Zach Parise,Parise,Zach,LW,MIN,Back,M-NTC,UFA,Easton - Synergy GX,CCM - 4-Roll Pro,CCM,CCM - Resistance,CCM - JetSpeed FT1
+Winkler,MB,CAN,CAN,R,ERIC.FEHR,Eric Fehr,Fehr,Eric,C,"TOR, SJS",Lower body,NMC,UFA,CCM - Ribcor Trigger ASY,CCM - CL Pro,Bauer,CCM - Fitlite 80,Bauer - Vapor 1X
+Regina,SK,CAN,CAN,R,RYAN.GETZLAF,Ryan Getzlaf,Getzlaf,Ryan,C,ANA,Lower body,NMC,UFA,Warrior - Covert QRL,Warrior - Covert QRL,Warrior,Bauer - 4500,Bauer - Vapor 1X 2.0
+Windsor,ON,CAN,CAN,L,MATT.MARTIN,Matt Martin,Martin,Matt,LW,TOR,Undisclosed,,UFA,Warrior - Alpha QX,Warrior - Covert QR1,Warrior,Warrior - Covert PX2,TRUE - Pro Custom
+Livonia,MI,USA,USA,R,RYAN.KESLER,Ryan Kesler,Kesler,Ryan,C,ANA,"Hip, Lower body",,UFA,Warrior - Alpha QX,Warrior - Covert QRL,Warrior,Easton - E400,Bauer - Nexus 1N
+Hingham,MA,USA,USA,L,BRIAN.BOYLE,Brian Boyle,Boyle,Brian,C,NJD,Shoulder,,UFA,Bauer - Nexus 1N,Bauer - Vapor 1X,Bauer,Bauer - Re-Akt,Bauer - Supreme 1S
+Edmonton,AB,CAN,CAN,R,JARED.SPURGEON,Jared Spurgeon,Spurgeon,Jared,D,MIN,Illness,NTC,UFA,Warrior - Alpha QX,Warrior - Covert QRL,Warrior,Warrior - Covert PX2,TRUE - Pro Custom
+Montreal,QC,CAN,CAN,L,MARK.BARBERIO,Mark Barberio,Barberio,Mark,D,COL,Lower body,NTC,UFA,CCM - Super Tacks 2.0,CCM - Quicklite,CCM,CCM - Vector V08,TRUE - Pro Custom
+Calgary,AB,CAN,USA,R,PATRICK.EAVES,Patrick Eaves,Eaves,Patrick,RW,ANA,"Illness, Lower body",,UFA,Warrior - Covert QRL,Warrior - Dynasty AX1,Warrior,Warrior - Krown PX3,Bauer - Vapor 1X
+Thornhill,ON,CAN,CAN,L,DOMINIC.MOORE,Dominic Moore,Moore,Dominic,C,TOR,,,UFA,Warrior - Alpha QX,Bauer - Vapor 1X,Bauer,Bauer - Re-Akt,Bauer - Vapor 1X
+Gothenburg,,SWE,SWE,L,LOUI.ERIKSSON,Loui Eriksson,Eriksson,Loui,LW,VAN,Ribs,M-NTC,UFA,Easton - Stealth CX,Easton - Synergy GX,Bauer,Easton - E400,CCM - JetSpeed
+Stockholm,,SWE,SWE,L,MARCUS.KRUGER,Marcus Kruger,Kruger,Marcus,C,CAR,"Flu, Lower body",M-NTC,UFA,,,,,
+Phoenix,AZ,USA,USA,R,TAGE.THOMPSON,Tage Thompson,Thompson,Tage,C,STL,Undisclosed,,RFA,Bauer - Vapor 1X Lite,Bauer - Supreme TotalOne MX3,Bauer,Bauer - Re-Akt,Bauer - Supreme 1S
+Maple Ridge,BC,CAN,CAN,L,BRAD.HUNT,Brad Hunt,Hunt,Brad,D,VGK,,,UFA,CCM - Ribcor Trigger 2 PMT,Bauer - Vapor 1X,CCM,CCM - Vector V08,TRUE - Pro Custom
+Provost,AB,CAN,CAN,L,LANCE.BOUMA,Lance Bouma,Bouma,Lance,LW,CHI,,M-NTC,UFA,,,,,
+Ancienne-Lorette,QC,CAN,CAN,R,PATRICE.BERGERON,Patrice Bergeron,Bergeron,Patrice,C,BOS,Lower body,NMC,UFA,CCM - Super Tacks 2.0,CCM - 4-Roll Pro,CCM,CCM - Resistance,CCM - Super Tacks AS1
+Malmö,,SWE,SWE,R,RASMUS.ANDERSSON,Rasmus Andersson,Andersson,Rasmus,D,CGY,,,RFA,,,,,
+Mississauga,ON,CAN,CAN,L,ZAC.RINALDO,Zac Rinaldo,Rinaldo,Zac,LW/C,ARI,Upper body,,UFA,Bauer - Nexus 1N,Bauer - Vapor 1X,Bauer,Bauer - Re-Akt 100,Bauer - Vapor 1X 2.0
+Sicamous,BC,CAN,CAN,R,SHEA.WEBER,Shea Weber,Weber,Shea,D,MTL,Lower body,,UFA,Bauer - Supreme TotalOne NXG,Bauer - Supreme 1S,Bauer,CCM - Vector V08,Bauer - Supreme 1S
+Evanston,IL,USA,USA,R,TOMMY.WINGELS,Tommy Wingels,Wingels,Tommy,RW/C,"CHI, BOS",Hand,,UFA,Warrior - Alpha QX,Warrior - Dynasty AX1,Warrior,CCM - Vector V08,TRUE - Pro Custom
+Elkhorn,MB,CAN,CAN,L,TRAVIS.SANHEIM,Travis Sanheim,Sanheim,Travis,D,PHI,,NTC,RFA,Bauer - Supreme 1S,Bauer - Vapor 1X,Bauer,Bauer - Re-Akt 100,TRUE - Pro Custom
+Traverse City,MI,USA,USA,R,ZACH.REDMOND,Zach Redmond,Redmond,Zach,D,BUF,,,UFA,,,,,
+Livonia,MI,USA,USA,L,TOREY.KRUG,Torey Krug,Krug,Torey,D,BOS,Upper body,,UFA,Warrior - Alpha QX,Warrior - Dynasty AX1,Warrior,Warrior - Covert PX2,Bauer - Vapor 1X 2.0
+Moscow,,RUS,RUS,L,ANDREI.MIRONOV,Andrei Mironov,Mironov,Andrei,D,COL,,,RFA,,,,,
+Olten,,CHE,CHE,R,DENIS.MALGIN,Denis Malgin,Malgin,Denis,C,FLA,Upper body,,RFA,Bauer - Nexus 1N,Bauer - Vapor 1X,Bauer,Bauer - Re-Akt,Bauer - Vapor 1X
+Pittsburgh,PA,USA,USA,L,MATT.BARTKOWSKI,Matt Bartkowski,Bartkowski,Matt,D,CGY,,,UFA,CCM - Ribcor Trigger ASY,Easton - Pro,CCM,CCM - Vector V08,Bauer - Nexus 1N
+Quebec City,QC,CAN,CAN,L,CHRISTIAN.WOLANIN,Christian Wolanin,Wolanin,Christian,D,OTT,,,RFA,CCM - Ribcor Trigger 2 PMT,CCM - HG12,CCM,Bauer - Re-Akt,Bauer - Vapor 1X 2.0
+Minneapolis,MN,USA,USA,R,DAVID.BACKES,David Backes,Backes,David,RW,BOS,Knee,,UFA,Warrior - Alpha QX,Warrior - Covert QRL,Warrior,Warrior - Covert PX2,Bauer - Vapor 1X 2.0
+Blaine,MN,USA,USA,L,MATT.HENDRICKS,Matt Hendricks,Hendricks,Matt,LW/C,WPG,"Lower body, Upper body",,UFA,Warrior - Alpha QX,Warrior - Covert QR1,Warrior,Bauer - Re-Akt,TRUE - Pro Custom
+Burnsville,MN,USA,USA,R,J.T..BROWN,J.T. Brown,Brown,J.T.,RW,"TBL, ANA",,,UFA,CCM - Jetspeed,Warrior - Covert QRL,CCM,CCM - Vector V08,CCM - JetSpeed FT1
+Minneapolis,MN,USA,USA,R,MATT.TENNYSON,Matt Tennyson,Tennyson,Matt,D,BUF,Foot,,UFA,,,,,
+Prague,,CZE,CZE,L,DOMINIK.SIMON,Dominik Simon,Simon,Dominik,C,PIT,Lower body,,RFA,CCM - Super Tacks,CCM - 4-Roll Pro,CCM,CCM - Vector V08,Bauer - Vapor 1X
+Kosice,,SVK,SVK,R,CHRISTIAN.JAROS,Christian Jaros,Jaros,Christian,D,OTT,,M-NTC,RFA,,,,,
+Grand Rapids,MI,USA,USA,R,LUKE.GLENDENING,Luke Glendening,Glendening,Luke,RW,DET,"Hand, Upper body",,UFA,CCM - Ribcor Trigger 2 PMT,CCM - Quicklite,CCM,CCM - Vector V08,Bauer - Supreme 1S
+Denver,CO,USA,USA,R,TROY.TERRY,Troy Terry,Terry,Troy,RW,ANA,Undisclosed,M-NTC,RFA,Warrior - Covert QRL,CCM - Quicklite,CCM,Bauer - Re-Akt,Bauer - Vapor 1X 2.0
+Saint-Narcisse,QC,CAN,CAN,L,YANNI.GOURDE,Yanni Gourde,Gourde,Yanni,C,TBL,,,UFA,CCM - Ribcor Trigger 2 PMT,CCM - Ultra Tacks,CCM,CCM - Vector V08,CCM - Super Tacks
+Chaska,MN,USA,USA,L,SHANE.GERSICH,Shane Gersich,Gersich,Shane,LW,WSH,,,RFA,,,,,
+Brandon,MB,CAN,CAN,R,ZACH.WHITECLOUD,Zach Whitecloud,Whitecloud,Zach,D,VGK,,NMC,RFA,,,,,
+Cherry Hill,NJ,USA,USA,R,BOBBY.RYAN,Bobby Ryan,Ryan,Bobby,RW,OTT,Hand,M-NTC,UFA,STX - Stallion HPR,CCM - HG12,Warrior,CCM - Fitlite 80,CCM - JetSpeed
+Regina,SK,CAN,CAN,L,RYAN.MURRAY,Ryan Murray,Murray,Ryan,D,CBJ,"Undisclosed, Upper body",,RFA,Warrior - Covert QR EDGE,TRUE - Pro,Bauer,CCM - Vector V08,TRUE - Pro Custom
+Milwaukee,WI,USA,USA,L,ALEX.GALCHENYUK,Alex Galchenyuk,Galchenyuk,Alex,LW,MTL,,,UFA,Bauer - Supreme 1S,Bauer - Supreme 1S,Bauer,Bauer - Re-Akt,Bauer - Vapor 1X 2.0
+Vancouver,BC,CAN,CAN,L,MORGAN.RIELLY,Morgan Rielly,Rielly,Morgan,D,TOR,Upper body,,UFA,CCM - Jetspeed,CCM - CL Pro,CCM,CCM - Vector V08,CCM - Ribcor 70K
+Helsingborg,,SWE,SWE,L,HAMPUS.LINDHOLM,Hampus Lindholm,Lindholm,Hampus,D,ANA,"Undisclosed, Upper body",,UFA,Warrior - Alpha QX,CCM - CL Pro,CCM,Bauer - Re-Akt,Reebok - 20K
+Nizhnekamsk,,RUS,RUS,L,NAIL.YAKUPOV,Nail Yakupov,Yakupov,Nail,RW,COL,Illness,,RFA,Warrior - Alpha QX,Warrior - Dynasty AX1,Warrior,CCM - Vector V08,CCM - JetSpeed FT1
+Regina,SK,CAN,CAN,R,MATT.DUMBA,Mathew Dumba,Dumba,Matt,D,MIN,,,RFA,CCM - Jetspeed,CCM - Ultra Tacks,CCM,CCM - Resistance,CCM - Ribcor 70K
+Stockholm,,SWE,SWE,R,PONTUS.ABERG,Pontus Aberg,Aberg,Pontus,LW,"NSH, EDM",,,RFA,Bauer - Vapor 1X Lite,Bauer - Vapor 1X,CCM,Bauer - Re-Akt,Bauer - Vapor 1X 2.0
+Toronto,ON,CAN,CAN,L,PHILLIP.DI GIUSEPPE,Phillip Di Giuseppe,Di Giuseppe,Phillip,LW,CAR,,,RFA,CCM - Super Tacks,CCM - HG12,CCM,Bauer - 4500,Bauer - Supreme 1S
+Victoria,BC,CAN,CAN,L,JORDIE.BENN,Jordie Benn,Benn,Jordie,D,MTL,,,UFA,Bauer - Vapor 1X Lite,Bauer - Vapor 1X,Bauer,Easton - E400,Bauer - Supreme 1S
+Haapavesi,,FIN,FIN,L,SAMI.NIKU,Sami Niku,Niku,Sami,D,WPG,,,RFA,,,,,
+Kitchener,ON,CAN,CAN,L,KYLE.QUINCEY,Kyle Quincey,Quincey,Kyle,D,MIN,,,UFA,,,,,
+Lakeville,MN,USA,USA,L,BRADY.SKJEI,Brady Skjei,Skjei,Brady,D,NYR,,,RFA,Bauer - Vapor 1X Lite,Bauer - Nexus 1000,Bauer,Bauer - 4500,Bauer - Vapor 1X 2.0
+Chicago,IL,USA,USA,L,STEFAN.MATTEAU,Stefan Matteau,Matteau,Stefan,C,VGK,,,RFA,,,,,
+Kitchener,ON,CAN,CAN,L,TANNER.PEARSON,Tanner Pearson,Pearson,Tanner,LW,LAK,,,UFA,Bauer - Supreme 1S,Bauer - Supreme 1S,Bauer,Bauer - 4500,Bauer - Vapor 1X 2.0
+Oakville,ON,CAN,CAN,L,SCOTT.LAUGHTON,Scott Laughton,Laughton,Scott,C,PHI,,,RFA,CCM - Ribcor Trigger ASY,CCM - 4-Roll Pro,Bauer,CCM - Resistance,Bauer - Vapor 1X
+Hamilton,ON,CAN,CAN,L,MARK.JANKOWSKI,Mark Jankowski,Jankowski,Mark,C,CGY,,,RFA,CCM - Ribcor Trigger 2 PMT,CCM - CL Pro,CCM,CCM - Vector V08,Bauer - Supreme 1S
+Jyväskylä,,FIN,FIN,L,OLLI.MAATTA,Olli Maatta,Maatta,Olli,D,PIT,,,UFA,Bauer - Supreme 1S,Bauer - Supreme 1S,Bauer,Bauer - Re-Akt,Bauer - Supreme 1S
+Pointe-Claire,QC,CAN,CAN,L,MIKE.MATHESON,Mike Matheson,Matheson,Mike,D,FLA,Upper body,,UFA,CCM - Jetspeed,CCM - Quicklite,CCM,CCM - Vector V08,CCM - Super Tacks
+Madison,WI,USA,USA,R,JORDAN.SCHMALTZ,Jordan Schmaltz,Schmaltz,Jordan,D,STL,Upper body,M-NTC,RFA,CCM - Ribcor Trigger 2 PMT,CCM - CL Pro,CCM,Bauer - Re-Akt,Bauer - Vapor 1X 2.0
+Riga,,LVA,LVA,L,ZEMGUS.GIRGENSONS,Zemgus Girgensons,Girgensons,Zemgus,C,BUF,Undisclosed,,RFA,CCM - Super Tacks 2.0,CCM - CL Pro,Bauer,Bauer - 4500,Bauer - Supreme 1S
+Ottawa,ON,CAN,CAN,R,CODY.CECI,Cody Ceci,Ceci,Cody,D,OTT,,,RFA,CCM - Super Tacks 2.0,CCM - Quicklite,CCM,CCM - Resistance,CCM - JetSpeed FT1
+Toronto,ON,CAN,CAN,R,TOM.WILSON,Tom Wilson,Wilson,Tom,RW,WSH,,,RFA,,,,,
+Praha,,CZE,CZE,L,TOMAS.HERTL,Tomas Hertl,Hertl,Tomas,C,SJS,Shoulder,,RFA,CCM - RBZ Speedburner,CCM - HG12,CCM,CCM - Fitlite 3DS,TRUE - Pro Custom
+Helsinki,,FIN,FIN,L,TEUVO.TERAVAINEN,Teuvo Teravainen,Teravainen,Teuvo,LW,CAR,,,RFA,Bauer - Vapor 1X Lite,CCM - 4-Roll Pro,CCM,Bauer - Re-Akt,Bauer - Vapor 1X 2.0
+Estevan,SK,CAN,CAN,L,DERRICK.POULIOT,Derrick Pouliot,Pouliot,Derrick,D,VAN,,,RFA,Warrior - Alpha QX,Warrior - Dynasty AX1,Warrior,Warrior - Covert PX2,Bauer - Supreme 1S
+Rochester,MI,USA,USA,R,JACOB.TROUBA,Jacob Trouba,Trouba,Jacob,D,WPG,Undisclosed,,RFA,CCM - Jetspeed,CCM - 4-Roll Pro,CCM,CCM - Resistance,CCM - JetSpeed FT1
+Winchester,ON,CAN,CAN,L,SLATER.KOEKKOEK,Slater Koekkoek,Koekkoek,Slater,D,TBL,,,RFA,Warrior - Alpha QX,Warrior - Dynasty AX1,CCM,CCM - Vector V08,Bauer - Vapor 1X
+Ostervala,,SWE,SWE,R,FILIP.FORSBERG,Filip Forsberg,Forsberg,Filip,LW,NSH,Undisclosed,,UFA,CCM - Super Tacks 2.0,CCM - HG12,CCM,CCM - Fitlite 3DS,CCM - Ribcor 50K
+Vitkov,,CZE,CZE,L,RADEK.FAKSA,Radek Faksa,Faksa,Radek,C,DAL,"Foot, Lower body",,RFA,Easton - Stealth CX,CCM - CL Pro,CCM,CCM - Vector V08,Bauer - Supreme 1S
+Ann Arbor,MI,USA,USA,L,PATRICK.SIELOFF,Patrick Sieloff,Sieloff,Patrick,D,OTT,,,RFA,,,,,
+Charlestown,MA,USA,USA,L,MATT.GRZELCYK,Matt Grzelcyk,Grzelcyk,Matt,D,BOS,Lower body,,RFA,Bauer - Vapor 1X Lite,Bauer - Supreme 1S,CCM,Bauer - Re-Akt,CCM - JetSpeed FT1
+St. Albert,AB,CAN,CAN,R,COLTON.PARAYKO,Colton Parayko,Parayko,Colton,D,STL,,,UFA,Warrior - Alpha QX,Warrior - Dynasty AX1,Warrior,Warrior - Covert PX2,Bauer - Vapor 1X 2.0
+Winnipeg,MB,CAN,CAN,L,BRENDAN.LEIPSIC,Brendan Leipsic,Leipsic,Brendan,LW,"VGK, VAN","Upper body, Undisclosed",,RFA,CCM - Ribcor Trigger 2 PMT,Bauer - Vapor 1X,CCM,Bauer - Re-Akt,Bauer - Vapor 1X 2.0
+Boden,,SWE,SWE,R,OSKAR.SUNDQVIST,Oskar Sundqvist,Sundqvist,Oskar,C,STL,,,RFA,Warrior - Alpha AK27 SL,Warrior - Covert QRL,Warrior,Warrior - Covert PX2,Bauer - Vapor 1X
+Belleville,ON,CAN,CAN,L,BRAD.RICHARDSON,Brad Richardson,Richardson,Brad,C,ARI,Upper body,,UFA,CCM - Ribcor Trigger ASY,CCM - 4-Roll Pro,CCM,CCM - Vector V08,CCM - Super Tacks
+Vantaa,,FIN,FIN,L,ESA.LINDELL,Esa Lindell,Lindell,Esa,D,DAL,Illness,,RFA,Bauer - Nexus 1N,Bauer - Vapor 1X,CCM,CCM - Resistance,Bauer - Supreme 1S
+Ottawa,ON,CAN,CAN,L,MARC.METHOT,Marc Methot,Methot,Marc,D,DAL,"Knee, Lower body",NTC,UFA,Warrior - Alpha QX,Warrior - Dynasty AX1,Warrior,Warrior - Covert PX2,Bauer - Vapor 1X 2.0
+Saskatoon,SK,CAN,CAN,L,CHANDLER.STEPHENSON,Chandler Stephenson,Stephenson,Chandler,C,WSH,Upper body,,RFA,,,,,
+Pembroke Pines,FL,USA,USA,L,SHAYNE.GOSTISBEHERE,Shayne Gostisbehere,Gostisbehere,Shayne,D,PHI,"Illness, Upper body",,UFA,Bauer - Vapor 1X Lite,Warrior - Covert QR1,Bauer,CCM - Vector V08,Bauer - Vapor 1X
+Ajax,ON,CAN,CAN,L,DEVIN.SHORE,Devin Shore,Shore,Devin,C,DAL,,,RFA,Bauer - Supreme 1S,Bauer - Vapor 1X,Bauer,Bauer - 4500,Bauer - Supreme 1S
+Surrey,BC,CAN,CAN,L,JUJHAR.KHAIRA,Jujhar Khaira,Khaira,Jujhar,LW,EDM,"Lower body, Upper body",,RFA,Bauer - Nexus 1N,Bauer - Supreme 1S,Bauer,CCM - Vector V08,Bauer - Supreme 1S
+Toronto,ON,CAN,CAN,L,ADAM.PELECH,Adam Pelech,Pelech,Adam,D,NYI,Undisclosed,,RFA,CCM - Ribcor Reckoner,CCM - Quicklite,CCM,CCM - Vector V08,TRUE - Pro Custom
+Boston,MA,USA,USA,L,JIMMY.VESEY,Jimmy Vesey,Vesey,Jimmy,LW,NYR,Concussion,,RFA,Warrior - Alpha QX,Warrior - Dynasty AX1,Warrior,Bauer - Re-Akt,Bauer - Vapor 1X
+Anchorage,AK,USA,USA,L,NATE.THOMPSON,Nate Thompson,Thompson,Nate,C,"OTT, LAK",Lower body,M-NTC,UFA,Warrior - Alpha QX,Warrior - Alpha QX,Warrior,Bauer - 4500,TRUE - Pro Custom
+Brandon,MB,CAN,CAN,L,JORDAN.MARTINOOK,Jordan Martinook,Martinook,Jordan,LW,ARI,Lower body,,UFA,CCM - Ribcor Trigger ASY,CCM - CL Pro,CCM,CCM - Resistance,CCM - Super Tacks
+Syracuse,NY,USA,USA,L,BOO.NIEVES,Boo Nieves,Nieves,Boo,C,NYR,"Flu, Hip",,RFA,,,,,
+Melville,SK,CAN,CAN,R,DAMON.SEVERSON,Damon Severson,Severson,Damon,D,NJD,,M-NTC,UFA,Bauer - Supreme 1S,Bauer - Supreme 1S,Bauer,Bauer - Re-Akt,Bauer - Vapor 1X
+Pelhrimov,,CZE,CZE,R,MARTIN.FRK,Martin Frk,Frk,Martin,RW,DET,Groin,,RFA,Warrior - Alpha QX,Warrior - Alpha QX,CCM,CCM - Vector V08,TRUE - Pro Custom
+North Vancouver,BC,CAN,CAN,R,COLTON.SISSONS,Colton Sissons,Sissons,Colton,C,NSH,Lower body,,RFA,CCM - Jetspeed,CCM - CL Pro,CCM,CCM - Vector V08,CCM - JetSpeed FT1
+Eau Claire,WI,USA,USA,L,JAKE.MCCABE,Jake McCabe,McCabe,Jake,D,BUF,Thumb,,RFA,Warrior - Alpha QX,Warrior - Alpha QX,CCM,CCM - Vector V08,Bauer - Nexus 1N
+Kitchener,ON,CAN,CAN,L,MIKE.HOFFMAN,Mike Hoffman,Hoffman,Mike,LW,OTT,,,UFA,TRUE - A6.0 SBP,TRUE - Pro,CCM,CCM - Fitlite 80,Bauer - Vapor 1X 2.0
+Fergus,ON,CAN,CAN,L,BROCK.MCGINN,Brock McGinn,McGinn,Brock,LW,CAR,Undisclosed,,RFA,CCM - Jetspeed,CCM - HG12,CCM,CCM - Vector V08,Bauer - Vapor 1X
+Swan River,MB,CAN,CAN,L,MICHEAL.FERLAND,Micheal Ferland,Ferland,Micheal,LW,CGY,Lower body,,UFA,CCM - Ribcor Reckoner,CCM - CL Pro,CCM,CCM - Vector V08,Bauer - Nexus 1N
+Plover,WI,USA,USA,R,JOE.PAVELSKI,Joe Pavelski,Pavelski,Joe,C,SJS,,,UFA,Warrior - Covert QRL,Warrior - Covert QR1,Warrior,Warrior - Covert PX2,TRUE - Pro Custom
+Orland Park,IL,USA,USA,R,CONNOR.CARRICK,Connor Carrick,Carrick,Connor,D,TOR,Upper body,,RFA,CCM - Super Tacks 2.0,Verbero - Dextra Pro,Bauer,CCM - Resistance,TRUE - Pro Custom
+St. Paul,AB,CAN,CAN,R,KYLE.BRODZIAK,Kyle Brodziak,Brodziak,Kyle,C,STL,Undisclosed,,UFA,Warrior - Alpha QX,Warrior - Dynasty AX1,Warrior,Bauer - 4500,Bauer - Supreme 1S
+Alma,QC,CAN,CAN,L,CHARLES.HUDON,Charles Hudon,Hudon,Charles,LW,MTL,Upper body,,RFA,Warrior - Covert QR EDGE,Warrior - Alpha QX,Warrior,CCM - Vector V08,Bauer - Vapor 1X 2.0
+Duluth,MN,USA,USA,L,DOMINIC.TONINATO,Dominic Toninato,Toninato,Dominic,C,COL,,,RFA,CCM - Ribcor Trigger 2 PMT,CCM - Super Tacks,CCM,CCM - Fitlite,Bauer - Nexus 1N
+Stouffville,ON,CAN,CAN,L,TREVOR.CARRICK,Trevor Carrick,Carrick,Trevor,D,CAR,,,RFA,,,,,
+Saskatoon,SK,CAN,CAN,L,TAYLOR.LEIER,Taylor Leier,Leier,Taylor,LW,PHI,Upper body,,RFA,CCM - Super Tacks,CCM - CL Pro,CCM,CCM - Vector V08,Bauer - Vapor 1X
+Denver,CO,USA,USA,L,JACCOB.SLAVIN,Jaccob Slavin,Slavin,Jaccob,D,CAR,,,UFA,Bauer - Supreme 1S,Bauer - Vapor 1X,Bauer,Bauer - 5100,Bauer - Nexus 1N
+London,ON,CAN,CAN,L,ANDREAS.ATHANASIOU,Andreas Athanasiou,Athanasiou,Andreas,LW,DET,Illness,,RFA,Bauer - Vapor 1X Lite,Bauer - Vapor 1X,Bauer,Bauer - Re-Akt,Bauer - Vapor 1X
+Aneroid,SK,CAN,CAN,L,PATRICK.MARLEAU,Patrick Marleau,Marleau,Patrick,LW/C,TOR,,,UFA,Warrior - Covert QRL,CCM - 4-Roll Pro,CCM,CCM - Vector V08,Reebok - 9K
+Toronto,ON,CAN,CAN,L,GEMEL.SMITH,Gemel Smith,Smith,Gemel,C,DAL,,,RFA,CCM - RBZ FT1,CCM - HG12,CCM,CCM - Vector V08,TRUE - Pro Custom
+Edmonton,AB,CAN,CAN,L,BRETT.KULAK,Brett Kulak,Kulak,Brett,D,CGY,,,RFA,CCM - Ultra Tacks,CCM - CL Pro,CCM,CCM - Vector V08,Bauer - Supreme 1S
+Omaha,NE,USA,USA,L,JAKE.GUENTZEL,Jake Guentzel,Guentzel,Jake,C,PIT,,,RFA,CCM - Jetspeed,CCM - 4-Roll Pro,CCM,CCM - Vector V08,Bauer - Nexus 1N
+Greenfield Park,QC,CAN,CAN,L,KEVIN.ROY,Kevin Roy,Roy,Kevin,LW,ANA,,,RFA,,,,,
+Nordingra,,SWE,SWE,L,TOBIAS.ENSTROM,Toby Enstrom,Enstrom,Toby,D,WPG,Undisclosed,,UFA,Warrior - Alpha QX,Warrior - Covert QR1,Warrior,CCM - Vector V08,Bauer - Nexus 1N
+Gaspe,QC,CAN,CAN,L,CEDRIC.PAQUETTE,Cedric Paquette,Paquette,Cedric,C,TBL,Undisclosed,,RFA,CCM - Ribcor Trigger 2 PMT,CCM - Quicklite,Bauer,CCM - Vector V08,Bauer - Vapor 1X
+Roseau,MN,USA,USA,R,DUSTIN.BYFUGLIEN,Dustin Byfuglien,Byfuglien,Dustin,D,WPG,Lower body,NMC,UFA,TRUE - A6.0 SBP,Warrior - Covert QR1,Warrior,CCM - Vector V08,TRUE - Pro Custom
+Nynashamn,,SWE,SWE,L,ERIK.GUSTAFSSON,Erik Gustafsson,Gustafsson,Erik,D,CHI,,M-NTC,UFA,CCM - Ribcor Trigger 2 PMT,CCM - 4-Roll Pro,CCM,CCM - Resistance,Bauer - Nexus 1N
+Malmö,,SWE,SWE,L,CARL.SODERBERG,Carl Soderberg,Soderberg,Carl,C,COL,Illness,M-NTC,UFA,Bauer - Supreme 1S,Bauer - Vapor 1X,Bauer,CCM - Vector V08,Bauer - Vapor 1X 2.0
+Berlin,,DEU,USA,R,DANNY.O'REGAN,Daniel O'Regan,O'Regan,Danny,C,"SJS, BUF",,,RFA,,,,,
+Grand Forks,ND,USA,USA,R,PAUL.LADUE,Paul Ladue,LaDue,Paul,D,LAK,,,RFA,CCM - Ribcor Trigger ASY,CCM - Quicklite,CCM,CCM - Vector V08,Bauer - Vapor 1X 2.0
+Winnipeg,MB,CAN,CAN,R,RYAN.REAVES,Ryan Reaves,Reaves,Ryan,RW,"PIT, VGK",,,UFA,CCM - Super Tacks 2.0,CCM - CL Pro,CCM,CCM - Vector V08,CCM - Ribcor 70K
+Chicago,IL,USA,USA,R,VINNIE.HINOSTROZA,Vinnie Hinostroza,Hinostroza,Vinnie,LW,CHI,,,RFA,TRUE - A6.0 SBP,TRUE - Pro,CCM,CCM - Vector V08,TRUE - Pro Custom
+North York,ON,CAN,CAN,L,MATT.MOULSON,Matt Moulson,Moulson,Matt,LW,BUF,,,UFA,,,,,
+Regina,SK,CAN,CAN,L,TANNER.GLASS,Tanner Glass,Glass,Tanner,LW,CGY,,,UFA,Bauer - Vapor 1X Lite,CCM - Ultra Tacks,Bauer,Bauer - Re-Akt,Bauer - Vapor 1X
+Stratford,ON,CAN,CAN,L,JARED.MCCANN,Jared McCann,McCann,Jared,C,FLA,Lower body,,RFA,Bauer - Vapor 1X Lite,Bauer - Vapor 1X,Bauer,CCM - Vector V08,Bauer - Supreme 1S
+St. Agapit,QC,CAN,CAN,L,ANTOINE.VERMETTE,Antoine Vermette,Vermette,Antoine,C,ANA,,M-NTC,UFA,CCM - Ribcor Trigger 2 PMT,Bauer - Vapor 1X,Bauer,Bauer - 4500,Bauer - Nexus 1N
+Detroit,MI,USA,USA,L,DAVID.BOOTH,David Booth,Booth,David,LW,DET,Groin,,UFA,Warrior - Covert QRL,Verbero - Dextra Pro,Warrior,Warrior - Covert PX2,TRUE - Pro Custom
+Fribourg,,CHE,CHE,R,CHRISTOPH.BERTSCHY,Christoph Bertschy,Bertschy,Christoph,C,MIN,,,RFA,,,,,
+Cambridge,ON,CAN,CAN,R,JAKE.DOTCHIN,Jake Dotchin,Dotchin,Jake,D,TBL,Undisclosed,,RFA,CCM - Ribcor Trigger 2 PMT,CCM - HG12,CCM,CCM - Vector V08,Bauer - Supreme 1S
+Markham,ON,CAN,CAN,L,JOSEPH.BLANDISI,Joseph Blandisi,Blandisi,Joseph,LW/C,ANA,Upper body,,RFA,,,,,
+Toronto,ON,CAN,CAN,R,CONNOR.BROWN,Connor Brown,Brown,Connor,RW,TOR,Illness,,RFA,Bauer - Vapor 1X Lite,Bauer - Supreme 1S,Bauer,Bauer - Re-Akt,Bauer - Vapor 1X 2.0
+Brockville,ON,CAN,CAN,L,BEN.HUTTON,Ben Hutton,Hutton,Ben,D,VAN,Foot,,RFA,Bauer - Vapor 1X Lite,Bauer - Vapor 1X,Bauer,Bauer - Re-Akt,Bauer - Vapor 1X 2.0
+Vancouver,BC,CAN,CAN,L,ALEX.KERFOOT,Alexander Kerfoot,Kerfoot,Alexander,C,COL,Leg,,RFA,Bauer - Supreme 1S,Bauer - Vapor 1X,Bauer,Bauer - Re-Akt,Bauer - Vapor 1X 2.0
+Zurich,,CHE,CHE,L,SVEN.ANDRIGHETTO,Sven Andrighetto,Andrighetto,Sven,RW,COL,Lower body,,RFA,Bauer - Supreme 1S,CCM - Quicklite,Bauer,Bauer - 4500,Bauer - Supreme 1S
+Ann Arbor,MI,USA,USA,R,STEVEN.KAMPFER,Steven Kampfer,Kampfer,Steven,D,NYR,Hand,,UFA,Bauer - Supreme 1S,Bauer - Nexus 1000,Bauer,Bauer - Re-Akt,Bauer - Supreme 1S
+Karlskrona,,SWE,SWE,L,JONATHAN.ERICSSON,Jonathan Ericsson,Ericsson,Jonathan,D,DET,Illness,,UFA,CCM - Super Tacks 2.0,CCM - 4-Roll Pro,CCM,CCM - Fitlite 80,CCM - JetSpeed FT1
+Plantation,FL,USA,USA,L,JAYCOB.MEGNA,Jaycob Megna,Megna,Jaycob,D,ANA,,,RFA,,,,,
+St. Louis,MO,USA,USA,L,ADAM.LOWRY,Adam Lowry,Lowry,Adam,C,WPG,Upper body,,RFA,Warrior - Alpha QX,Warrior - Covert QRL,CCM,Bauer - Re-Akt,Bauer - Vapor 1X
+Gothenburg,,SWE,SWE,L,CHRISTIAN.DJOOS,Christian Djoos,Djoos,Christian,D,WSH,Upper body,,RFA,,,,,
+Rumson,NJ,USA,USA,L,JOAKIM.RYAN,Joakim Ryan,Ryan,Joakim,D,SJS,Upper body,,RFA,CCM - Super Tacks,CCM - 4-Roll Pro,CCM,CCM - Vector V08,TRUE - Pro Custom
+Anchorage,AK,USA,USA,L,BRANDON.DUBINSKY,Brandon Dubinsky,Dubinsky,Brandon,C,CBJ,Orbital bone,NMC,UFA,Bauer - Nexus 1N,Bauer - Nexus 1N,Bauer,Bauer - 4500,TRUE - Pro Custom
+Virginia,MN,USA,USA,L,MATT.CULLEN,Matt Cullen,Cullen,Matt,C,MIN,,,UFA,Warrior - Alpha QX,Easton - Synergy GX,CCM,Easton - E400,Bauer - Nexus 1N
+Lewisville,TX,USA,USA,L,NICOLAS.KERDILES,Nicolas Kerdiles,Kerdiles,Nicolas,LW,ANA,,,RFA,,,,,
+Chambersburg,PA,USA,USA,R,STEVEN.FOGARTY,Steven Fogarty,Fogarty,Steven,C,NYR,,,,,,,,
+Halifax,NS,CAN,CAN,L,LIAM.O'BRIEN,Liam O'Brien,O'Brien,Liam,C,WSH,,,RFA,,,,,
+Greenwich,CT,USA,USA,L,KEEGAN.LOWE,Keegan Lowe,Lowe,Keegan,D,EDM,,,UFA,,,,,
+Sauble Beach,ON,CAN,CAN,L,KURTIS.MACDERMID,Kurtis MacDermid,MacDermid,Kurtis,D,LAK,,,RFA,,,,,
+Karlstad,,SWE,SWE,L,VICTOR.EJDSELL,Victor Ejdsell,Ejdsell,Victor,C,CHI,,,RFA,,,,,
+Plano,TX,USA,USA,L,BLAKE.COLEMAN,Blake Coleman,Coleman,Blake,C,NJD,,,RFA,Warrior - Alpha QX,Warrior - Covert QRL,CCM,Bauer - Re-Akt,Bauer - Nexus 1N
+Flin Flon,MB,CAN,CAN,L,ASHTON.SAUTNER,Ashton Sautner,Sautner,Ashton,D,VAN,,,RFA,,,,,
+Glace Bay,NS,CAN,CAN,R,LOGAN.SHAW,Logan Shaw,Shaw,Logan,RW,"ANA, MTL",,,RFA,Warrior - Alpha QX,Warrior - Covert QRL,Warrior,Warrior - Covert PX2,Bauer - Supreme 1S
+Winnipeg,MB,CAN,SWE,L,ALEX.STEEN,Alex Steen,Steen,Alexander,LW,STL,Hand,NMC,UFA,Warrior - Alpha QX,Warrior - Franchise,Warrior,Warrior - Covert PX2,TRUE - Pro Custom
+Vaxjo,,SWE,SWE,L,CALLE.ROSEN,Calle Rosen,Rosen,Calle,D,TOR,,,RFA,,,,,
+Regina,SK,CAN,CAN,R,ETHAN.BEAR,Ethan Bear,Bear,Ethan,D,EDM,,,RFA,,,,,
+Toronto,ON,CAN,CAN,L,MARK.GIORDANO,Mark Giordano,Giordano,Mark,D,CGY,,,UFA,CCM - Super Tacks 2.0,Warrior - Dynasty AX1,CCM,CCM - Vector V08,CCM - JetSpeed FT1
+Ottawa,ON,CAN,CAN,L,MARK.BOROWIECKI,Mark Borowiecki,Borowiecki,Mark,D,OTT,Upper body,,UFA,Warrior - Alpha QX,Warrior - Covert QRL,Warrior,Warrior - Covert PX2,TRUE - Pro Custom
+Bojnice,,SVK,SVK,L,ANDREJ.SEKERA,Andrej Sekera,Sekera,Andrej,D,EDM,Knee,,UFA,Warrior - Covert QR EDGE,Warrior - Dynasty AX1,Warrior,CCM - Vector V08,TRUE - Pro Custom
+Surrey,BC,CAN,CAN,R,NOAH.JUULSEN,Noah Juulsen,Juulsen,Noah,D,MTL,,,RFA,CCM - Ribcor Trigger 2 PMT,CCM - Ultra Tacks,CCM,CCM - Vector V08,Bauer - Vapor 1X
+Fort Lauderdale,FL,USA,USA,R,JAYSON.MEGNA,Jayson Megna,Megna,Jayson,C,VAN,,,UFA,,,,,
+Montreal,QC,CAN,CAN,L,MARCO.SCANDELLA,Marco Scandella,Scandella,Marco,D,BUF,,,UFA,CCM - RBZ Stage 2,Warrior - Covert QR1,CCM,CCM - Vector V08,Bauer - Vapor 1X
+Ornskoldsvik,,SWE,SWE,L,DANIEL.SEDIN,Daniel Sedin,Sedin,Daniel,LW,VAN,Back,NMC,UFA,Bauer - Nexus 1N,Bauer - Vapor 1X,CCM,CCM - Fitlite 80,Bauer - Supreme 1S
+Ornskoldsvik,,SWE,SWE,L,HENRIK.SEDIN,Henrik Sedin,Sedin,Henrik,C,VAN,,NMC,UFA,Bauer - Nexus 1N,Bauer - Vapor 1X,CCM,CCM - Fitlite 80,Bauer - Supreme 1S
+Regina,SK,CAN,CAN,R,TYLER.BOZAK,Tyler Bozak,Bozak,Tyler,C,TOR,Illness,M-NTC,UFA,Easton - Stealth CX,CCM - 4-Roll Pro,CCM,CCM - Vector V08,TRUE - Pro Custom
+Innisfil,ON,CAN,CAN,R,JOSH.LEIVO,Josh Leivo,Leivo,Josh,LW,TOR,,,RFA,Bauer - Vapor 1X Lite,Bauer - Supreme TotalOne MX3,Bauer,Bauer - Re-Akt,TRUE - Pro Custom
+Toronto,ON,CAN,CAN,L,ANDREW.MANGIAPANE,Andrew Mangiapane,Mangiapane,Andrew,LW,CGY,,,RFA,,,,,
+Grande Prairie,AB,CAN,CAN,R,TANNER.FRITZ,Tanner Fritz,Fritz,Tanner,C,NYI,"Illness, Lower body",,UFA,,,,,
+Laurier-Station,QC,CAN,CAN,L,DAVID.DESHARNAIS,David Desharnais,Desharnais,David,C,NYR,"Kidney stones, Wrist",,UFA,Easton - Stealth CX,CCM - HG12,CCM,CCM - Fitlite,CCM - Ribcor 50K
+Sorel-Tracy,QC,CAN,CAN,L,ANTHONY.BEAUVILLIER,Anthony Beauvillier,Beauvillier,Anthony,LW/C,NYI,Leg,,RFA,CCM - Jetspeed,CCM - Ultra Tacks,CCM,CCM - Vector V08,Bauer - Supreme 1S
+Barrie,ON,CAN,CAN,R,BRENT.BURNS,Brent Burns,Burns,Brent,D,SJS,,,UFA,CCM - RBZ Superfast,CCM - CL Pro,CCM,CCM - Fitlite 3DS,CCM - Super Tacks AS1
+Edmonton,AB,CAN,CAN,R,JOHNNY.BOYCHUK,Johnny Boychuk,Boychuk,Johnny,D,NYI,Undisclosed,,UFA,CCM - Ribcor Trigger ASY,CCM - Ultra Tacks,CCM,CCM - Resistance,Bauer - Nexus 1N
+Lakeville,MN,USA,USA,R,JORDAN.SCHROEDER,Jordan Schroeder,Schroeder,Jordan,LW,CBJ,Upper body,,UFA,,,,,
+Landskrona,,SWE,SWE,L,MARCUS.JOHANSSON,Marcus Johansson,Johansson,Marcus,LW,NJD,"Concussion, Lower body",,UFA,Bauer - Vapor 1X Lite,Warrior - Covert QR1,Bauer,Bauer - Re-Akt 100,Bauer - Vapor 1X 2.0
+Smithtown,NY,USA,USA,R,KYLE.PALMIERI,Kyle Palmieri,Palmieri,Kyle,RW,NJD,Lower body,,UFA,Bauer - Vapor 1X Lite,Bauer - Supreme 1S,Warrior,Bauer - 4500,Bauer - Vapor 1X 2.0
+Geneva,IL,USA,USA,R,NICK.LAPPIN,Nick Lappin,Lappin,Nick,RW,NJD,,,RFA,,,,,
+Trail,BC,CAN,CAN,R,LANDON.FERRARO,Landon Ferraro,Ferraro,Landon,C,MIN,Hip,,UFA,,,,,
+Clinton,ON,CAN,CAN,L,RYAN.O'REILLY,Ryan O'Reilly,O'Reilly,Ryan,C,BUF,,,UFA,Warrior - Alpha QX,Warrior - Dynasty AX1,Warrior,Bauer - 4500,TRUE - Pro Custom
+Kelowna,BC,CAN,CAN,L,JOSH.GORGES,Josh Gorges,Gorges,Josh,D,BUF,Lower body,,UFA,Bauer - Vapor 1X Lite,Bauer - Nexus 1N,Bauer,Bauer - Re-Akt,Bauer - Vapor 1X 2.0
+Ayr,ON,CAN,CAN,L,KYLE.CLIFFORD,Kyle Clifford,Clifford,Kyle,LW,LAK,"Undisclosed, Upper body",,UFA,Bauer - Nexus 1N,Bauer - Vapor 1X,Bauer,Easton - E400,Bauer - Vapor 1X 2.0
+Montreal,QC,CAN,CAN,R,ALEX.CHIASSON,Alex Chiasson,Chiasson,Alex,RW,WSH,,,UFA,,,,,
+Gävle,,SWE,SWE,R,JAKOB.SILFVERBERG,Jakob Silfverberg,Silfverberg,Jakob,RW,ANA,Undisclosed,,UFA,Bauer - Vapor 1X Lite,Easton - Synergy GX,Bauer,Bauer - 9900,TRUE - Pro Custom
+Merrimack,NH,USA,USA,L,TIM.SCHALLER,Tim Schaller,Schaller,Tim,C,BOS,,"M-NTC, NMC",UFA,Warrior - Alpha QX,Warrior - Covert QRL,CCM,Warrior - Covert PX2,TRUE - Pro Custom
+Mississauga,ON,CAN,CAN,L,JOHN.TAVARES,John Tavares,Tavares,John,C,NYI,,"M-NTC, NMC",UFA,CCM - Ribcor Trigger 2 PMT,CCM - HG50,CCM,CCM - Resistance,CCM - Super Tacks AS1
+Detroit,MI,USA,USA,L,DANNY.DEKEYSER,Danny DeKeyser,DeKeyser,Danny,D,DET,Ankle,,UFA,Bauer - Supreme 1S,Bauer - Vapor 1X,Bauer,Bauer - Re-Akt,Bauer - Supreme 1S
+Trencin,,SVK,SVK,L,MARIAN.GABORIK,Marian Gaborik,Gaborik,Marian,RW,"LAK, OTT","Knee, Undisclosed",,UFA,Easton - Synergy HTX,Easton - Pro,Bauer,Bauer - 4500,Bauer - Nexus 1N
+Vancouver,BC,CAN,CAN,L,EVANDER.KANE,Evander Kane,Kane,Evander,LW,"BUF, SJS",Arm,,UFA,Bauer - Vapor 1X Lite,Bauer - Vapor 1X,Bauer,Bauer - 5100,Bauer - Vapor 1X 2.0
+Saskatoon,SK,CAN,CAN,L,BRAYDEN.SCHENN,Brayden Schenn,Schenn,Brayden,C,STL,,,UFA,Bauer - Nexus 1N,Bauer - Vapor 1X,Bauer,Bauer - Re-Akt 100,Bauer - Supreme 1S
+Riverside,CT,USA,USA,R,CAM.ATKINSON,Cam Atkinson,Atkinson,Cam,RW,CBJ,Lower body,NMC,UFA,CCM - Jetspeed,Verbero - Dextra Pro,Bauer,Bauer - 4500,Bauer - Supreme 1S
+Wisconsin Rapids,WI,USA,USA,R,CASEY.NELSON,Casey Nelson,Nelson,Casey,D,BUF,Lower body,,UFA,,,,,
+Norrkoping,,SWE,SWE,L,MAGNUS.PAAJARVI,Magnus Paajarvi,Paajarvi,Magnus,LW,"STL, OTT",Foot,,UFA,Warrior - Alpha QX,Warrior - Covert QR1,Warrior,Warrior - Covert PX2,TRUE - Pro Custom
+Hamilton,ON,CAN,CAN,R,RYAN.ELLIS,Ryan Ellis,Ellis,Ryan,D,NSH,Knee,,UFA,Bauer - Nexus 1N,Warrior - Dynasty AX1,Warrior,CCM - Vector V08,Bauer - Vapor 1X
+Carp,ON,CAN,CAN,L,CALVIN.DE HAAN,Calvin de Haan,de Haan,Calvin,D,NYI,Upper body,,UFA,TRUE - A6.0 SBP,TRUE - Pro,Bauer,Bauer - 4500,TRUE - Pro Custom
+Windsor,ON,CAN,CAN,R,ZACK.KASSIAN,Zack Kassian,Kassian,Zack,RW,EDM,"Leg, Undisclosed",NTC,UFA,Bauer - Supreme 1S,Bauer - Vapor 1X,CCM,Bauer - 4500,TRUE - Pro Custom
+Zilina,,SVK,SVK,L,PETER.CEHLARIK,Peter Cehlarik,Cehlarik,Peter,LW,BOS,Leg,,RFA,,,,,
+Brooklyn,NY,USA,USA,R,KEVIN.LABANC,Kevin Labanc,Labanc,Kevin,RW,SJS,,,RFA,CCM - Ribcor Trigger 2 PMT,CCM - HG12,CCM,CCM - Vector V08,Bauer - Vapor 1X
+Eden Prairie,MN,USA,USA,L,NICK.LEDDY,Nick Leddy,Leddy,Nick,D,NYI,Undisclosed,,UFA,Bauer - Supreme 1S,Bauer - Nexus 1000,Bauer,Bauer - 4500,Bauer - Supreme 1S
+Peterborough,ON,CAN,CAN,R,COREY.PERRY,Corey Perry,Perry,Corey,RW,ANA,Leg,NMC,UFA,Warrior - Covert QRL,Warrior - Covert QRL,Warrior,Bauer - Re-Akt,Bauer - Nexus 8000
+Boxford,MA,USA,USA,L,CHRIS.KREIDER,Chris Kreider,Kreider,Chris,LW,NYR,Blood clots,,UFA,Bauer - Nexus 1N,Bauer - Vapor 1X,Bauer,Bauer - Re-Akt,Bauer - Supreme 1S
+Stockholm,,SWE,SWE,L,JACOB.JOSEFSON,Jacob Josefson,Josefson,Jacob,C,BUF,Lower body,,UFA,Easton - Stealth CX,Bauer - Vapor 1X,Bauer,Bauer - 4500,Bauer - Nexus 1N
+Winnetka,IL,USA,USA,L,JOHN.MOORE,John Moore,Moore,John,D,NJD,,M-NTC,UFA,Warrior - Alpha QX,Warrior - Covert QRL,Warrior,Bauer - 4500,Bauer - Vapor 1X
+Davidson,SK,CAN,CAN,L,BRAYDEN.MCNABB,Brayden McNabb,McNabb,Brayden,D,VGK,Upper body,,UFA,CCM - Ribcor Trigger ASY,CCM - HG12,CCM,CCM - Vector V08,CCM - Super Tacks
+Toronto,ON,CAN,CAN,L,REILLY.SMITH,Reilly Smith,Smith,Reilly,RW,VGK,Upper body,,UFA,CCM - Ribcor Reckoner,Bauer - Vapor 1X,Bauer,Bauer - 4500,Bauer - Supreme 1S
+Grand Prairie,AB,CAN,CAN,R,CARTER.ROWNEY,Carter Rowney,Rowney,Carter,RW,PIT,Upper body,,UFA,CCM - Super Tacks 2.0,CCM - CL Pro,CCM,CCM - Fitlite,Bauer - Nexus 1N
+Ilava,,SVK,SVK,L,TOMAS.TATAR,Tomas Tatar,Tatar,Tomas,LW,"DET, VGK",,,UFA,CCM - Jetspeed,CCM - HG12,CCM,CCM - Resistance,CCM - JetSpeed FT1
+Kauniainen,,FIN,FIN,L,KALLE.KOSSILA,Kalle Kossila,Kossila,Kalle,LW/C,ANA,,,RFA,,,,,
+Canton,MA,USA,USA,L,KEVIN.ROONEY,Kevin Rooney,Rooney,Kevin,C,NJD,,,RFA,,,,,
+San Diego,CA,USA,USA,R,CHAD.RUHWEDEL,Chad Ruhwedel,Ruhwedel,Chad,D,PIT,Upper body,,UFA,CCM - Ribcor Trigger 2 PMT,CCM - 4-Roll Pro,CCM,CCM - Vector V08,Bauer - Vapor 1X 2.0
+Toronto,ON,CAN,CAN,L,BRANDON.TANEV,Brandon Tanev,Tanev,Brandon,LW,WPG,"Lower body, Upper body",,RFA,Bauer - Vapor 1X Lite,Bauer - Vapor 1X,Bauer,Bauer - Re-Akt,Bauer - Supreme 1S
+Novokuznetsk,,RUS,RUS,L,DMITRY.ORLOV,Dmitry Orlov,Orlov,Dmitry,D,WSH,,,UFA,,,,,
+Boston,MA,USA,USA,L,PAUL.CAREY,Paul Carey,Carey,Paul,C,NYR,,,UFA,CCM - Super Tacks 2.0,STX - Surgeon 500,CCM,Bauer - 4500,Bauer - Vapor 1X
+Toronto,ON,CAN,CAN,L,BRANDON.PIRRI,Brandon Pirri,Pirri,Brandon,RW/C,VGK,,,UFA,,,,,
+Biddeford,ME,USA,USA,L,BRIAN.DUMOULIN,Brian Dumoulin,Dumoulin,Brian,D,PIT,Concussion,,UFA,Warrior - Alpha QX,Warrior - Covert QRL,Warrior,Warrior - Krown PX3,Bauer - Vapor 1X 2.0
+Martin,,SVK,SVK,L,RICHARD.PANIK,Richard Panik,Panik,Richard,RW,"CHI, ARI",Lower body,,UFA,Bauer - Nexus 1N,Bauer - Supreme 1S,Bauer,Bauer - Re-Akt,Bauer - Vapor 1X 2.0
+Holland,MI,USA,USA,R,LUKE.WITKOWSKI,Luke Witkowski,Witkowski,Luke,RW,DET,,NMC,UFA,CCM - Ribcor Trigger 2 PMT,CCM - 4-Roll Pro,CCM,Bauer - Re-Akt,Bauer - Supreme 1S
+Scottsdale,AZ,USA,USA,L,MATTHEW.TKACHUK,Matthew Tkachuk,Tkachuk,Matthew,LW,CGY,Upper body,,RFA,Warrior - Alpha QX,Bauer - Vapor 1X,Bauer,Bauer - IMS 9.0,Bauer - Vapor 1X 2.0
+Buffalo,NY,USA,CAN,L,MARCUS.FOLIGNO,Marcus Foligno,Foligno,Marcus,LW,MIN,Facial,,UFA,Warrior - Covert QR EDGE,Warrior - Dynasty AX1,Warrior,Warrior - Covert PX2,TRUE - Pro Custom
+San Ramon,CA,USA,USA,L,AUSTON.MATTHEWS,Auston Matthews,Matthews,Auston,C,TOR,Upper body,,RFA,Bauer - Nexus 1N,Bauer - Nexus 1N,Bauer,Bauer - Re-Akt,Bauer - Vapor 1X 2.0
+Haliburton,ON,CAN,CAN,L,MATT.DUCHENE,Matt Duchene,Duchene,Matt,C,"COL, OTT",,,UFA,CCM - Jetspeed,CCM - HG12,CCM,CCM - Fitlite 80,CCM - Ribcor 70K
+Burlington,ON,CAN,CAN,R,JORDAN.SZWARZ,Jordan Szwarz,Szwarz,Jordan,RW,BOS,,,UFA,,,,,
+Madison,WI,USA,USA,R,CRAIG.SMITH,Craig Smith,Smith,Craig,RW,NSH,Lower body,,UFA,Bauer - Supreme 1S,Bauer - Vapor 1X,Bauer,Bauer - Re-Akt,Bauer - Nexus 1N
+St. Louis,MO,USA,USA,R,CHRIS.WIDEMAN,Chris Wideman,Wideman,Chris,D,OTT,Neck,,UFA,Bauer - Vapor 1X Lite,Bauer - Supreme 1S,Bauer,Bauer - Re-Akt,Bauer - Vapor 1X 2.0
+Long Beach,NY,USA,USA,R,CHARLIE.MCAVOY,Charlie McAvoy,McAvoy,Charlie,D,BOS,Knee,,RFA,CCM - Jetspeed,CCM - Quicklite,CCM,CCM - Resistance,Bauer - Supreme 1S
+Toronto,ON,CAN,CAN,L,CASEY.CIZIKAS,Casey Cizikas,Cizikas,Casey,C,NYI,"Lower body, Upper body",,UFA,Warrior - Alpha QX,Warrior - Alpha QX,Warrior,Warrior - Covert PX2,Bauer - Supreme 1S
+St. Hyacinthe,QC,CAN,CAN,R,DAVID.SAVARD,David Savard,Savard,David,D,CBJ,,,UFA,Bauer - Vapor 1X Lite,Bauer - Vapor 1X,Bauer,Bauer - Re-Akt 100,Bauer - Supreme 1S
+LaSalle,QC,CAN,CAN,L,NICOLAS.DESLAURIERS,Nicolas Deslauriers,Deslauriers,Nicolas,LW,MTL,,,UFA,TRUE - XCORE 9,CCM - Quicklite,CCM,Bauer - Re-Akt 100,Bauer - Supreme 1S
+Winnipeg,MB,CAN,CAN,L,CODY.EAKIN,Cody Eakin,Eakin,Cody,C,VGK,Undisclosed,,UFA,CCM - Ribcor Trigger 2 PMT,CCM - Quicklite,Easton,CCM - Resistance,CCM - Super Tacks
+Farmington Hills,MI,USA,USA,R,ALEX.DEBRINCAT,Alex DeBrincat,DeBrincat,Alex,RW,CHI,,,RFA,CCM - Jetspeed,CCM - Ultra Tacks,CCM,CCM - Resistance,CCM - Super Tacks AS1
+Villach,,AUT,AUT,L,MICHAEL.RAFFL,Michael Raffl,Raffl,Michael,LW,PHI,Upper body,,UFA,CCM - Ribcor Trigger 2 PMT,CCM - HG12,CCM,CCM - Vector V08,CCM - Super Tacks
+Tampere,,FIN,FIN,R,PATRIK.LAINE,Patrik Laine,Laine,Patrik,RW,WPG,,,RFA,Bauer - Vapor 1X Lite,Bauer - Vapor 1X,Bauer,Bauer - Re-Akt,Bauer - Vapor 1X
+Edmonton,AB,CAN,CAN,L,KEVIN.CONNAUTON,Kevin Connauton,Connauton,Kevin,D,ARI,Undisclosed,NMC,UFA,Warrior - Alpha QX,Warrior - Dynasty AX1,CCM,Warrior - Covert PX2,Bauer - Vapor 1X
+Chesterfield,MO,USA,USA,L,CLAYTON.KELLER,Clayton Keller,Keller,Clayton,LW/C,ARI,,,RFA,Bauer - Vapor 1X Lite,Bauer - Nexus 1N,Bauer,Bauer - Re-Akt 100,Bauer - Vapor 1X 2.0
+Alvkarleby,,SWE,FIN,R,JESSE.PULJUJARVI,Jesse Puljujarvi,Puljujarvi,Jesse,RW,EDM,,,RFA,Warrior - Covert QRL,Bauer - Supreme 1S,Bauer,Bauer - Re-Akt 100,TRUE - Pro Custom
+Trencin,,SVK,SVK,L,ZDENO.CHARA,Zdeno Chara,Chara,Zdeno,D,BOS,Upper body,M-NTC,UFA,Warrior - Alpha QX,Warrior - Dynasty AX1,Warrior,Warrior - Covert PX2,TRUE - Pro Custom
+Ville Degelis,QC,CAN,CAN,R,GABRIEL.DUMONT,Gabriel Dumont,Dumont,Gabriel,C,"TBL, OTT",Ankle,,UFA,,,,,
+South St.Paul,MN,USA,USA,R,JUSTIN.FAULK,Justin Faulk,Faulk,Justin,D,CAR,"Undisclosed, Upper body",,UFA,Easton - Stealth CX,Bauer - BH Pro,Bauer,CCM - Vector V08,Bauer - Vapor 1X 2.0
+Canton,NY,USA,USA,L,WADE.MEGAN,Wade Megan,Megan,Wade,C,STL,,,UFA,,,,,
+Rimouski,QC,CAN,CAN,L,GABRIEL.BOURQUE,Gabriel Bourque,Bourque,Gabriel,LW,COL,Upper body,,UFA,CCM - Ribcor Trigger 2 PMT,CCM - HG12,CCM,CCM - Vector V08,CCM - Ribcor 50K
+Raleigh,NC,USA,USA,L,LOGAN.BROWN,Logan Brown,Brown,Logan,C,OTT,,,RFA,,,,,
+Molnlycke,,SWE,SWE,L,ANTON.BLIDH,Anton Blidh,Blidh,Anton,LW,BOS,,,RFA,,,,,
+St. Albert,AB,CAN,CAN,L,TYSON.JOST,Tyson Jost,Jost,Tyson,C,COL,"Leg, Lower body",,RFA,CCM - Ribcor Trigger 2 PMT,CCM - Ultra Tacks,CCM,CCM - Vector V08,CCM - Ribcor 70K
+Oulunsalo,,FIN,FIN,L,JANNE.KUOKKANEN,Janne Kuokkanen,Kuokkanen,Janne,C,CAR,,,RFA,,,,,
+Winkler,MB,CAN,CAN,R,BYRON.FROESE,Byron Froese,Froese,Byron,C,MTL,Illness,,UFA,CCM - Ribcor Trigger ASY,CCM - CS 400,CCM,Bauer - Re-Akt,Bauer - Vapor 1X 2.0
+Hamilton,ON,CAN,CAN,L,BEN.CHIAROT,Ben Chiarot,Chiarot,Ben,D,WPG,,,UFA,Warrior - Alpha QX,Warrior - Alpha QX,CCM,CCM - Vector V08,Bauer - Supreme 1S
+Woodbridge,ON,CAN,CAN,L,VICTOR.METE,Victor Mete,Mete,Victor,D,MTL,Finger,,RFA,TRUE - XCORE 9,CCM - CL 500,CCM,CCM - Resistance,Bauer - Vapor 1X
+Oulu,,FIN,FIN,L,MARKUS.GRANLUND,Markus Granlund,Granlund,Markus,C,VAN,Upper body,"M-NTC, NMC",RFA,Warrior - Alpha QX,Warrior - Dynasty AX1,Warrior,Warrior - Covert PX2,Bauer - Vapor 1X
+Pori,,FIN,FIN,L,ERIK.HAULA,Erik Haula,Haula,Erik,LW,VGK,"Flu, Lower body",,UFA,CCM - Ribcor Trigger 2 PMT,CCM - 4-Roll Pro,CCM,CCM - Resistance,TRUE - Pro Custom
+Montreal,QC,CAN,CAN,L,JOHN.GILMOUR,John Gilmour,Gilmour,John,D,NYR,,,RFA,CCM - Super Tacks 2.0,CCM - Ultra Tacks,CCM,Bauer - Re-Akt 100,Bauer - Vapor 1X
+Magnitogorsk,,RUS,RUS,L,EVGENI.MALKIN,Evgeni Malkin,Malkin,Evgeni,C,PIT,Upper body,,UFA,CCM - Super Tacks,Bauer - Supreme 1S,Bauer,Bauer - 4500,Bauer - Vapor 1X 2.0
+Detroit,MI,USA,USA,R,AUSTIN.CZARNIK,Austin Czarnik,Czarnik,Austin,C,BOS,Illness,,UFA,,,,,
+Ottawa,ON,CAN,CAN,R,MACKENZIE.WEEGAR,MacKenzie Weegar,Weegar,MacKenzie,D,FLA,,M-NTC,RFA,Bauer - Vapor 1X Lite,Bauer - Vapor 1X,Bauer,Bauer - Re-Akt,Bauer - Vapor 1X 2.0
+Roberval,QC,CAN,CAN,L,SAMUEL.GIRARD,Samuel Girard,Girard,Samuel,D,"NSH, COL",,,RFA,CCM - Ribcor Trigger 2 PMT,CCM - Super Tacks,CCM,CCM - Vector V08,CCM - Tacks
+Ste-Agathe-Des-Monts,QC,CAN,CAN,L,PIERRE-LUC.DUBOIS,Pierre-Luc Dubois,Dubois,Pierre-Luc,LW/C,CBJ,,,RFA,Bauer - Supreme 1S,Bauer - Supreme 1S,Bauer,Bauer - Re-Akt,Bauer - Nexus 1N
+St. Clair,MI,USA,USA,L,TYLER.MOTTE,Tyler Motte,Motte,Tyler,LW/C,"CBJ, VAN",,NTC,RFA,,,,,
+Sun Prairie,WI,USA,USA,L,WILL.BUTCHER,Will Butcher,Butcher,Will,D,NJD,,,RFA,CCM - Super Tacks 2.0,Warrior - Alpha QX,CCM,Bauer - Re-Akt,Bauer - Vapor 1X
+Helsinki,,FIN,FIN,L,HENRIK.BORGSTROM,Henrik Borgström,Borgstrom,Henrik,C,FLA,,,RFA,Warrior - Covert QR EDGE,Warrior - Dynasty AX1,Warrior,Bauer - 4500,CCM - Super Tacks
+Keswick,ON,CAN,CAN,L,JOEL.HANLEY,Joel Hanley,Hanley,Joel,D,ARI,,,UFA,,,,,
+Moscow,,RUS,RUS,R,ALEX.OVECHKIN,Alex Ovechkin,Ovechkin,Alex,LW,WSH,,M-NTC,UFA,,,,,
+Stockholm,,SWE,SWE,L,JESPER.BRATT,Jesper Bratt,Bratt,Jesper,LW,NJD,Foot,,RFA,Bauer - Vapor 1X Lite,Bauer - Vapor 1X,Bauer,Bauer - Re-Akt 100,Bauer - Supreme 1S
+Maple Ridge,BC,CAN,CAN,L,ANDREW.LADD,Andrew Ladd,Ladd,Andrew,LW,NYI,Upper body,NMC,UFA,Warrior - Covert QR EDGE,Warrior - Covert QR1,Warrior,CCM - Vector V08,TRUE - Pro Custom
+Plymouth,MN,USA,USA,R,BLAKE.WHEELER,Blake Wheeler,Wheeler,Blake,RW,WPG,,M-NTC,UFA,Warrior - Covert QR EDGE,Warrior - Covert QR1,Warrior,Warrior - Krown PX3,Bauer - Vapor 1X 2.0
+Schwenningen,,DEU,DEU,L,DENNIS.SEIDENBERG,Dennis Seidenberg,Seidenberg,Dennis,D,NYI,,,UFA,Bauer - Nexus 1N,Bauer - Nexus 1000,Bauer,Bauer - Re-Akt,Bauer - Supreme 1S
+Viking,AB,CAN,CAN,L,CARSON.SOUCY,Carson Soucy,Soucy,Carson,D,MIN,,,RFA,CCM - Ribcor Trigger 2 PMT,CCM - HG12,CCM,CCM - Vector V08,Bauer - Supreme 1S
+Milwaukee,WI,USA,USA,R,DREW.STAFFORD,Drew Stafford,Stafford,Drew,RW,NJD,Lower body,,UFA,Warrior - Alpha QX,Warrior - Alpha QX,Bauer,CCM - Vector V08,Bauer - Vapor 1X 2.0
+Newmarket,ON,CAN,CAN,L,DARREN.ARCHIBALD,Darren Archibald,Archibald,Darren,RW,VAN,,,UFA,Warrior - Alpha QX,Warrior - Covert QR1,Warrior,Warrior - Covert PX2,TRUE - Pro Custom
+St. Paul,MN,USA,USA,R,NICK.JENSEN,Nick Jensen,Jensen,Nick,D,DET,,,UFA,CCM - Ribcor Trigger 2 PMT,CCM - HG12,CCM,CCM - Vector V08,CCM - Super Tacks AS1
+"Garden River, First Nations",ON,CAN,CAN,L,JORDAN.NOLAN,Jordan Nolan,Nolan,Jordan,LW/C,BUF,,,UFA,CCM - Ribcor Trigger 2 PMT,CCM - HG12,CCM,CCM - Vector V08,Bauer - Vapor 1X
+Yaroslavl,,RUS,RUS,L,VLADIMIR.TARASENKO,Vladimir Tarasenko,Tarasenko,Vladimir,RW,STL,Upper body,,UFA,CCM - Ribcor Reckoner,CCM - 4-Roll Pro,CCM,CCM - Fitlite 80,Reebok - Ribcor
+Ottawa,ON,CAN,CAN,R,BEN.SEXTON,Ben Sexton,Sexton,Ben,C,OTT,,,UFA,,,,,
+Winnipeg,MB,CAN,CAN,R,TRAVIS.ZAJAC,Travis Zajac,Zajac,Travis,C,NJD,Undisclosed,NTC,UFA,Warrior - Alpha QX,Bauer - Vapor 1X,Warrior,Bauer - 4500,Bauer - Vapor 1X 2.0
+Ham Lake,MN,USA,USA,L,JONNY.BRODZINSKI,Jonny Brodzinski,Brodzinski,Jonny,C,LAK,,,RFA,CCM - Ribcor Trigger ASY,CCM - Quicklite,CCM,CCM - Vector V08,CCM - JetSpeed
+Calgary,AB,CAN,CAN,R,MIKE.GREEN,Mike Green,Green,Mike,D,DET,"Lower body, Neck",,UFA,Bauer - Supreme 1S,CCM - HG12,CCM,Bauer - 4500,Bauer - Nexus 1N
+Edmonton,AB,CAN,CAN,L,JAKE.DEBRUSK,Jake Debrusk,DeBrusk,Jake,LW,BOS,Upper body,,RFA,Bauer - Vapor 1X Lite,Bauer - Supreme 1S,Bauer,Bauer - Re-Akt,Bauer - Supreme 1S
+Huntsville,AL,USA,USA,R,NIC.DOWD,Nic Dowd,Dowd,Nic,C,"LAK, VAN",,,UFA,CCM - Ribcor Trigger ASY,CCM - HG12,CCM,CCM - Vector V08,Bauer - Vapor 1X 2.0
+Milwaukee,WI,USA,USA,R,HUDSON.FASCHING,Hudson Fasching,Fasching,Hudson,RW,BUF,,,RFA,,,,,
+Richmond,BC,CAN,CAN,R,TROY.STECHER,Troy Stecher,Stecher,Troy,D,VAN,Leg,,RFA,Bauer - Nexus 1N,Bauer - Supreme 1S,Bauer,Bauer - Re-Akt,Bauer - Supreme 1S
+Edmonton,AB,CAN,CAN,L,TYRELL.GOULBOURNE,Tyrell Goulbourne,Goulbourne,Tyrell,LW,PHI,,,RFA,,,,,
+Chicago,IL,USA,USA,R,JOHN.HAYDEN,John Hayden,Hayden,John,RW,CHI,Upper body,,RFA,,,,,
+Cherepovets,,RUS,RUS,L,PAVEL.BUCHNEVICH,Pavel Buchnevich,Buchnevich,Pavel,RW,NYR,Concussion,,RFA,Bauer - Vapor 1X Lite,Bauer - Vapor 1X,Bauer,Bauer - Re-Akt,Bauer - Supreme 1S
+Meadow Lake,SK,CAN,CAN,R,BLAKE.COMEAU,Blake Comeau,Comeau,Blake,LW,COL,Upper body,,UFA,Warrior - Alpha QX,Warrior - Alpha QX,Warrior,CCM - Vector V08,Bauer - Supreme 1S
+Stockholm,,SWE,SWE,L,MATTIAS.JANMARK,Mattias Janmark,Janmark,Mattias,C,DAL,Illness,,RFA,Bauer - Vapor 1X Lite,Bauer - Vapor 1X,Bauer,Bauer - Re-Akt,Bauer - Nexus 1N
+Pointe-Claire,QC,CAN,CAN,L,ANTHONY.DUCLAIR,Anthony Duclair,Duclair,Anthony,LW,"ARI, CHI",Lower body,,RFA,Bauer - Vapor 1X Lite,Bauer - Vapor 1X,Bauer,Bauer - Re-Akt,Bauer - Vapor 1X 2.0
+Moscow,,RUS,RUS,R,NIKITA.ZAITSEV,Nikita Zaitsev,Zaitsev,Nikita,D,TOR,"Illness, Lower body",M-NTC,UFA,Warrior - Alpha QX,Warrior - Covert QR1,Warrior,Warrior - Covert PX2,Bauer - Nexus 1N
+West Seneca,NY,USA,USA,R,LEE.STEMPNIAK,Lee Stempniak,Stempniak,Lee,RW,CAR,Upper body,,UFA,Easton - Stealth CX,Warrior - Dynasty AX1,Bauer,Warrior - Covert PX2,Bauer - Vapor 1X 2.0
+Prince George,BC,CAN,CAN,L,BRANDON.MANNING,Brandon Manning,Manning,Brandon,D,PHI,Undisclosed,,UFA,CCM - Ultra Tacks,CCM - Tacks,CCM,CCM - Vector V08,Bauer - Supreme 1S
+Penza,,RUS,RUS,R,ANTON.SLEPYSHEV,Anton Slepyshev,Slepyshev,Anton,LW,EDM,"Groin, Lower body",,RFA,Warrior - Alpha QX,Warrior - Covert QRL,Warrior,Warrior - Covert PX2,Bauer - Vapor 1X
+Herning,,DNK,DNK,R,OLIVER.BJORKSTRAND,Oliver Bjorkstrand,Bjorkstrand,Oliver,RW,CBJ,,,RFA,TRUE - XCORE 9,TRUE - Pro,Bauer,CCM - Vector V08,TRUE - Pro Custom
+Pickering,ON,CAN,CAN,L,DRAKE.CAGGIULA,Drake Caggiula,Caggiula,Drake,LW,EDM,"Mouth, Undisclosed",NTC,RFA,CCM - Super Tacks 2.0,CCM - Quicklite,Warrior,Bauer - Re-Akt 100,Bauer - Vapor 1X
+Grand Rapids,MN,USA,USA,L,ALEX.GOLIGOSKI,Alex Goligoski,Goligoski,Alex,D,ARI,Illness,NTC,UFA,CCM - Super Tacks 2.0,CCM - HG12,Easton,CCM - Vector V08,CCM - JetSpeed FT1
+Sternberk,,CZE,CZE,R,DAVID.KREJCI,David Krejci,Krejci,David,C,BOS,Upper body,NMC,UFA,CCM - Ribcor Trigger ASY,CCM - Ultra Tacks,CCM,CCM - Resistance,Bauer - Vapor 1X 2.0
+Buffalo,NY,USA,USA,L,MILES.WOOD,Miles Wood,Wood,Miles,LW,NJD,Upper body,,RFA,Warrior - Alpha QX,Warrior - Dynasty AX1,Warrior,Warrior - Covert PX2,Bauer - Supreme 1S
+Mississauga,ON,CAN,CAN,L,NICK.PAUL,Nick Paul,Paul,Nick,LW,OTT,,,RFA,,,,,
+Kitchener,ON,CAN,CAN,R,JUSTIN.AUGER,Justin Auger,Auger,Justin,RW,LAK,,,RFA,,,,,
+Ann Arbor,MI,USA,USA,L,ANDREW.COPP,Andrew Copp,Copp,Andrew,C,WPG,,,RFA,Bauer - Supreme 1S,Bauer - Vapor 1X,Bauer,Bauer - Re-Akt 100,Bauer - Vapor 1X
+Hamilton,ON,CAN,CAN,L,BEN.HARPUR,Ben Harpur,Harpur,Ben,D,OTT,Shoulder,,RFA,CCM - Jetspeed,CCM - HG12,CCM,CCM - Vector V08,Bauer - Supreme 1S
+Hodonin,,CZE,CZE,L,MICHAL.KEMPNY,Michal Kempny,Kempny,Michal,D,"CHI, WSH",Illness,,UFA,,,,,
+Ivry-sur-Seine,,FRA,FRA,L,YOHANN.AUVITU,Yohann Auvitu,Auvitu,Yohann,D,EDM,Foot,NMC,UFA,Warrior - Covert QR EDGE,Warrior - Covert QRL,Bauer,CCM - Vector V08,Graf - Ultra F 60
+Mississauga,ON,CAN,CAN,R,RYAN.STROME,Ryan Strome,Strome,Ryan,RW/C,EDM,,,RFA,Bauer - Supreme 1S,Bauer - Supreme 1S,Bauer,Bauer - Re-Akt,TRUE - Pro Custom
+Togliatti,,RUS,RUS,L,ALEXEI.EMELIN,Alexei Emelin,Emelin,Alexei,D,NSH,Upper body,,UFA,Warrior - Alpha QX,Warrior - Covert QR1,Warrior,CCM - Vector V08,Bauer - Supreme 1S
+Klagenfurt,,AUT,SWE,L,ANDRE.BURAKOVSKY,Andre Burakovsky,Burakovsky,Andre,LW,WSH,Thumb,,RFA,,,,,
+Grosse Pointe,MI,USA,USA,R,MICHAEL.MCCARRON,Michael McCarron,McCarron,Michael,RW,MTL,,,RFA,,,,,
+Ostersund,,SWE,SWE,L,ALEX.EDLER,Alexander Edler,Edler,Alexander,D,VAN,Knee,,UFA,Warrior - Alpha QX,Warrior - Covert QRL,Warrior,Bauer - Re-Akt 100,Bauer - Supreme 1S
+Eisenstadt,,AUT,SVK,L,MARKO.DANO,Marko Dano,Dano,Marko,C,WPG,,,RFA,CCM - Super Tacks 2.0,CCM - Quicklite,CCM,CCM - Vector V08,Bauer - Vapor 1X
+Regina,SK,CAN,CAN,L,MORGAN.KLIMCHUK,Morgan Klimchuk,Klimchuk,Morgan,LW,CGY,,,RFA,,,,,
+Georgetown,ON,CAN,CAN,L,JASON.DICKINSON,Jason Dickinson,Dickinson,Jason,C,DAL,,,RFA,,,,,
+Hilton Head Isl.,SC,USA,USA,R,RYAN.HARTMAN,Ryan Hartman,Hartman,Ryan,LW/RW,"CHI, NSH",Upper body,,RFA,CCM - Jetspeed,CCM - 4-Roll Pro,CCM,CCM - Vector V08,CCM - Ribcor 50K
+Anaheim,CA,USA,USA,L,IAN.MCCOSHEN,Ian McCoshen,McCoshen,Ian,D,FLA,Upper body,,RFA,Bauer - Supreme 1S,Bauer - Vapor 1X,Bauer,Bauer - Re-Akt,Bauer - Vapor 1X
+Orillia,ON,CAN,CAN,L,CHRIS.BIGRAS,Chris Bigras,Bigras,Chris,D,COL,Illness,,RFA,,,,,
+New Haven,CT,USA,USA,L,ADAM.ERNE,Adam Erne,Erne,Adam,LW,TBL,Lower body,,RFA,CCM - Jetspeed,CCM - Quicklite,CCM,CCM - Vector V08,CCM - JetSpeed FT1
+Arvika,,SWE,SWE,L,JACOB.DE LA ROSE,Jacob de La Rose,de la Rose,Jacob,LW,MTL,,,RFA,Bauer - Nexus 1N,Easton - Synergy GX,CCM,Bauer - Re-Akt,Bauer - Vapor 1X
+Northbrook,IL,USA,USA,R,J.T..COMPHER,J.T. Compher,Compher,J.T.,LW,COL,Upper body,,RFA,Bauer - Vapor 1X Lite,Bauer - Vapor 1X,Bauer,Bauer - Re-Akt,Bauer - Vapor 1X 2.0
+St. Petersburg,,RUS,RUS,R,VALENTIN.ZYKOV,Valentin Zykov,Zykov,Valentin,LW,CAR,,,RFA,,,,,
+Repentigny,QC,CAN,CAN,L,LAURENT.DAUPHIN,Laurent Dauphin,Dauphin,Laurent,C,ARI,Lower body,,RFA,CCM - Super Tacks,CCM - CL Pro,CCM,CCM - Vector V08,CCM - JetSpeed
+Cornwall,ON,CAN,CAN,L,REMI.ELIE,Remi Elie,Elie,Remi,LW,DAL,"Illness, Lower body",,RFA,,,,,
+Uppsala,,SWE,SWE,L,ROBERT.HAGG,Robert Hagg,Hagg,Robert,D,PHI,Lower body,,RFA,Bauer - Nexus 1N,Bauer - Vapor 1X,Bauer,Bauer - Re-Akt,Bauer - Vapor 1X
+Bronxville,NY,USA,USA,R,STEVEN.SANTINI,Steven Santini,Santini,Steven,D,NJD,Upper body,,RFA,CCM - Super Tacks,Bauer - Supreme 1S,Bauer,Bauer - Re-Akt,Bauer - Vapor 1X 2.0
+Delta,BC,CAN,CAN,L,NIC.PETAN,Nic Petan,Petan,Nic,LW,WPG,,,RFA,,,,,
+Boras,,SWE,SWE,L,GUSTAV.OLOFSSON,Gustav Olofsson,Olofsson,Gustav,D,MIN,Concussion,,RFA,CCM - Super Tacks,CCM - CL Pro,CCM,CCM - Vector V08,Bauer - Vapor 1X
+Calgary,AB,CAN,CAN,L,DILLON.HEATHERINGTON,Dillon Heatherington,Heatherington,Dillon,D,DAL,,M-NTC,RFA,,,,,
+Stockholm,,SWE,SWE,L,CARL.DAHLSTROM,Carl Dahlstrom,Dahlstrom,Carl,D,CHI,,,RFA,,,,,
+Buffalo,NY,USA,USA,R,JUSTIN.BAILEY,Justin Bailey,Bailey,Justin,RW,BUF,Lower body,,RFA,,,,,
+Winnipeg,MB,CAN,CAN,R,MADISON.BOWEY,Madison Bowey,Bowey,Madison,D,WSH,,NMC,RFA,,,,,
+Piikkio,,FIN,FIN,L,ARTTURI.LEHKONEN,Artturi Lehkonen,Lehkonen,Artturi,LW,MTL,Lower body,,RFA,Easton - Stealth CX,Easton - Synergy GX,Bauer,Bauer - Re-Akt,Bauer - Nexus 1N
+Thunder Bay,ON,CAN,CAN,L,MARC.STAAL,Marc Staal,Staal,Marc,D,NYR,"Hip, Neck",,UFA,Bauer - Supreme 1S,Bauer - Vapor 1X,Bauer,Bauer - Re-Akt,Bauer - Nexus 1N
+LaSalle,QC,CAN,CAN,L,WILLIAM.CARRIER,William Carrier,Carrier,William,LW,VGK,Upper body,,RFA,TRUE - A6.0 SBP,TRUE - Pro,Bauer,CCM - Vector V08,TRUE - Pro Custom
+Sudbury,ON,CAN,CAN,L,TYLER.BERTUZZI,Tyler Bertuzzi,Bertuzzi,Tyler,LW,DET,,,RFA,CCM - Ribcor Trigger ASY,CCM - HG12,CCM,CCM - Vector V08,TRUE - Pro Custom
+Greenfield Park,QC,CAN,CAN,R,TORREY.MITCHELL,Torrey Mitchell,Mitchell,Torrey,C,"MTL, LAK",Illness,,UFA,Easton - Synergy GX,Bauer - Vapor 1X,Warrior,Bauer - 4500,Bauer - Nexus 1N
+Rochester,NY,USA,USA,R,RYAN.CALLAHAN,Ryan Callahan,Callahan,Ryan,RW,TBL,Upper body,"M-NTC, NMC",UFA,Bauer - Supreme 1S,Bauer - Supreme 1S,Bauer,Bauer - 4500,Bauer - Supreme 1S
+Toronto,ON,CAN,CAN,L,MIKE.LIAMBAS,Mike Liambas,Liambas,Mike,LW,ANA,Undisclosed,,UFA,CCM - Super Tacks 2.0,CCM - 4-Roll Pro,CCM,CCM - Resistance,CCM - Super Tacks
+Tarrytown,NY,USA,USA,R,BRETT.PESCE,Brett Pesce,Pesce,Brett,D,CAR,Upper body,,UFA,Bauer - Supreme 1S,Bauer - Supreme 1S,Bauer,Bauer - Re-Akt,Bauer - Vapor 1X
+Lethbridge,AB,CAN,CAN,R,KRIS.VERSTEEG,Kris Versteeg,Versteeg,Kris,RW,CGY,Hip,,UFA,Warrior - Alpha QX,Warrior - Dynasty AX1,CCM,CCM - Vector V08,CCM - JetSpeed FT1
+Ottawa,ON,CAN,CAN,R,NICHOLAS.BAPTISTE,Nicholas Baptiste,Baptiste,Nicholas,RW,BUF,,,RFA,,,,,
+Halifax,NS,CAN,CAN,R,NATHAN.MACKINNON,Nathan MacKinnon,MacKinnon,Nathan,C,COL,Upper body,,UFA,CCM - Ribcor Trigger 2 PMT,CCM - Ultra Tacks,CCM,CCM - Vector V08,CCM - Ribcor 70K
+Tampere,,FIN,FIN,L,ALEKSANDER.BARKOV,Aleksander Barkov,Barkov,Aleksander,C,FLA,Upper body,,UFA,Bauer - Nexus 1N,Bauer - Vapor 1X,Bauer,Bauer - 5100,Bauer - Vapor 1X
+Ste-Agathe,QC,CAN,CAN,L,JONATHAN.DROUIN,Jonathan Drouin,Drouin,Jonathan,LW/C,MTL,"Lower body, Upper body",,UFA,Warrior - Covert Super Dolomite,CCM - HG12,CCM,CCM - Vector V08,CCM - JetSpeed FT1
+Arlington,TX,USA,USA,R,SETH.JONES,Seth Jones,Jones,Seth,D,CBJ,Upper body,,UFA,CCM - Super Tacks 2.0,CCM - CL Pro,CCM,CCM - Resistance,CCM - Super Tacks
+Boden,,SWE,SWE,R,ELIAS.LINDHOLM,Elias Lindholm,Lindholm,Elias,C,CAR,Illness,,RFA,Warrior - Alpha QX,Warrior - Covert QR1,CCM,Warrior - Covert PX2,Bauer - Vapor 1X 2.0
+Brampton,ON,CAN,CAN,L,SEAN.MONAHAN,Sean Monahan,Monahan,Sean,C,CGY,Wrist,,UFA,Bauer - Vapor 1X Lite,Bauer - Nexus 1000,Bauer,Bauer - Re-Akt,Bauer - Vapor 1X 2.0
+Hamilton,ON,CAN,CAN,L,DARNELL.NURSE,Darnell Nurse,Nurse,Darnell,D,EDM,,,RFA,Warrior - Alpha QX,Warrior - Covert QRL,Warrior,Warrior - Covert PX2,Bauer - Supreme 1S
+Turku,,FIN,FIN,R,RASMUS.RISTOLAINEN,Rasmus Ristolainen,Ristolainen,Rasmus,D,BUF,Upper body,,UFA,Bauer - Nexus 1N,Warrior - Dynasty AX1,Bauer,CCM - Vector V08,Bauer - Supreme 1S
+London,ON,CAN,CAN,L,BO.HORVAT,Bo Horvat,Horvat,Bo,C,VAN,Ankle,,UFA,Bauer - Vapor 1X Lite,Bauer - Vapor 1X,Bauer,Bauer - Re-Akt,Bauer - Vapor 1X 2.0
+Lac-Beauport,QC,CAN,CAN,L,SAMUEL.MORIN,Samuel Morin,Morin,Samuel,D,PHI,,,RFA,,,,,
+Winnipeg,MB,CAN,CAN,L,MAX.DOMI,Max Domi,Domi,Max,LW,ARI,,,RFA,Bauer - Vapor 1X Lite,Warrior - Alpha QX,Warrior,Bauer - Re-Akt 100,Bauer - Vapor 1X 2.0
+Calgary,AB,CAN,CAN,L,JOSH.MORRISSEY,Josh Morrissey,Morrissey,Josh,D,WPG,,,RFA,Warrior - Covert QR EDGE,Warrior - Alpha QX,Warrior,Warrior - Covert PX2,Bauer - Vapor 1X
+Stockholm,,SWE,SWE,L,ALEX.WENNBERG,Alexander Wennberg,Wennberg,Alexander,C,CBJ,Upper body,,UFA,CCM - RBZ Revolution,CCM - Ultra Tacks,CCM,CCM - Resistance,CCM - JetSpeed FT1
+Dauphin,MB,CAN,CAN,R,RYAN.PULOCK,Ryan Pulock,Pulock,Ryan,D,NYI,,NMC,RFA,CCM - Ribcor 40K,CCM - Quicklite,Bauer,Bauer - Re-Akt,TRUE - Pro Custom
+Moscow,,RUS,RUS,L,NIKITA.ZADOROV,Nikita Zadorov,Zadorov,Nikita,D,COL,,"M-NTC, NMC",RFA,Bauer - Vapor 1X Lite,Bauer - Vapor 1X,Bauer,Bauer - Re-Akt 100,Bauer - Supreme 1S
+Salmon Arm,BC,CAN,CAN,R,CURTIS.LAZAR,Curtis Lazar,Lazar,Curtis,RW/C,CGY,,NMC,RFA,Bauer - Nexus 1N,Bauer - Supreme TotalOne MX3,Bauer,Bauer - Re-Akt,Bauer - Vapor 1X 2.0
+Winterthur,,CHE,CHE,L,MIRCO.MUELLER,Mirco Mueller,Mueller,Mirco,D,NJD,Collarbone,,RFA,CCM - RBZ Revolution,CCM - HG50,CCM,CCM - Vector V08,Bauer - Supreme 1S
+Prague,,CZE,CZE,R,RADKO.GUDAS,Radko Gudas,Gudas,Radko,D,PHI,Upper body,,UFA,CCM - Super Tacks,CCM - Quicklite,Bauer,CCM - Resistance,CCM - Ribcor 50K
+Longueuil,QC,CAN,CAN,L,ANTHONY.MANTHA,Anthony Mantha,Mantha,Anthony,RW,DET,Groin,,RFA,CCM - Jetspeed,CCM - HG12,CCM,CCM - Vector V08,CCM - JetSpeed FT1
+Laval,QC,CAN,CAN,L,FREDERIK.GAUTHIER,Frederik Gauthier,Gauthier,Frederik,C,TOR,,,RFA,,,,,
+Halifax,NS,CAN,CAN,L,BRAD.MARCHAND,Brad Marchand,Marchand,Brad,LW,BOS,Upper body,NMC,UFA,Warrior - Alpha QX,Warrior - Dynasty AX1,Warrior,Warrior - Covert PX2,Bauer - Supreme 1S
+Buffalo,NY,USA,USA,L,NICK.FOLIGNO,Nick Foligno,Foligno,Nick,LW,CBJ,Lower body,M-NTC,UFA,Bauer - Nexus 1N,Bauer - Vapor 1X,Bauer,Bauer - 4500,Bauer - Vapor 1X 2.0
+Laval,QC,CAN,CAN,R,JEAN-SEBASTIEN.DEA,Jean-Sebastien Dea,Dea,Jean-Sebastien,C,PIT,,,RFA,,,,,
+Charlottetown,PE,CAN,CAN,L,ROSS.JOHNSTON,Ross Johnston,Johnston,Ross,LW,NYI,,,RFA,CCM - Ribcor Trigger 2 PMT,CCM - Super Tacks,CCM,CCM - Vector V08,TRUE - Pro Custom
+Kindersley,SK,CAN,CAN,R,DEREK.DORSETT,Derek Dorsett,Dorsett,Derek,RW,VAN,Neck,,UFA,,,,,
+Battleford,SK,CAN,CAN,L,COLBY.CAVE,Colby Cave,Cave,Colby,C,BOS,,,RFA,,,,,
+Calgary,AB,CAN,CAN,L,TAYLOR.HALL,Taylor Hall,Hall,Taylor,LW,NJD,"Hand, Knee",NTC,UFA,Easton - Stealth CX,Bauer - Vapor 1X,Bauer,Bauer - Re-Akt,Bauer - Vapor 1X
+Bonney Lake,WA,USA,USA,R,DYLAN.GAMBRELL,Dylan Gambrell,Gambrell,Dylan,C,SJS,,,RFA,Warrior - Alpha QX,Warrior - Dynasty AX1,Warrior,Bauer - 4500,Bauer - Vapor 1X 2.0
+Boston,MA,USA,USA,L,WILL.O'NEILL,Will O'Neill,O'Neill,Will,D,PHI,,,UFA,,,,,
+Alton,IL,USA,USA,L,DAKOTA.MERMIS,Dakota Mermis,Mermis,Dakota,D,ARI,,,RFA,,,,,
+Bloomington,MN,USA,USA,R,ERIK.JOHNSON,Erik Johnson,Johnson,Erik,D,COL,Upper body,,UFA,Warrior - Alpha QX,Warrior - Dynasty AX1,Warrior,Easton - E400,TRUE - Pro Custom
+St. Paul,MN,USA,USA,R,KYLE.OKPOSO,Kyle Okposo,Okposo,Kyle,RW,BUF,"Concussion, Illness","M-NTC, NMC",UFA,Easton - Stealth CX,Warrior - Alpha QX,Bauer,Bauer - Re-Akt,Bauer - Vapor 1X
+Elk River,MN,USA,USA,L,BLAKE.HILLMAN,Blake Hillman,Hillman,Blake,D,CHI,,,RFA,Warrior - Alpha QX,Warrior - Alpha QX,Warrior,Bauer - 4500,Bauer - Vapor 1X 2.0
+Salt Lake City,UT,USA,USA,R,TREVOR.LEWIS,Trevor Lewis,Lewis,Trevor,C,LAK,"Concussion, Upper body",,UFA,Bauer - Supreme 1S,Bauer - Vapor APX2,Bauer,Bauer - 4500,Bauer - Vapor 1X
+Burlington,ON,CAN,CAN,R,JOSH.ANDERSON,Josh Anderson,Anderson,Josh,RW,CBJ,Knee,,RFA,TRUE - A6.0 SBP,CCM - 4-Roll Pro,Bauer,CCM - Vector V08,Bauer - Vapor 1X 2.0
+Toronto,ON,CAN,CAN,L,ANDREW.COGLIANO,Andrew Cogliano,Cogliano,Andrew,LW,ANA,,NMC,UFA,Warrior - Covert QRL,Easton - Pro,Warrior,Bauer - 4500,Bauer - Nexus 8000
+Narva,,EST,FIN,L,LEO.KOMAROV,Leo Komarov,Komarov,Leo,C,TOR,Lower body,,UFA,Warrior - Covert QR EDGE,Bauer - BH Pro,Bauer,Bauer - 4500,Graf - Ultra F 60
+Fergus,ON,CAN,CAN,L,JAMIE.MCGINN,Jamie McGinn,McGinn,Jamie,LW,FLA,Upper body,,UFA,Bauer - Vapor 1X Lite,CCM - Quicklite,Bauer,Bauer - 4500,CCM - Super Tacks
+New Westminster,BC,CAN,CAN,L,BRENDEN.DILLON,Brenden Dillon,Dillon,Brenden,D,SJS,,,UFA,Warrior - Alpha QX,Warrior - Covert QR1,Bauer,Bauer - 4500,TRUE - Pro Custom
+Saskatoon,SK,CAN,CAN,R,ERIC.GRYBA,Eric Gryba,Gryba,Eric,D,EDM,,,UFA,,,,,
+Laval,QC,CAN,CAN,L,GIOVANNI.FIORE,Giovanni Fiore,Fiore,Giovanni,LW,ANA,,,RFA,,,,,
+Vancouver,BC,CAN,CAN,L,MILAN.LUCIC,Milan Lucic,Lucic,Milan,LW,EDM,,M-NTC,UFA,CCM - Ribcor Trigger ASY,Bauer - Vapor 1X,Bauer,Bauer - 9900,Bauer - Supreme 1S
+Vancouver,BC,CAN,CAN,R,TROY.BROUWER,Troy Brouwer,Brouwer,Troy,RW,CGY,Facial,NMC,UFA,Bauer - Nexus 1N,Warrior - Covert QRL,Bauer,Bauer - 5100,Bauer - Vapor 1X 2.0
+Oulu,,FIN,FIN,L,MIKAEL.GRANLUND,Mikael Granlund,Granlund,Mikael,RW,MIN,Groin,,UFA,Warrior - Covert QRL,Warrior - Covert QR1,Warrior,Warrior - Covert PX2,TRUE - Pro Custom
+Vihti,,FIN,FIN,L,EELI.TOLVANEN,Eeli Tolvanen,Tolvanen,Eeli,RW,NSH,,,RFA,CCM - Jetspeed,CCM - 4-Roll Pro,CCM,CCM - Fitlite 3DS,CCM - JetSpeed FT1
+Moscow,,RUS,RUS,L,MAXIM.MAMIN,Maxim Mamin,Mamin,Maxim,LW/C,FLA,,,RFA,Bauer - Vapor 1X Lite,CCM - Ultra Tacks,Bauer,Bauer - Re-Akt,Bauer - Vapor 1X
+Warren,MI,USA,USA,L,MATT.HUNWICK,Matt Hunwick,Hunwick,Matt,D,PIT,"Undisclosed, Upper body",M-NTC,UFA,Bauer - Nexus 1N,Bauer - Supreme TotalOne MX3,Bauer,Bauer - Re-Akt,Bauer - Nexus 1N
+Toronto,ON,CAN,CAN,R,CHRIS.STEWART,Chris Stewart,Stewart,Chris,RW,"MIN, CGY",,,UFA,Warrior - Covert QR EDGE,Warrior - Covert QR1,Warrior,Bauer - 4500,CCM - Tacks
+Medicine Hat,AB,CAN,CAN,L,CURTIS.VALK,Curtis Valk,Valk,Curtis,LW/C,FLA,,,RFA,,,,,
+Windsor,ON,CAN,CAN,L,MATT.BELESKEY,Matt Beleskey,Beleskey,Matt,LW,"BOS, NYR",,,UFA,CCM - Ribcor Trigger 2 PMT,CCM - 4-Roll Pro,Warrior,CCM - Vector V08,TRUE - Pro Custom
+Burlington,ON,CAN,CAN,R,JOSH.JOORIS,Josh Jooris,Jooris,Josh,RW,"CAR, PIT",Lower body,,UFA,Warrior - Alpha QX,Warrior - Covert QRL,Warrior,Warrior - Covert PX2,Bauer - Supreme 1S
+Edmonton,AB,CAN,CAN,R,BRYAN.LITTLE,Bryan Little,Little,Bryan,C,WPG,,,UFA,Warrior - Alpha QX,Bauer - Vapor 1X,Bauer,Bauer - 4500,Bauer - Vapor 1X 2.0
+Richmond Hill,ON,CAN,CAN,L,RYAN.LOMBERG,Ryan Lomberg,Lomberg,Ryan,LW,CGY,,,RFA,,,,,
+Braintree,MA,USA,USA,R,ADAM.GAUDETTE,Adam Gaudette,Gaudette,Adam,C,VAN,,,RFA,Bauer - Vapor 1X Lite,Bauer - Vapor 1X,Bauer,Bauer - Re-Akt,Bauer - Supreme 1S
+Welland,ON,CAN,CAN,R,CAL.CLUTTERBUCK,Cal Clutterbuck,Clutterbuck,Cal,RW,NYI,Undisclosed,,UFA,Bauer - Vapor 1X Lite,Easton - Stealth STH,Bauer,Bauer - Re-Akt,Bauer - Nexus 1N
+Lipetsk,,RUS,RUS,L,DMITRY.KULIKOV,Dmitry Kulikov,Kulikov,Dmitry,D,WPG,Lower body,,UFA,Warrior - Covert QR EDGE,Warrior - Alpha QX,Bauer,Bauer - Re-Akt,Bauer - Vapor 1X 2.0
+Cherepovets,,RUS,RUS,L,VADIM.SHIPACHYOV,Vadim Shipachyov,Shipachyov,Vadim,LW/C,VGK,,,,,,,,
+Whitby,ON,CAN,CAN,L,JAMES.NEAL,James Neal,Neal,James,LW,VGK,"Hand, Illness",M-NTC,UFA,Easton - Stealth CX,Easton - Pro,Bauer,CCM - Resistance,Bauer - Vapor 1X 2.0
+Torrance,CA,USA,USA,L,KERBY.RYCHEL,Kerby Rychel,Rychel,Kerby,LW,MTL,,,RFA,,,,,
+Hearst,ON,CAN,CAN,R,CLAUDE.GIROUX,Claude Giroux,Giroux,Claude,C,PHI,,,UFA,Bauer - Vapor 1X LE,Bauer - Vapor APX2,Bauer,Bauer - Re-Akt,Bauer - Vapor 1X
+Peterborough,ON,CAN,CAN,R,MIKE.FISHER,Mike Fisher,Fisher,Mike,C,NSH,,,UFA,Warrior - Alpha QX,Bauer - Vapor 1X,Bauer,Bauer - Re-Akt 100,Bauer - Supreme 1S
+Montreal,QC,CAN,CAN,R,ALEX.BIEGA,Alex Biega,Biega,Alex,D,VAN,,,UFA,CCM - Super Tacks,CCM - 4-Roll Pro,CCM,CCM - Vector V08,CCM - JetSpeed
+Toronto,ON,CAN,CAN,L,DANIEL.WINNIK,Daniel Winnik,Winnik,Daniel,LW,MIN,,,UFA,Bauer - Supreme 1S,Bauer - Vapor 1X,Bauer,Bauer - 4500,CCM - Super Tacks
+Thunder Bay,ON,CAN,CAN,L,JORDAN.STAAL,Jordan Staal,Staal,Jordan,C,CAR,,,UFA,Bauer - Supreme 1S,Bauer - BH Pro,Bauer,Bauer - 5100,Bauer - Vapor 1X 2.0
+Virginia,MN,USA,USA,R,MATT.NISKANEN,Matt Niskanen,Niskanen,Matt,D,WSH,Upper body,,UFA,,,,,
+Toronto,ON,CAN,CAN,L,PETER.HOLLAND,Peter Holland,Holland,Peter,C,NYR,,,UFA,Easton - Synergy GX,CCM - Ultra Tacks,CCM,Bauer - Re-Akt 100,Bauer - Vapor 1X
+Prince Albert,SK,CAN,CAN,R,ADAM.CRACKNELL,Adam Cracknell,Cracknell,Adam,RW,"DAL, NYR",,,UFA,,,,,
+Brampton,ON,CAN,CAN,R,TYLER.SEGUIN,Tyler Seguin,Seguin,Tyler,C,DAL,,,UFA,Bauer - Vapor 1X Lite,Bauer - Vapor 1X,Bauer,Easton - E400,Bauer - Vapor 1X 2.0
+Sorel,QC,CAN,CAN,L,FRANCOIS.BEAUCHEMIN,Francois Beauchemin,Beauchemin,Francois,D,ANA,,,UFA,CCM - Super Tacks 2.0,CCM - CL Pro,CCM,CCM - Fitlite,CCM - Super Tacks
+Villach,,AUT,AUT,L,MICHAEL.GRABNER,Michael Grabner,Grabner,Michael,RW,"NYR, NJD",Flu,,UFA,STX - Stallion HPR,STX - Surgeon 500,Bauer,CCM - Vector V08,Bauer - Supreme 1S
+Rochester,NY,USA,USA,R,BRIAN.GIONTA,Brian Gionta,Gionta,Brian,RW,BOS,,,UFA,CCM - Ribcor Trigger ASY,Warrior - Dynasty AX1,Warrior,Warrior - Covert PX2,Bauer - Nexus 1N
+Madison,WI,USA,USA,R,PHIL.KESSEL,Phil Kessel,Kessel,Phil,RW,PIT,,M-NTC,UFA,Easton - Stealth CX,Bauer - Nexus 1000,CCM,Bauer - 7500,Bauer - Vapor APX2
+Toronto,ON,CAN,CAN,R,JASON.SPEZZA,Jason Spezza,Spezza,Jason,C,DAL,Back,"M-NTC, NMC",UFA,Easton - Stealth CX,Warrior - Luxe,CCM,Easton - E400,CCM - Ribcor 70K
+Rødovre,,DNK,DNK,R,JANNIK.HANSEN,Jannik Hansen,Hansen,Jannik,RW,SJS,,M-NTC,UFA,Bauer - Vapor 1X Lite,CCM - 4-Roll Pro,CCM,Bauer - Re-Akt 100,Bauer - Nexus 7000
+Turku,,FIN,FIN,L,MIKKO.KOIVU,Mikko Koivu,Koivu,Mikko,C,MIN,,NMC,UFA,Warrior - Alpha QX,Warrior - Dynasty AX1,Warrior,CCM - Vector V08,Bauer - Nexus 1N
+Munich,,DEU,DEU,R,KORBINIAN.HOLZER,Korbinian Holzer,Holzer,Korbinian,D,ANA,,NMC,UFA,Warrior - Alpha QX,Warrior - Covert QR1,Warrior,Bauer - Re-Akt,TRUE - Pro Custom
+Smithers,BC,CAN,CAN,L,DAN.HAMHUIS,Dan Hamhuis,Hamhuis,Dan,D,DAL,Groin,NTC,UFA,Easton - Stealth CX,Bauer - Vapor 1X,Bauer,Bauer - Re-Akt,Bauer - Supreme 1S
+Pardubice,,CZE,CZE,R,ALES.HEMSKY,Ales Hemsky,Hemsky,Ales,RW,MTL,Concussion,,UFA,Easton - Stealth CX,Easton - Synergy GX,Bauer,Easton - E400,Bauer - Supreme 1S
+Gävle,,SWE,SWE,L,NICKLAS.BACKSTROM,Nicklas Backstrom,Backstrom,Nicklas,C,WSH,Illness,M-NTC,UFA,,,,,
+Kladno,,CZE,CZE,L,MICHAEL.FROLIK,Michael Frolik,Frolik,Michael,RW,CGY,Jaw,,UFA,CCM - Ribcor Trigger 2 PMT,Warrior - Dynasty AX1,CCM,CCM - Vector V08,Bauer - Supreme 1S
+Elk River,MN,USA,USA,R,NATE.PROSSER,Nate Prosser,Prosser,Nate,D,"STL, MIN",,,UFA,Bauer - Vapor 1X Lite,Bauer - Vapor APX2,Bauer,Bauer - 4500,Bauer - Supreme 1S
+Yaroslavl,,RUS,RUS,L,ARTEM.ANISIMOV,Artem Anisimov,Anisimov,Artem,C,CHI,Upper body,NMC,UFA,Warrior - Alpha AK27 SL,Warrior - Covert QR1,Warrior,Bauer - 5100,Bauer - Vapor 1X
+Mississauga,ON,CAN,CAN,L,SHAWN.MATTHIAS,Shawn Matthias,Matthias,Shawn,LW,WPG,Upper body,,UFA,TRUE - A6.0 SBP,CCM - Super Tacks,Bauer,Bauer - 4500,Bauer - Vapor 1X
+Victoria,BC,CAN,CAN,L,MATT.IRWIN,Matt Irwin,Irwin,Matt,D,NSH,,,UFA,CCM - Super Tacks 2.0,CCM - CL Pro,CCM,CCM - Fitlite,Bauer - Nexus 1N
+Magnitogorsk,,RUS,RUS,L,NIKOLAY.KULEMIN,Nikolai Kulemin,Kulemin,Nikolay,LW,NYI,Upper body,,UFA,Warrior - Covert QRL,Warrior - Dynasty AX1,Warrior,Bauer - Re-Akt,TRUE - Pro Custom
+Judique,NS,CAN,CAN,L,ANDREW.MACDONALD,Andrew MacDonald,MacDonald,Andrew,D,PHI,"Lower body, Upper body",,UFA,Bauer - Vapor 1X Lite,Bauer - Vapor 1X,CCM,Bauer - Re-Akt,Bauer - Vapor 1X 2.0
+Nizhnekamsk,,RUS,RUS,L,MIKHAIL.SERGACHEV,Mikhail Sergachev,Sergachev,Mikhail,D,TBL,,,RFA,CCM - RBZ Revolution,Bauer - Supreme 1S,Bauer,Bauer - Re-Akt,Bauer - Vapor 1X 2.0
+Toronto,ON,CAN,CAN,L,MIKE.CAMMALLERI,Mike Cammalleri,Cammalleri,Michael,LW,"LAK, EDM",Undisclosed,,UFA,Warrior - Covert QR EDGE,Warrior - Covert QRL,Bauer,Easton - E400,Bauer - Vapor 1X 2.0
+Sault Ste. Marie,ON,CAN,CAN,R,CHRIS.THORBURN,Chris Thorburn,Thorburn,Chris,RW,STL,,,UFA,Warrior - Covert QRL,Warrior - Alpha QX,Warrior,Bauer - 5100,Bauer - Nexus 1N
+Kromeriz,,CZE,CZE,L,FILIP.CHYTIL,Filip Chytil,Chytil,Filip,C,NYR,,,RFA,,,,,
+Repentigny,QC,CAN,USA,R,JASON.POMINVILLE,Jason Pominville,Pominville,Jason,RW,BUF,,M-NTC,UFA,CCM - Ribcor Trigger ASY,CCM - CL Pro,CCM,CCM - Vector V08,CCM - Super Tacks
+Winnipeg,MB,CAN,CAN,L,JONATHAN.TOEWS,Jonathan Toews,Toews,Jonathan,C,CHI,Upper body,NMC,UFA,Bauer - Nexus 2N,Bauer - Supreme 1S,Bauer,Bauer - 4500,Bauer - Nexus 1N
+Korkino,,RUS,RUS,R,ARTEMI.PANARIN,Artemi Panarin,Panarin,Artemi,LW,CBJ,,,UFA,CCM - Jetspeed,CCM - Ultra Tacks,Bauer,CCM - Tacks 710,CCM - JetSpeed FT1
+Montreal,QC,CAN,CAN,R,KRIS.LETANG,Kris Letang,Letang,Kris,D,PIT,Lower body,,UFA,Easton - Stealth CX,Warrior - Dynasty AX1,CCM,Bauer - Re-Akt,Bauer - Supreme 1S
+Ust-Kamenogorsk,,KAZ,RUS,L,VICTOR.ANTIPIN,Victor Antipin,Antipin,Victor,D,BUF,Illness,,RFA,Bauer - Vapor 1X Lite,Bauer - Vapor 1X,Bauer,Bauer - Re-Akt,Bauer - Supreme 1S
+Kladno,,CZE,CZE,L,TOMAS.PLEKANEC,Tomas Plekanec,Plekanec,Tomas,C,"MTL, TOR",,,UFA,Sherwood - Rekker EK365,Sherwood - Pro Custom,CCM,CCM - Vector V08,Bauer - Nexus 1N
+Drummondville,QC,CAN,CAN,L,MATHIEU.PERREAULT,Mathieu Perreault,Perreault,Mathieu,C,WPG,Lower body,,UFA,Warrior - Alpha QX,TRUE - Pro,Bauer,Bauer - Re-Akt 100,Bauer - Vapor 1X 2.0
+Kingsville,ON,CAN,CAN,R,DALTON.PROUT,Dalton Prout,Prout,Dalton,D,NJD,,NTC,UFA,,,,,
+Nizhny Tagil,,RUS,RUS,L,ALEX.RADULOV,Alexander Radulov,Radulov,Alexander,RW,DAL,,NMC,UFA,CCM - Super Tacks,Bauer - Vapor 1X,Bauer,Easton - E400,Bauer - Vapor 1X 2.0
+Caroline,AB,CAN,CAN,L,KRIS.RUSSELL,Kris Russell,Russell,Kris,D,EDM,"Hand, Undisclosed",,UFA,Bauer - Nexus 1N,Bauer - Nexus 1N,Bauer,Bauer - 4500,Bauer - Supreme 1S
+Winnipeg,MB,CAN,CAN,R,PATRICK.SHARP,Patrick Sharp,Sharp,Patrick,LW,CHI,,M-NTC,UFA,,,,,
+Toronto,ON,CAN,CAN,R,CHRIS.TANEV,Chris Tanev,Tanev,Christopher,D,VAN,"Mouth, Thumb",,UFA,Bauer - Supreme 1S,Bauer - Vapor APX,Bauer,Bauer - 4500,Bauer - Vapor 1X
+Oslo,,NOR,NOR,L,MATS.ZUCCARELLO,Mats Zuccarello,Zuccarello,Mats,RW,NYR,Undisclosed,,UFA,Bauer - Vapor 1X Lite,Bauer - Vapor APX2,Bauer,Bauer - Re-Akt,Bauer - Vapor 1X 2.0
+Zhukovskiy,,RUS,RUS,L,VLADISLAV.NAMESTNIKOV,Vladislav Namestnikov,Namestnikov,Vladislav,C,"TBL, NYR",,,RFA,Bauer - Vapor 1X Lite,Warrior - Covert QRL,Bauer,Bauer - Re-Akt,Bauer - Vapor 1X
+Ostrava,,CZE,CZE,R,ROMAN.POLAK,Roman Polak,Polak,Roman,D,TOR,Illness,,UFA,Warrior - Covert QR EDGE,Warrior - Dynasty AX1,Warrior,CCM - Resistance,Bauer - Nexus 8000
+Gävle,,SWE,SWE,R,CALLE.JARNKROK,Calle Jarnkrok,Jarnkrok,Calle,C,NSH,Upper body,,UFA,Warrior - Alpha QX,Warrior - Covert QRL,Bauer,Bauer - Re-Akt,Bauer - Nexus 1N
+Skellefteå,,SWE,SWE,L,OSCAR.LINDBERG,Oscar Lindberg,Lindberg,Oscar,C,VGK,Upper body,,UFA,Easton - Stealth CX,CCM - HG10KN,CCM,CCM - Vector V08,Bauer - Vapor X7.0
+Kosice,,SVK,SVK,L,MARTIN.MARINCIN,Martin Marincin,Marincin,Martin,D,TOR,,,RFA,,,,,
+Tonka Bay,MN,USA,USA,R,JUSTIN.HOLL,Justin Holl,Holl,Justin,D,TOR,,M-NTC,RFA,,,,,
+Edmonton,AB,CAN,CAN,L,DAVID.SCHLEMKO,David Schlemko,Schlemko,David,D,MTL,Upper body,,UFA,Easton - Stealth CX,CCM - HG12,CCM,CCM - Vector V08,CCM - JetSpeed FT1
+Newport Beach,CA,USA,USA,L,JASON.ZUCKER,Jason Zucker,Zucker,Jason,LW,MIN,,,RFA,Warrior - Alpha QX,Warrior - Dynasty AX1,Warrior,Warrior - Krown PX3,TRUE - Pro Custom
+Scarborough,ON,CAN,CAN,R,TYLER.TOFFOLI,Tyler Toffoli,Toffoli,Tyler,C,LAK,,NTC,UFA,CCM - Ribcor Trigger 2 PMT,CCM - HG12,CCM,CCM - Vector V08,Bauer - Vapor 1X
+Ottawa,ON,CAN,CAN,L,RYAN.SPOONER,Ryan Spooner,Spooner,Ryan,C,"BOS, NYR",Lower body,,RFA,Bauer - Supreme 1S,Verbero - Dextra Pro,Bauer,Bauer - Re-Akt,Bauer - Supreme 1S
+Lau,,SWE,SWE,L,JOHAN.LARSSON,Johan Larsson,Larsson,Johan,C,BUF,,NMC,RFA,Bauer - Supreme 1S,CCM - 4-Roll Pro,Bauer,CCM - Vector V08,Bauer - Nexus 1N
+Kansas City,MO,USA,USA,R,MARK.ALT,Mark Alt,Alt,Mark,D,"PHI, COL",,,UFA,CCM - Ribcor Trigger 2 PMT,CCM - Ultra Tacks,CCM,CCM - Vector V08,Bauer - Supreme 1S
+Ellwood City,PA,USA,USA,R,STEPHEN.JOHNS,Stephen Johns,Johns,Stephen,D,DAL,Upper body,,RFA,CCM - Super Tacks 2.0,CCM - CL Pro,CCM,CCM - Vector V08,Bauer - Supreme 1S
+St. Thomas,ON,CAN,CAN,L,GREG.MCKEGG,Greg McKegg,McKegg,Greg,C,PIT,,,RFA,,,,,
+Everett,MA,USA,USA,L,CONNOR.BRICKLEY,Connor Brickley,Brickley,Connor,LW/C,FLA,Upper body,,UFA,CCM - Ribcor Trigger ASY,CCM - Tacks,CCM,Bauer - Re-Akt,Bauer - Supreme 1S
+North Vancouver,BC,CAN,CAN,R,JORDAN.WEAL,Jordan Weal,Weal,Jordan,C,PHI,Upper body,,UFA,Bauer - Vapor 1X Lite,CCM - CL 500,CCM,CCM - Vector V08,Bauer - Supreme 1S
+Shawinigan,QC,CAN,CAN,L,MICHAEL.BOURNIVAL,Michael Bournival,Bournival,Michael,LW,TBL,,,RFA,,,,,
+Oulu,,FIN,FIN,L,MARKUS.NUTIVAARA,Markus Nutivaara,Nutivaara,Markus,D,CBJ,Upper body,,UFA,Bauer - Vapor 1X Lite,Warrior - Covert QRL,Warrior,Warrior - Covert PX2,TRUE - Pro Custom
+Grimsby,ON,CAN,CAN,R,KEVIN.BIEKSA,Kevin Bieksa,Bieksa,Kevin,D,ANA,Hand,,UFA,Easton - Synergy GX,Easton - Synergy HSX,Easton,Bauer - Re-Akt,Easton - Mako II
+Chelyabinsk,,RUS,RUS,L,EVGENY.KUZNETSOV,Evgeny Kuznetsov,Kuznetsov,Evgeny,C,WSH,Upper body,,UFA,,,,,
+E. Weymouth,MA,USA,USA,R,CHARLIE.COYLE,Charlie Coyle,Coyle,Charlie,C,MIN,Leg,,UFA,CCM - Jetspeed,Warrior - Covert QRL,CCM,Bauer - 4500,TRUE - Pro Custom
+Stockholm,,SWE,SWE,L,PATRIK.NEMETH,Patrik Nemeth,Nemeth,Patrik,D,COL,"Lower body, Shoulder",M-NTC,RFA,Warrior - Covert QR EDGE,Warrior - Alpha QX,Warrior,CCM - Vector V08,CCM - JetSpeed FT1
+Oklahoma City,OK,USA,USA,L,JON.MERRILL,Jonathon Merrill,Merrill,Jon,D,VGK,Undisclosed,NTC,UFA,Warrior - Alpha QX,CCM - HG12,CCM,CCM - Resistance,CCM - Ribcor 50K
+Minneapolis,MN,USA,USA,R,TYLER.PITLICK,Tyler Pitlick,Pitlick,Tyler,C,DAL,Undisclosed,,UFA,CCM - Super Tacks 2.0,CCM - Quicklite,CCM,Bauer - Re-Akt 100,Bauer - Supreme 1S
+Binscarth,MB,CAN,CAN,L,CODY.MCLEOD,Cody McLeod,McLeod,Cody,LW,"NSH, NYR",Abdominal,,UFA,CCM - Ribcor Trigger ASY,Bauer - Nexus 1N,Bauer,Bauer - 5100,Bauer - Vapor 1X
+Warroad,MN,USA,USA,L,BROCK.NELSON,Brock Nelson,Nelson,Brock,LW/C,NYI,,,RFA,Bauer - Nexus 1N,Bauer - Vapor 1X,Bauer,Bauer - Re-Akt,Bauer - Supreme 1S
+Edmonton,AB,CAN,CAN,R,ALEX.PETROVIC,Alexander Petrovic,Petrovic,Alexander,D,FLA,Lower body,NTC,RFA,TRUE - XCORE 9,TRUE - Pro,Bauer,Bauer - 4500,Bauer - Supreme 1S
+Scarborough,ON,CAN,CAN,R,DEVANTE.SMITH-PELLY,Devante Smith-Pelly,Smith-Pelly,Devante,RW,WSH,,,RFA,,,,,
+Toronto,ON,CAN,CAN,R,MIKE.BLUNDEN,Mike Blunden,Blunden,Mike,RW,OTT,,,UFA,,,,,
+Minneapolis,MN,USA,USA,R,NICK.BJUGSTAD,Nick Bjugstad,Bjugstad,Nick,C,FLA,,,UFA,TRUE - A6.0 SBP,CCM - Ultra Tacks,CCM,CCM - Resistance,CCM - Super Tacks
+Gardena,CA,USA,USA,R,BEAU.BENNETT,Beau Bennett,Bennett,Beau,RW,STL,,,RFA,,,,,
+Duluth,MN,USA,USA,L,DEREK.FORBORT,Derek Forbort,Forbort,Derek,D,LAK,"Lower body, Upper body",,UFA,CCM - Super Tacks,CCM - CL Pro,CCM,CCM - Vector V08,Bauer - Vapor 1X
+Dorchester,MA,USA,USA,L,KEVIN.HAYES,Kevin Hayes,Hayes,Kevin,RW/C,NYR,Lower body,,RFA,Bauer - Nexus 1N,Bauer - Nexus 1000,Bauer,Bauer - 4500,Bauer - Supreme 1S
+Windsor,ON,CAN,USA,L,CAM.FOWLER,Cam Fowler,Fowler,Cam,D,ANA,"Lower body, Shoulder",,UFA,Bauer - Supreme 1S,Bauer - Vapor 1X,Bauer,Bauer - Re-Akt,Bauer - Supreme 1S
+Quebec City,QC,CAN,USA,L,PAUL.STASTNY,Paul Stastny,Stastny,Paul,C,"STL, WPG",Lower body,NTC,UFA,Warrior - Covert QR EDGE,Warrior - Covert QR1,CCM,Bauer - 4500,TRUE - Pro Custom
+Ann Arbor,MI,USA,USA,R,AUSTIN.WATSON,Austin Watson,Watson,Austin,LW,NSH,Upper body,,UFA,CCM - Jetspeed,CCM - HG12,CCM,CCM - Resistance,CCM - JetSpeed FT1
+Wilcox,SK,CAN,CAN,L,JADEN.SCHWARTZ,Jaden Schwartz,Schwartz,Jaden,LW,STL,Ankle,,UFA,Warrior - Alpha QX,Warrior - Covert QRL,Warrior,Bauer - 4500,TRUE - Pro Custom
+Cole Harbour,NS,CAN,CAN,L,SIDNEY.CROSBY,Sidney Crosby,Crosby,Sidney,C,PIT,,NMC,UFA,CCM - Ribcor Reckoner,CCM - HG10KN,CCM,CCM - Fitlite 80,CCM - Ribcor 70K
+St. Catharines,ON,CAN,CAN,L,RILEY.SHEAHAN,Riley Sheahan,Sheahan,Riley,C,"DET, PIT",,,RFA,Bauer - Nexus 1N,Bauer - Nexus 1N,Bauer,Bauer - Re-Akt,Bauer - Vapor 1X
+Indianapolis,IN,USA,USA,L,JACK.JOHNSON,Jack Johnson,Johnson,Jack,D,CBJ,,,UFA,Bauer - Nexus 1N,Bauer - Vapor 1X,Bauer,Bauer - 4500,Bauer - Nexus 1N
+Alfred,ON,CAN,CAN,L,BENOIT.POULIOT,Benoit Pouliot,Pouliot,Benoit,LW,BUF,,,UFA,Bauer - Vapor 1X Lite,CCM - Tacks,CCM,CCM - Vector V08,CCM - JetSpeed
+Plzen,,CZE,CZE,R,ANDREJ.SUSTR,Andrej Sustr,Sustr,Andrej,D,TBL,,NTC,UFA,Warrior - Covert QR EDGE,Warrior - Dynasty AX1,Bauer,CCM - Vector V08,Bauer - Vapor 1X
+Walpole,MA,USA,USA,R,CHRIS.WAGNER,Chris Wagner,Wagner,Chris,C/RW,"ANA, NYI",,,UFA,Bauer - Supreme 1S,Bauer - Vapor 1X,Bauer,Bauer - 9900,Bauer - Vapor 1X
+Jesenice,,SVN,SVN,L,ANZE.KOPITAR,Anze Kopitar,Kopitar,Anze,C,LAK,,NMC,UFA,Bauer - Nexus 1N,Bauer - Nexus 1000,Bauer,Bauer - 5100,Bauer - Vapor 1X 2.0
+Kalajoki,,FIN,FIN,L,JUSSI.JOKINEN,Jussi Jokinen,Jokinen,Jussi,LW,"EDM, LAK, CBJ, VAN",,,UFA,Easton - Stealth RS,Easton - Pro,CCM,Bauer - 4500,Bauer - Nexus 1N
+Wawota,SK,CAN,CAN,L,BROOKS.LAICH,Brooks Laich,Laich,Brooks,C,LAK,,,,,,,,
+Toronto,ON,CAN,CAN,L,JEFF.SKINNER,Jeff Skinner,Skinner,Jeff,LW,CAR,,"M-NTC, NMC",UFA,Bauer - Vapor 1X Lite,CCM - HG12,Bauer,CCM - Resistance,Bauer - Supreme 1S
+Toronto,ON,CAN,CAN,R,ZACH.HYMAN,Zach Hyman,Hyman,Zach,C,TOR,,,UFA,Bauer - Vapor 1X Lite,Bauer - Vapor 1X,Bauer,Bauer - Re-Akt,TRUE - Pro Custom
+Pisek,,CZE,CZE,L,MARTIN.HANZAL,Martin Hanzal,Hanzal,Martin,C,DAL,Undisclosed,NMC,UFA,Bauer - Supreme 1S,Bauer - Nexus 1N,Bauer,Bauer - Re-Akt,Bauer - Vapor 1X 2.0
+Kazan,,RUS,RUS,L,ALEX.BURMISTROV,Alexander Burmistrov,Burmistrov,Alexander,C,VAN,,,,,,,,
+Edmonton,AB,CAN,CAN,R,DERYK.ENGELLAND,Deryk Engelland,Engelland,Deryk,D,VGK,Upper body,"M-NTC, NMC",UFA,Warrior - Alpha QX,Warrior - Covert QR1,Warrior,Warrior - Covert PX2,Bauer - Vapor 1X 2.0
+Ottawa,ON,CAN,CAN,R,ERIK.GUDBRANSON,Erik Gudbranson,Gudbranson,Erik,D,VAN,"Shoulder, Upper body","M-NTC, NMC",UFA,Bauer - Nexus 1N,Bauer - Nexus 1N,Bauer,Bauer - 4500,Bauer - Supreme 1S
+Winchester,MA,USA,USA,L,CONOR.SHEARY,Conor Sheary,Sheary,Conor,LW,PIT,Lower body,,UFA,CCM - Jetspeed,CCM - CL Pro,CCM,Bauer - Re-Akt,CCM - JetSpeed
+Campbell River,BC,CAN,CAN,R,BRETT.CONNOLLY,Brett Connolly,Connolly,Brett,RW,WSH,Concussion,,UFA,,,,,
+Vancouver,BC,CAN,CAN,R,RYAN.JOHANSEN,Ryan Johansen,Johansen,Ryan,C,NSH,Upper body,NMC,UFA,TRUE - XCORE 9,TRUE - Pro,Bauer,Bauer - Re-Akt,TRUE - Pro Custom
+Everett,WA,USA,USA,R,T.J..OSHIE,T.J. Oshie,Oshie,T.J.,RW,WSH,"Undisclosed, Upper body",,UFA,,,,,
+Sudbury,ON,CAN,CAN,L,BRENDAN.GAUNCE,Brendan Gaunce,Gaunce,Brendan,LW/C,VAN,Shoulder,,RFA,CCM - RBZ FT1,CCM - CL Pro,Bauer,CCM - Vector V08,Bauer - Supreme 1S
+Sherwood Park,AB,CAN,CAN,R,MARK.PYSYK,Mark Pysyk,Pysyk,Mark,D,FLA,,,UFA,Bauer - Vapor 1X Lite,Bauer - Nexus 1N,Bauer,Bauer - Re-Akt,Bauer - Vapor 1X
+Middletown,NJ,USA,USA,R,TREVOR.VAN RIEMSDYK,Trevor van Riemsdyk,van Riemsdyk,Trevor,D,CAR,Concussion,,RFA,STX - Stallion HPR,STX - Stallion HPR,Bauer,Bauer - Re-Akt,Bauer - Vapor 1X 2.0
+Oviedo,FL,USA,USA,R,RYAN.CARPENTER,Ryan Carpenter,Carpenter,Ryan,C,"SJS, VGK",,,UFA,CCM - RBZ Revolution,CCM - 4-Roll Pro,CCM,CCM - Vector V08,Bauer - Vapor 1X
+Chur,,CHE,CHE,L,NINO.NIEDERREITER,Nino Niederreiter,Niederreiter,Nino,RW,MIN,Lower body,,UFA,Bauer - Nexus 2N,Bauer - Supreme 1S,Bauer,Bauer - 4500,Bauer - Supreme 2S
+Gothenburg,,SWE,SWE,R,CHRISTIAN.FOLIN,Christian Folin,Folin,Christian,D,LAK,Upper body,,UFA,Bauer - Vapor 1X Lite,Bauer - Nexus 1N,Bauer,Bauer - 4500,Bauer - Vapor 1X 2.0
+Dearborn Heights,MI,USA,USA,L,JORDAN.OESTERLE,Jordan Oesterle,Oesterle,Jordan,D,CHI,,,UFA,Warrior - Alpha QX,Warrior - Covert QRL,Warrior,Bauer - Re-Akt 100,Bauer - Vapor 1X 2.0
+Montreal,QC,CAN,CAN,L,MARC-EDOUARD.VLASIC,Marc-Edouard Vlasic,Vlasic,Marc-Edouard,D,SJS,Head,,UFA,Easton - Stealth CX,Sherwood - BPM 120S,Easton,Easton - E400,Bauer - Nexus 7000
+Thunder Bay,ON,CAN,USA,L,TAYLOR.CHORNEY,Taylor Chorney,Chorney,Taylor,D,"WSH, CBJ",,,UFA,CCM - Jetspeed,CCM - HG12,CCM,CCM - Vector V08,CCM - Super Tacks
+Stockholm,,SWE,SWE,L,JOAKIM.NORDSTROM,Joakim Nordstrom,Nordstrom,Joakim,LW,CAR,"Illness, Upper body",,RFA,Bauer - Vapor 1X Lite,Warrior - Alpha QX,Bauer,CCM - Resistance,Bauer - Vapor 1X 2.0
+Ile Bizard,QC,CAN,CAN,L,MICHAEL.CHAPUT,Michael Chaput,Chaput,Michael,C,VAN,,,RFA,,,,,
+Stockholm,,SWE,SWE,L,JOHNNY.ODUYA,Johnny Oduya,Oduya,Johnny,D,"OTT, PHI","Lower body, Undisclosed",,UFA,Warrior - Covert QRL,Warrior - Dynasty AX1,Warrior,CCM - Vector V08,Bauer - Nexus 1N
+Pontiac,MI,USA,USA,R,BRYAN.RUST,Bryan Rust,Rust,Bryan,RW,PIT,Upper body,,RFA,Bauer - Nexus 1N,Bauer - Vapor 1X,Bauer,Bauer - Re-Akt,CCM - JetSpeed
+Muskegon,MI,USA,USA,L,JUSTIN.ABDELKADER,Justin Abdelkader,Abdelkader,Justin,LW,DET,Lower body,NMC,UFA,Warrior - Covert QRL,Warrior - Covert QRL,Warrior,Warrior - Covert PX2,Bauer - Vapor 1X
+Charlottetown,PE,CAN,CAN,R,ADAM.MCQUAID,Adam McQuaid,McQuaid,Adam,D,BOS,Leg,,UFA,STX - Surgeon RX2,STX - Surgeon 500,Warrior,Warrior - Covert PX2,TRUE - Pro Custom
+Raahe,,FIN,FIN,R,JOONAS.DONSKOI,Joonas Donskoi,Donskoi,Joonas,RW,SJS,"Lower body, Upper body",,UFA,Warrior - Alpha QX,Warrior - Covert QR1,Warrior,Bauer - 4500,Bauer - Supreme 1S
+Edmonton,AB,CAN,CAN,R,BRENDAN.GALLAGHER,Brendan Gallagher,Gallagher,Brendan,RW,MTL,,,UFA,Warrior - Covert QR EDGE,Warrior - Covert QRL,Warrior,Warrior - Covert PX2,Bauer - Vapor 1X
+Boston,MA,USA,USA,L,KEITH.YANDLE,Keith Yandle,Yandle,Keith,D,FLA,,NMC,UFA,CCM - Jetspeed,CCM - CL Pro,CCM,CCM - Resistance,CCM - Ribcor 70K
+Landshut,,DEU,DEU,L,TOM.KUHNHACKL,Tom Kuhnhackl,Kuhnhackl,Tom,RW,PIT,"Lower body, Upper body",,RFA,CCM - Ribcor Trigger 2 PMT,CCM - HG12,CCM,CCM - Vector V08,CCM - Ribcor 50K
+Sodertalje,,SWE,SWE,L,MARCUS.SORENSEN,Marcus Sorensen,Sorensen,Marcus,LW,SJS,,,UFA,CCM - Jetspeed,CCM - CL Pro,CCM,CCM - Vector V08,Reebok - 20K
+Vantaa,,FIN,FIN,L,VALTTERI.FILPPULA,Valtteri Filppula,Filppula,Valtteri,C,PHI,Arm,,UFA,Warrior - Alpha QX,Warrior - Covert QRL,Bauer,Bauer - 5100,Bauer - Vapor 1X 2.0
+Sicamous,BC,CAN,CAN,R,CODY.FRANSON,Cody Franson,Franson,Cody,D,CHI,Upper body,,UFA,,,,,
+Trebic,,CZE,CZE,L,VLADIMIR.SOBOTKA,Vladimir Sobotka,Sobotka,Vladimir,LW,STL,Illness,,UFA,CCM - Ribcor Trigger ASY,Bauer - Vapor 1X,Bauer,CCM - Resistance,CCM - JetSpeed
+Gothenburg,,SWE,SWE,R,TIM.HEED,Tim Heed,Heed,Tim,D,SJS,Upper body,NMC,UFA,,,,,
+Morristown,NJ,USA,USA,L,KENNY.AGOSTINO,Kenny Agostino,Agostino,Kenny,LW,BOS,,,UFA,,,,,
+Thunder Bay,ON,CAN,CAN,R,ROBERT.BORTUZZO,Robert Bortuzzo,Bortuzzo,Robert,D,STL,Knee,,UFA,Easton - Stealth CX,Bauer - Vapor 1X,Bauer,Bauer - 4500,TRUE - Pro Custom
+Staten Island,NY,USA,USA,L,ZACH.ASTON-REESE,Zach Aston-Reese,Aston-Reese,Zach,C,PIT,Upper body,,RFA,CCM - Ribcor Trigger 2 PMT,CCM - CL Pro,CCM,CCM - Vector V08,Bauer - Vapor 1X 2.0
+Sherwood Park,AB,CAN,CAN,L,DANIEL.CARR,Daniel Carr,Carr,Daniel,LW,MTL,,,RFA,CCM - Ribcor Trigger 2 PMT,CCM - Ultra Tacks,CCM,CCM - Vector V08,CCM - JetSpeed FT1
+Nassjo,,SWE,SWE,R,JESPER.FAST,Jesper Fast,Fast,Jesper,RW,NYR,Leg,,UFA,Bauer - Nexus 1N,Bauer - Vapor APX2,Bauer,Bauer - Re-Akt,Bauer - Vapor 1X
+St. Louis,MO,USA,USA,L,CHRIS.BUTLER,Chris Butler,Butler,Chris,D,STL,,,UFA,,,,,
+Karlskrona,,SWE,SWE,L,OLIVER.EKMAN-LARSSON,Oliver Ekman-Larsson,Ekman-Larsson,Oliver,D,ARI,,,UFA,Bauer - Vapor 1X Lite,Bauer - Supreme 1S,CCM,Bauer - 5100,Bauer - Supreme 1S
+Charlotte,NC,USA,USA,R,JARED.BOLL,Jared Boll,Boll,Jared,RW,ANA,Lower body,,UFA,Bauer - Nexus 1N,Bauer - Vapor 1X,Bauer,Bauer - 5100,Bauer - Nexus 1N
+Thunder Bay,ON,CAN,CAN,L,TOM.PYATT,Tom Pyatt,Pyatt,Tom,LW,OTT,Illness,,UFA,Bauer - Vapor 1X Lite,Bauer - Vapor 1X,Bauer,Bauer - Re-Akt,Bauer - Vapor 1X 2.0
+Eksjo,,SWE,SWE,L,NIKLAS.HJALMARSSON,Niklas Hjalmarsson,Hjalmarsson,Niklas,D,ARI,Upper body,,UFA,CCM - Super Tacks,CCM - HG12,CCM,CCM - Vector V08,CCM - Ribcor 50K
+Kennebunkport,ME,USA,USA,R,GARNET.HATHAWAY,Garnet Hathaway,Hathaway,Garnet,RW,CGY,,,RFA,CCM - Super Tacks 2.0,CCM - Tacks,CCM,CCM - Vector V08,TRUE - Pro Custom
+Island Park,NY,USA,USA,L,ANTHONY.BITETTO,Anthony Bitetto,Bitetto,Anthony,D,NSH,,,UFA,CCM - Ribcor Trigger ASY,Bauer - Nexus 1N,CCM,CCM - Vector V08,Bauer - Supreme 1S
+Taber,AB,CAN,CAN,L,BRANDON.DAVIDSON,Brandon Davidson,Davidson,Brandon,D,"MTL, EDM, NYI",Undisclosed,,RFA,CCM - Ribcor Trigger 2 PMT,CCM - 4-Roll Pro,CCM,CCM - Vector V08,Bauer - Supreme 1S
+Bromont,QC,CAN,CAN,R,FREDERICK.GAUDREAU,Frederick Gaudreau,Gaudreau,Frederick,C,NSH,,,UFA,,,,,
+Excelsior,MN,USA,USA,R,VINNI.LETTIERI,Vinni Lettieri,Lettieri,Vinni,C,NYR,,,RFA,,,,,
+Kladno,,CZE,CZE,L,JAROMIR.JAGR,Jaromir Jagr,Jagr,Jaromir,RW,CGY,Lower body,,UFA,,,,,
+Lycksele,,SWE,SWE,R,MELKER.KARLSSON,Melker Karlsson,Karlsson,Melker,C,SJS,Upper body,,UFA,CCM - Ribcor Reckoner,CCM - HG12,CCM,CCM - Vector V08,TRUE - Pro Custom
+Toronto,ON,CAN,CAN,R,FREDDIE.HAMILTON,Freddie Hamilton,Hamilton,Freddie,C,"CGY, ARI",,,RFA,Bauer - Supreme 1S,Bauer - Vapor 1X,CCM,CCM - Vector V08,CCM - Ribcor 70K
+Kingsford,MI,USA,USA,L,KEVIN.GRAVEL,Kevin Gravel,Gravel,Kevin,D,LAK,,,UFA,CCM - Ribcor Trigger 2 PMT,CCM - CL Pro,CCM,CCM - Vector V08,Bauer - Vapor 1X
+Spokane,WA,USA,USA,R,KAILER.YAMAMOTO,Kailer Yamamoto,Yamamoto,Kailer,RW,EDM,,,RFA,,,,,
+Le Blanc-Mesnil,,FRA,FRA,L,PIERRE-EDOUARD.BELLEMARE,Pierre-Edouard Bellemare,Bellemare,Pierre-Edouard,LW,VGK,Hand,,UFA,Bauer - Vapor 1X Lite,CCM - Super Tacks,CCM,CCM - Vector V08,CCM - JetSpeed FT1
+Pardubice,,CZE,CZE,L,TOMAS.NOSEK,Tomas Nosek,Nosek,Tomas,LW,VGK,Upper body,,RFA,CCM - RBZ Revolution,CCM - 4-Roll Pro,CCM,CCM - Vector V08,Bauer - Vapor 1X 2.0
+Windsor,ON,CAN,CAN,R,AARON.EKBLAD,Aaron Ekblad,Ekblad,Aaron,D,FLA,,,UFA,Bauer - Vapor 1X Lite,Bauer - Vapor APX2,Bauer,Bauer - Re-Akt,Bauer - Vapor 1X
+West Vancouver,BC,CAN,CAN,R,SAM.REINHART,Sam Reinhart,Reinhart,Sam,C,BUF,,,RFA,CCM - Ribcor Trigger ASY,CCM - CL Pro,CCM,CCM - Vector V08,CCM - Ribcor 70K
+Cologne,,DEU,DEU,L,LEON.DRAISAITL,Leon Draisaitl,Draisaitl,Leon,C,EDM,Concussion,,UFA,Warrior - Covert QR EDGE,Warrior - Dynasty AX1,Warrior,Warrior - Covert PX2,CCM - Ribcor 50K
+Holland Landing,ON,CAN,CAN,L,SAM.BENNETT,Sam Bennett,Bennett,Sam,C,CGY,,,RFA,Easton - Stealth CX,Easton - Stealth RS,Bauer,Easton - E400,Bauer - Vapor 1X
+Richmond Hill,ON,CAN,CAN,L,MICHAEL.DAL COLLE,Michael Dal Colle,Dal Colle,Michael,LW,NYI,,,RFA,,,,,
+New Westminster,BC,CAN,CAN,R,JAKE.VIRTANEN,Jake Virtanen,Virtanen,Jake,RW,VAN,Illness,,RFA,CCM - Super Tacks 2.0,CCM - CL Pro,CCM,CCM - Vector V08,Bauer - Vapor 1X
+Carlyle,SK,CAN,CAN,L,HAYDN.FLEURY,Haydn Fleury,Fleury,Haydn,D,CAR,,,RFA,,,,,
+Calgary,AB,CAN,SWE,R,WILLIAM.NYLANDER,William Nylander,Nylander,William,C,TOR,,NTC,RFA,Bauer - Vapor 1X Lite,Bauer - Supreme 1S,Bauer,Bauer - Re-Akt,Bauer - Vapor 1X 2.0
+Aalborg,,DNK,DNK,L,NIKOLAJ.EHLERS,Nikolaj Ehlers,Ehlers,Nikolaj,LW,WPG,,,UFA,Bauer - Vapor 1X Lite,Bauer - Supreme 1S,Bauer,Bauer - Re-Akt 100,Bauer - Nexus 1N
+Orangeville,ON,CAN,CAN,L,NICK.RITCHIE,Nick Ritchie,Ritchie,Nick,LW,ANA,"Lower body, Upper body",,RFA,CCM - Ribcor Trigger 2 PMT,Verbero - Dextra Pro,Warrior,CCM - Vector V08,Bauer - Vapor 1X 2.0
+St. Gallen,,CHE,CHE,L,KEVIN.FIALA,Kevin Fiala,Fiala,Kevin,LW,NSH,Upper body,,RFA,CCM - RBZ Revolution,CCM - Ultra Tacks,CCM,CCM - Vector V08,CCM - Ribcor 50K
+Guildford,,GBR,GBR,L,BRENDAN.PERLINI,Brendan Perlini,Perlini,Brendan,LW,ARI,Upper body,,RFA,CCM - Ribcor Trigger 2 PMT,CCM - CL 500,CCM,Bauer - Re-Akt,Bauer - Vapor 1X 2.0
+Prague,,CZE,CZE,L,JAKUB.VRANA,Jakub Vrana,Vrana,Jakub,LW,WSH,,,RFA,,,,,
+Jyväskylä,,FIN,FIN,R,JULIUS.HONKA,Julius Honka,Honka,Julius,D,DAL,Upper body,,RFA,CCM - Ribcor Trigger ASY,Warrior - Covert QRL,Bauer,Warrior - Covert PX2,CCM - Super Tacks
+Waterford,MI,USA,USA,L,DYLAN.LARKIN,Dylan Larkin,Larkin,Dylan,C,DET,,,RFA,Warrior - Covert QR EDGE,Bauer - Supreme 1S,Bauer,Bauer - Re-Akt 100,Bauer - Vapor 1X 2.0
+Massapequa,NY,USA,USA,L,SONNY.MILANO,Sonny Milano,Milano,Sonny,LW,CBJ,Oblique,,RFA,Bauer - Nexus 1N,Bauer - Nexus 1N,Bauer,Bauer - Re-Akt,Bauer - Supreme 1S
+Oxford,MI,USA,USA,L,NATHAN.GERBE,Nathan Gerbe,Gerbe,Nathan,LW/C,CBJ,,,UFA,,,,,
+Syracuse,NY,USA,USA,R,ALEX.TUCH,Alex Tuch,Tuch,Alex,RW,VGK,,,RFA,Warrior - Alpha QX,Warrior - Covert QRL,Warrior,Warrior - Covert PX2,Bauer - Nexus 1N
+Carmel,IN,USA,USA,R,ZACH.TROTMAN,Zach Trotman,Trotman,Zach,D,PIT,,,UFA,,,,,
+Eden Prairie,MN,USA,USA,L,CASEY.MITTELSTADT,Casey Mittelstadt,Mittelstadt,Casey,C,BUF,,,RFA,Bauer - Vapor 1X,Bauer - Vapor 1X,Bauer,Bauer - Re-Akt 100,Bauer - Vapor 1X 2.0
+Kuopio,,FIN,FIN,R,KASPERI.KAPANEN,Kasperi Kapanen,Kapanen,Kasperi,RW,TOR,,,RFA,Bauer - Vapor 1X Lite,Bauer - Supreme TotalOne MX3,CCM,Bauer - Re-Akt,Bauer - Supreme 1S
+Gothenburg,,SWE,SWE,R,JOHN.KLINGBERG,John Klingberg,Klingberg,John,D,DAL,,NMC,UFA,CCM - Ribcor Trigger ASY,Warrior - Luxe,CCM,Easton - E400,CCM - Ribcor 50K
+Toronto,ON,CAN,CAN,L,CAL.O'REILLY,Cal O'Reilly,O'Reilly,Cal,C,MIN,,,UFA,,,,,
+Havirov,,CZE,CZE,R,DAVID.PASTRNAK,David Pastrnak,Pastrnak,David,RW,BOS,,,UFA,Bauer - Nexus 2N,Bauer - Supreme 1S,Bauer,Bauer - Re-Akt,Bauer - Vapor 1X
+Moscow,,RUS,RUS,L,NIKITA.SCHERBAK,Nikita Scherbak,Scherbak,Nikita,RW,MTL,Knee,,RFA,Bauer - Vapor 1X Lite,CCM - Ultra Tacks,CCM,Bauer - Re-Akt,Bauer - Vapor 1X 2.0
+Moscow,,RUS,RUS,L,NIKOLAY.GOLDOBIN,Nikolay Goldobin,Goldobin,Nikolay,RW,VAN,,,RFA,,,,,
+Toronto,ON,CAN,CAN,R,JOSHUA.HO-SANG,Joshua Ho-Sang,Ho-Sang,Joshua,RW,NYI,,,RFA,,,,,
+Kramfors,,SWE,SWE,L,ADRIAN.KEMPE,Adrian Kempe,Kempe,Adrian,LW,LAK,Illness,,RFA,Bauer - Nexus 1N,Bauer - Vapor 1X,Bauer,CCM - Resistance,Bauer - Vapor 1X 2.0
+Edmonton,AB,CAN,CAN,L,JOHN.QUENNEVILLE,John Quenneville,Quenneville,John,C,NJD,Knee,,RFA,,,,,
+Denver,CO,USA,USA,L,BRENDAN.LEMIEUX,Brendan Lemieux,Lemieux,Brendan,LW,WPG,,,RFA,,,,,
+Moscow,,RUS,RUS,L,IVAN.BARBASHEV,Ivan Barbashev,Barbashev,Ivan,C,STL,,,RFA,CCM - Jetspeed,STX - Surgeon 500,CCM,CCM - Resistance,CCM - JetSpeed FT1
+Peterborough,ON,CAN,CAN,R,OWEN.TIPPETT,Owen Tippett,Tippett,Owen,RW,FLA,,,RFA,,,,,
+Skellefteå,,SWE,SWE,L,MARCUS.PETTERSSON,Marcus Pettersson,Pettersson,Marcus,D,ANA,,,RFA,CCM - Ribcor Trigger 2 PMT,CCM - Ultra Tacks,CCM,CCM - Resistance,CCM - Super Tacks
+Stockholm,,SWE,SWE,L,ANDREAS.ENGLUND,Andreas Englund,Englund,Andreas,D,OTT,,,,,,,,
+Orsk,,RUS,RUS,L,VLADISLAV.KAMENEV,Vladislav Kamenev,Kamenev,Vladislav,C,COL,Arm,,RFA,CCM - Ribcor Trigger 2 PMT,CCM - Ultra Tacks,CCM,Bauer - Re-Akt,CCM - Ribcor 70K
+Listowel,ON,CAN,CAN,R,ROLAND.MCKEOWN,Roland McKeown,McKeown,Roland,D,CAR,,,RFA,,,,,
+Cardiff,,GBR,AUS,L,NATHAN.WALKER,Nathan Walker,Walker,Nathan,LW,"WSH, EDM",,,RFA,,,,,
+Brantford,ON,CAN,CAN,R,BRANDON.MONTOUR,Brandon Montour,Montour,Brandon,D,ANA,Elbow,NTC,RFA,Warrior - Covert QR EDGE,Warrior - Covert QRL,Warrior,Bauer - Re-Akt,Bauer - Vapor 1X 2.0
+Boston,MA,USA,USA,L,RYAN.DONATO,Ryan Donato,Donato,Ryan,C,BOS,,,RFA,Warrior - Alpha QX,Warrior - Covert QRL,Warrior,Warrior - Covert PX2,
+Palos,IL,USA,USA,L,CHRISTIAN.DVORAK,Christian Dvorak,Dvorak,Christian,C,ARI,Lower body,,RFA,CCM - Ribcor Trigger 2 PMT,CCM - 4-Roll Pro,Bauer,CCM - Vector V08,Bauer - Supreme 1S
+Nove Mesto na Morave,,CZE,CZE,R,MARTIN.NECAS,Martin Necas,Necas,Martin,C,CAR,,,RFA,,,,,
+Pointe-Claire,QC,CAN,CAN,L,DOMINIC.TURGEON,Dominic Turgeon,Turgeon,Dominic,C,DET,,,RFA,,,,,
+Cadca,,SVK,SVK,R,MAREK.HRIVIK,Marek Hrivik,Hrivik,Marek,LW,CGY,Undisclosed,M-NTC,UFA,CCM - Super Tacks 2.0,CCM - Super Tacks,CCM,CCM - Vector V08,CCM - JetSpeed FT1
+Markham,ON,CAN,CAN,L,WARREN.FOEGELE,Warren Foegele,Foegele,Warren,LW,CAR,,,RFA,,,,,
+Winnipeg,MB,CAN,CAN,R,BRETT.LERNOUT,Brett Lernout,Lernout,Brett,D,MTL,,,RFA,,,,,
+Elk Point,AB,CAN,CAN,R,MARK.LETESTU,Mark Letestu,Letestu,Mark,C,"EDM, CBJ",,,UFA,Warrior - Covert QR EDGE,Warrior - Dynasty AX1,Warrior,Bauer - 4500,TRUE - Pro Custom
+Skokie,IL,USA,USA,R,LOUIE.BELPEDIO,Louis Belpedio,Belpedio,Louie,D,MIN,,,,CCM - Super Tacks 2.0,CCM - 4-Roll Pro,CCM,CCM - Vector V08,Bauer - Supreme 1S
+Tibro,,SWE,SWE,R,ANTON.STRALMAN,Anton Stralman,Stralman,Anton,D,TBL,Undisclosed,,UFA,Easton - Stealth CX,Easton - Pro,Bauer,Easton - E400,TRUE - Pro Custom
+Sault Ste. Marie,ON,CAN,CAN,R,MICHAEL.AMADIO,Michael Amadio,Amadio,Michael,C,LAK,,,RFA,Bauer - Vapor 1X Lite,CCM - Quicklite,CCM,CCM - Vector V08,Bauer - Vapor 1X
+Roubaix,,FRA,FRA,L,ANTOINE.ROUSSEL,Antoine Roussel,Roussel,Antoine,LW,DAL,"Flu, Illness",,UFA,Bauer - Supreme 1S,Bauer - Supreme TotalOne MX3,Bauer,CCM - Vector V08,Bauer - Vapor 1X
+Smogen,,SWE,SWE,L,LIAS.ANDERSSON,Lias Andersson,Andersson,Lias,C,NYR,,M-NTC,RFA,,,,,
+Umea,,SWE,SWE,L,LUCAS.WALLMARK,Lucas Wallmark,Wallmark,Lucas,C,CAR,,,RFA,,,,,
+Concord,NH,USA,USA,R,BEN.LOVEJOY,Ben Lovejoy,Lovejoy,Ben,D,NJD,,,UFA,Easton - Stealth CX,Bauer - Vapor 1X,Bauer,Bauer - Re-Akt,Bauer - Vapor 1X 2.0
+Abington,PA,USA,USA,R,ERIK.BURGDOERFER,Erik Burgdoerfer,Burgdoerfer,Erik,D,OTT,,,UFA,,,,,
+Sollentuna,,SWE,SWE,R,PATRIC.HORNQVIST,Patric Hornqvist,Hornqvist,Patric,RW,PIT,Upper body,,UFA,CCM - Ribcor Reckoner,Easton - Synergy GX,CCM,Bauer - Re-Akt,CCM - U+ CL
+Lakeville,MN,USA,USA,R,JUSTIN.KLOOS,Justin Kloos,Kloos,Justin,C,MIN,,,RFA,,,,,
+Skellefteå,,SWE,SWE,R,VIKTOR.ARVIDSSON,Viktor Arvidsson,Arvidsson,Viktor,LW,NSH,Lower body,NTC,UFA,Bauer - Vapor 1X,Bauer - Vapor 1X,Bauer,Bauer - Re-Akt,Bauer - Vapor 1X
+Langley,BC,CAN,CAN,L,DANTON.HEINEN,Danton Heinen,Heinen,Danton,C,BOS,,,RFA,Bauer - Vapor 1X Lite,Bauer - Supreme 1S,Bauer,Bauer - Re-Akt,Bauer - Vapor 1X 2.0
+Winnipeg,MB,CAN,CAN,R,NOLAN.PATRICK,Nolan Patrick,Patrick,Nolan,C,PHI,Upper body,,RFA,Bauer - Supreme 1S,Bauer - Nexus 1000,Bauer,Bauer - Re-Akt,Bauer - Supreme 2S
+Linkoping,,SWE,SWE,L,GUSTAV.FORSLING,Gustav Forsling,Forsling,Gustav,D,CHI,Head,,RFA,,,,,
+Victoria,BC,CAN,CAN,R,TYSON.BARRIE,Tyson Barrie,Barrie,Tyson,D,COL,"Hand, Upper body",NMC,UFA,CCM - Ribcor Trigger 2 PMT,CCM - HG12,Bauer,Bauer - 4500,Bauer - Nexus 1N
+Eden,NY,USA,USA,L,ALEX.IAFALLO,Alex Iafallo,Iafallo,Alex,C,LAK,Upper body,,RFA,CCM - Super Tacks 2.0,CCM - Quicklite,CCM,CCM - Resistance,Bauer - Supreme 1S
+Gävle,,SWE,SWE,L,OSKAR.LINDBLOM,Oskar Lindblom,Lindblom,Oskar,LW,PHI,,,RFA,Bauer - Nexus 1N,Bauer - Supreme 1S,Bauer,Bauer - Re-Akt,Bauer - Supreme 1S
+Thornhill,ON,CAN,CAN,L,ANDREW.CRESCENZI,Andrew Crescenzi,Crescenzi,Andrew,C,LAK,,,UFA,,,,,
+Vasteras,,SWE,SWE,L,DENNIS.RASMUSSEN,Dennis Rasmussen,Rasmussen,Dennis,C,ANA,,,UFA,,,,,
+Skellefteå,,SWE,SWE,L,ANTON.LINDHOLM,Anton Lindholm,Lindholm,Anton,D,COL,"Jaw, Upper body",,RFA,CCM - Ribcor Trigger 2 PMT,CCM - 4-Roll Pro,CCM,CCM - Vector V08,CCM - Ribcor 50K
+Mequon,WI,USA,USA,L,ANDERS.BJORK,Anders Bjork,Bjork,Anders,LW,BOS,Undisclosed,,RFA,Bauer - Vapor 1X Lite,Bauer - Vapor 1X,Bauer,Bauer - Re-Akt,Bauer - Vapor 1X 2.0
+Calgary,AB,CAN,CAN,R,ALEX.NYLANDER,Alexander Nylander,Nylander,Alexander,RW,BUF,,,RFA,,,,,
+Halifax,NS,CAN,CAN,L,ALEX.KILLORN,Alex Killorn,Killorn,Alex,LW,TBL,,NMC,UFA,Warrior - Covert QRL,Easton - Synergy HSX,Bauer,Easton - E400,Bauer - Vapor 1X
+Burnaby,BC,CAN,CAN,L,KARL.ALZNER,Karl Alzner,Alzner,Karl,D,MTL,,NMC,UFA,CCM - Ribcor Trigger 2 PMT,CCM - Quicklite,CCM,CCM - Resistance,CCM - JetSpeed
+Snowflake,MB,CAN,CAN,L,JUSTIN.FALK,Justin Falk,Falk,Justin,D,BUF,Undisclosed,,UFA,CCM - RBZ FT1,CCM - CL Pro,Bauer,CCM - Vector V08,Bauer - Supreme 1S
+Victoria,BC,CAN,CAN,L,JAMIE.BENN,Jamie Benn,Benn,Jamie,LW,DAL,,NMC,UFA,Bauer - Supreme TotalOne MX3,Bauer - Vapor 1X,Bauer,Easton - E400,Bauer - Nexus 1N
+Pilsen,,CZE,CZE,L,JAKUB.JERABEK,Jakub Jerabek,Jerabek,Jakub,D,"MTL, WSH",,,UFA,,,,,
+Chomutov,,CZE,CZE,L,DAVID.KAMPF,David Kampf,Kampf,David,C,CHI,,,RFA,,,,,
+Hermantown,MN,USA,USA,R,NEAL.PIONK,Neal Pionk,Pionk,Neal,D,NYR,,,RFA,CCM - Ribcor Trigger ASY,CCM - Quicklite,CCM,CCM - Vector V08,Bauer - Nexus 1N
+Ljunby,,SWE,SWE,L,OSCAR.FANTENBERG,Oscar Fantenberg,Fantenberg,Oscar,D,LAK,Back,,RFA,Bauer - Nexus 1N,Bauer - Vapor APX,Bauer,CCM - Resistance,Bauer - Supreme 1S
+Welland,ON,CAN,CAN,R,DAN.GIRARDI,Dan Girardi,Girardi,Dan,D,TBL,"Lower body, Neck",,UFA,Easton - Stealth CX,Easton - Pro,Bauer,Bauer - 4500,Bauer - Vapor 1X
+Montmagny,QC,CAN,CAN,L,SAMMY.BLAIS,Samuel Blais,Blais,Sammy,LW,STL,"Concussion, Lower body",,RFA,,,,,
+Hartford,CT,USA,USA,L,NICK.BONINO,Nick Bonino,Bonino,Nick,C,NSH,Lower body,,UFA,CCM - Ultra Tacks,CCM - HG12,CCM,CCM - Vector V08,CCM - JetSpeed
+Aurora,ON,CAN,CAN,L,DYLAN.SIKURA,Dylan Sikura,Sikura,Dylan,RW,CHI,,,RFA,Bauer - Vapor 1X Lite,Bauer - Supreme 1S,Bauer,CCM - Vector V08,Bauer - Vapor 1X 2.0
+Ann Arbor,MI,USA,USA,L,IAN.COLE,Ian Cole,Cole,Ian,D,"PIT, CBJ",Mouth,,UFA,Warrior - Alpha QX,Warrior - Covert QRL,Warrior,Bauer - Re-Akt,TRUE - Pro Custom
+Stockholm,,SWE,SWE,L,ANDREAS.BORGMAN,Andreas Borgman,Borgman,Andreas,D,TOR,,NMC,RFA,,,,,
+Toronto,ON,CAN,CAN,R,CHRIS.DIDOMENICO,Christopher Didomenico,DiDomenico,Christopher,LW,OTT,,NMC,UFA,,,,,
+Stockholm,,SWE,SWE,L,PHILIP.HOLM,Philip Holm,Holm,Philip,D,VAN,,,RFA,,,,,
+Lempaala,,FIN,FIN,L,HENRIK.HAAPALA,Henrik Haapala,Haapala,Henrik,LW,FLA,,,RFA,,,,,
+Maplewood,MN,USA,USA,R,JIM.O'BRIEN,Jim O'Brien,O'Brien,Jim,C,OTT,,,UFA,,,,,
+Minneapolis,MN,USA,USA,R,JUSTIN.BRAUN,Justin Braun,Braun,Justin,D,SJS,Illness,,UFA,CCM - Super Tacks 2.0,Bauer - Supreme TotalOne MX3,CCM,Bauer - 5100,Bauer - Nexus 1N
+Písek,,CZE,CZE,R,JAN.RUTTA,Jan Rutta,Rutta,Jan,D,CHI,"Undisclosed, Upper body",M-NTC,UFA,Bauer - Nexus 1N,Bauer - Vapor 1X,CCM,Bauer - Re-Akt,Bauer - Vapor 1X 2.0
+St. Andrews,MB,CAN,CAN,L,DARREN.HELM,Darren Helm,Helm,Darren,LW,DET,"Lower body, Undisclosed",NTC,UFA,Warrior - Alpha QX,Warrior - Covert QR1,Warrior,Warrior - Covert PX2,CCM - JetSpeed
+New Rochelle,NY,USA,USA,R,KEVIN.SHATTENKIRK,Kevin Shattenkirk,Shattenkirk,Kevin,D,NYR,Knee,,UFA,Bauer - Supreme 1S,Bauer - Nexus 1N,Bauer,Bauer - 4500,Bauer - Supreme 1S
+Langley,BC,CAN,CAN,L,SHEA.THEODORE,Shea Theodore,Theodore,Shea,D,VGK,Throat,,RFA,Bauer - Vapor 1X Lite,Bauer - Vapor 1X,Bauer,Bauer - Re-Akt,Bauer - Vapor 1X 2.0
+Southampton,NJ,USA,USA,R,KYLE.CRISCUOLO,Kyle Criscuolo,Criscuolo,Kyle,C,BUF,Upper body,,UFA,,,,,
+St. Louis,MO,USA,USA,L,PATRICK.MAROON,Patrick Maroon,Maroon,Patrick,LW,"EDM, NJD",Lower body,,UFA,Bauer - Nexus 1N,Bauer - Supreme 1S,Bauer,CCM - Fitlite 80,Bauer - Nexus 1N
+Kadan,,CZE,CZE,R,ONDREJ.KASE,Ondrej Kase,Kase,Ondrej,RW,ANA,"Flu, Head",,RFA,CCM - Ribcor Trigger 2 PMT,CCM - CL Pro,Bauer,Bauer - Re-Akt,Bauer - Vapor 1X
+Middletown,NJ,USA,USA,L,JAMES.VAN RIEMSDYK,James van Riemsdyk,van Riemsdyk,James,LW,TOR,Undisclosed,M-NTC,UFA,Bauer - Supreme 1S,STX - Stallion HPR,Bauer,Bauer - Re-Akt,TRUE - Pro Custom
+Ottawa,ON,CAN,CAN,L,PAUL.BYRON,Paul Byron,Byron,Paul,LW,MTL,,,UFA,Bauer - Nexus 1N,Bauer - Vapor 1X,Bauer,Bauer - Re-Akt,Bauer - Vapor 1X 2.0
+London,ON,CAN,CAN,R,SAM.GAGNER,Sam Gagner,Gagner,Sam,C,VAN,Concussion,,UFA,Bauer - Vapor 1X Lite,CCM - Ultra Tacks,CCM,CCM - Vector V08,CCM - Super Tacks
+Halifax,NS,CAN,CAN,L,MATTHEW.HIGHMORE,Matthew Highmore,Highmore,Matthew,LW/C,CHI,Undisclosed,,RFA,,,,,
+Guelph,ON,CAN,CAN,L,LOGAN.COUTURE,Logan Couture,Couture,Logan,C,SJS,Concussion,,UFA,Warrior - Covert QRL,Warrior - Dynasty AX1,Warrior,Warrior - Covert PX2,Bauer - Vapor 1X 2.0
+Toronto,ON,CAN,CAN,R,P.K..SUBBAN,P.K. Subban,Subban,P.K.,D,NSH,,,UFA,Easton - Synergy GX,CCM - 4-Roll Pro,CCM,CCM - Resistance,CCM - Ribcor 50K
+Keswick,ON,CAN,CAN,L,CHRIS.TIERNEY,Chris Tierney,Tierney,Chris,C,SJS,,,RFA,CCM - Super Tacks 2.0,CCM - HG12,CCM,CCM - Vector V08,TRUE - Pro Custom
+North York,ON,CAN,CAN,R,ANTHONY.PELUSO,Anthony Peluso,Peluso,Anthony,RW,WSH,,,UFA,,,,,
+Consort,AB,CAN,CAN,R,RILEY.NASH,Riley Nash,Nash,Riley,C,BOS,Illness,,UFA,Warrior - Alpha QX,CCM - HG12,CCM,CCM - Vector V08,Bauer - Supreme 1S
+Calgary,AB,CAN,CAN,L,THOMAS.HICKEY,Thomas Hickey,Hickey,Thomas,D,NYI,Upper body,M-NTC,UFA,Bauer - Vapor 1X Lite,Bauer - Vapor 1X,Bauer,Bauer - Re-Akt,Bauer - Vapor 1X
+Ann Arbor,MI,USA,USA,R,JEFF.PETRY,Jeff Petry,Petry,Jeff,D,MTL,,,UFA,CCM - Jetspeed,CCM - 4-Roll Pro,CCM,CCM - Resistance,Bauer - Nexus 1N
+New Westminster,BC,CAN,CAN,R,KYLE.TURRIS,Kyle Turris,Turris,Kyle,C,"OTT, NSH","Undisclosed, Illness",,UFA,Bauer - Vapor 1X Lite,Bauer - Nexus 1N,Bauer,Bauer - Re-Akt,Bauer - Nexus 1N
+Albany,NY,USA,USA,L,BRIAN.LASHOFF,Brian Lashoff,Lashoff,Brian,D,DET,,,UFA,,,,,
+Red Deer,AB,CAN,CAN,R,PAUL.POSTMA,Paul Postma,Postma,Paul,D,BOS,,,UFA,,,,,
+Umea,,SWE,SWE,L,5EBASTIAN.AHO,Sebastian Aho,Aho,Sebastian,D,NYI,,,RFA,Warrior - Covert QRL,Warrior - Covert QR1,Bauer,Warrior - Covert PX2,Bauer - Vapor 1X 2.0
+Kamloops,BC,CAN,CAN,L,JOE.HICKETTS,Joe Hicketts,Hicketts,Joe,D,DET,,,RFA,,,,,
+Miramichi,NB,CAN,CAN,L,BRAD.MALONE,Brad Malone,Malone,Brad,C,EDM,,,UFA,,,,,
+Mimico,ON,CAN,CAN,L,BRENDAN.SMITH,Brendan Smith,Smith,Brendan,D,NYR,,NMC,UFA,,,,,
+Huntington,NY,USA,CAN,R,BRANDON.SUTTER,Brandon Sutter,Sutter,Brandon,C,VAN,Upper body,NTC,UFA,Bauer - Nexus 1N,Bauer - Vapor APX2,Bauer,Bauer - Re-Akt,Bauer - Nexus 1N
+Borlange,,SWE,SWE,L,MATTIAS.EKHOLM,Mattias Ekholm,Ekholm,Mattias,D,NSH,Illness,,UFA,Bauer - Vapor 1X Lite,Bauer - Vapor APX2,Bauer,Bauer - 4500,Bauer - Vapor 1X
+Red Deer,AB,CAN,CAN,R,COLTON.SCEVIOUR,Colton Sceviour,Sceviour,Colton,RW/C,FLA,"Head, Upper body",,UFA,Bauer - Nexus 1N,Bauer - Vapor 1X,Bauer,Bauer - 4500,Bauer - Nexus 1N
+Sewell,NJ,USA,USA,R,TONY.DEANGELO,Anthony DeAngelo,DeAngelo,Tony,D,NYR,Ankle,NTC,RFA,STX - Stallion HPR,CCM - Super Tacks,CCM,Bauer - Re-Akt,Bauer - Vapor 1X 2.0
+Sherbrooke,QC,CAN,CAN,R,DAVID.PERRON,David Perron,Perron,David,LW,VGK,Upper body,M-NTC,UFA,CCM - Ribcor Trigger ASY,CCM - HG12,CCM,CCM - Fitlite 3DS,CCM - Ribcor 70K
+Chesterfield,MO,USA,USA,R,LUKE.KUNIN,Luke Kunin,Kunin,Luke,C,MIN,Knee,,RFA,CCM - Ribcor Reckoner,CCM - 4-Roll Pro,CCM,CCM - Vector V08,TRUE - Pro Custom
+Madison,WI,USA,USA,R,NICK.SCHMALTZ,Nick Schmaltz,Schmaltz,Nick,LW/C,CHI,Upper body,,RFA,CCM - Jetspeed,CCM - Ultra Tacks,CCM,Bauer - Re-Akt 100,Bauer - Supreme 1S
+Toronto,ON,CAN,CAN,L,CHRIS.KELLY,Chris Kelly,Kelly,Chris,C,ANA,,,UFA,Bauer - Nexus 1N,Bauer - Vapor 1X,Bauer,Bauer - Re-Akt,Bauer - Vapor 1X
+Cranbrook,BC,CAN,CAN,L,DRYDEN.HUNT,Dryden Hunt,Hunt,Dryden,LW,FLA,,,RFA,,,,,
+Jyväskylä,,FIN,FIN,R,SAMI.VATANEN,Sami Vatanen,Vatanen,Sami,D,"ANA, NJD",Shoulder,,UFA,CCM - Ribcor Trigger 2 PMT,CCM - Super Tacks,Bauer,Bauer - 9900,Bauer - Vapor 1X 2.0
+Edmonton,AB,CAN,CAN,R,TAYLOR.FEDUN,Taylor Fedun,Fedun,Taylor,D,BUF,Lower body,,UFA,,,,,
+Orebro,,SWE,SWE,L,CARL.GUNNARSSON,Carl Gunnarsson,Gunnarsson,Carl,D,STL,"Knee, Upper body",,UFA,Warrior - Alpha QX,Warrior - Dynasty AX1,Warrior,CCM - Vector V08,CCM - Ribcor 70K
+Ilderton,ON,CAN,CAN,R,MATT.READ,Matt Read,Read,Matt,RW,PHI,,,UFA,Bauer - Nexus 1N,Bauer - Vapor APX2,Bauer,Bauer - Re-Akt,CCM - JetSpeed
+Kramfors,,SWE,SWE,L,MARIO.KEMPE,Mario Kempe,Kempe,Mario,RW,ARI,,,UFA,,,,,
+Morges,,CHE,CHE,R,YANNICK.WEBER,Yannick Weber,Weber,Yannick,D,NSH,Upper body,,UFA,Easton - Synergy GX,Bauer - Vapor 1X,Bauer,Easton - E400,Bauer - Vapor 1X
+Brampton,ON,CAN,CAN,L,RICK.NASH,Rick Nash,Nash,Rick,LW,"NYR, BOS",Upper body,M-NTC,UFA,Easton - Synergy GX,Bauer - Vapor 1X,Bauer,Bauer - 4500,Bauer - Nexus 1N
+Buffalo,NY,USA,USA,L,PATRICK.KANE,Patrick Kane,Kane,Patrick,RW,CHI,,,UFA,Bauer - Vapor 1X Lite,Bauer - Nexus 1N,Bauer,Bauer - Re-Akt,Bauer - Vapor 1X 2.0
+Los Angeles,CA,USA,USA,R,KEVAN.MILLER,Kevan Miller,Miller,Kevan,D,BOS,Upper body,,UFA,Warrior - Covert QRL,Warrior - Covert QRL,Warrior,CCM - Vector V08,CCM - Super Tacks
+Sudbury,ON,CAN,CAN,L,DEREK.MACKENZIE,Derek MacKenzie,MacKenzie,Derek,C,FLA,Undisclosed,,UFA,CCM - Jetspeed,CCM - 4-Roll Pro,CCM,CCM - Vector V08,CCM - JetSpeed
+Burlington,ON,CAN,CAN,L,CORY.CONACHER,Cory Conacher,Conacher,Cory,LW/C,TBL,,,UFA,CCM - Super Tacks 2.0,CCM - Ultra Tacks,CCM,Bauer - Re-Akt,Bauer - Vapor 1X
+Chelyabinsk,,RUS,RUS,L,EVGENY.DADONOV,Evgeni Dadonov,Dadonov,Evgenii,RW,FLA,Shoulder,NMC,UFA,Easton - Stealth CX,Bauer - Vapor 1X,Bauer,Bauer - 4500,Bauer - Nexus 1N
+Vasteras,,SWE,SWE,L,MIKAEL.BACKLUND,Mikael Backlund,Backlund,Mikael,C,CGY,,,UFA,CCM - Ribcor Trigger 2 PMT,CCM - Super Tacks,CCM,CCM - Resistance,CCM - Super Tacks AS1
+St. Paul,MN,USA,USA,L,RYAN.MCDONAGH,Ryan McDonagh,McDonagh,Ryan,D,"NYR, TBL",Upper body,,UFA,CCM - Jetspeed,Bauer - Vapor 1X,Bauer,Bauer - 4500,Bauer - Vapor 1X 2.0
+New Canaan,CT,USA,USA,L,MAX.PACIORETTY,Max Pacioretty,Pacioretty,Max,LW,MTL,Knee,,UFA,Warrior - Covert QRL,Warrior - Covert QRL,Warrior,Warrior - Covert PX2,Bauer - Supreme 1S
+Braintree,MA,USA,USA,L,BRIAN.GIBBONS,Brian Gibbons,Gibbons,Brian,LW,NJD,Thumb,,UFA,CCM - Super Tacks 2.0,CCM - HG12,CCM,Bauer - 4500,Bauer - Vapor 1X
+Kladno,,CZE,CZE,L,JAKUB.VORACEK,Jakub Voracek,Voracek,Jakub,RW,PHI,,,UFA,Bauer - Vapor 1X Lite,CCM - Quicklite,CCM,CCM - Fitlite 80,Reebok - 11K
+Woodstock,ON,CAN,CAN,L,JAKE.MUZZIN,Jake Muzzin,Muzzin,Jake,D,LAK,Upper body,,UFA,Bauer - Nexus 1N,Easton - Stealth STH,Easton,Easton - E400,Bauer - Vapor 1X 2.0
+Rochester Hills,MI,USA,USA,L,ALEC.MARTINEZ,Alec Martinez,Martinez,Alec,D,LAK,Lower body,NMC,UFA,Bauer - Vapor 1X Lite,Bauer - Vapor 1X,Bauer,Bauer - 4500,Bauer - Vapor 1X 2.0
+Winnipeg,MB,CAN,CAN,R,MARK.STONE,Mark Stone,Stone,Mark,RW,OTT,Leg,,RFA,Warrior - Alpha AK27 SL,Warrior - Covert QRL,Warrior,Warrior - Covert PX2,Bauer - Vapor 1X 2.0
+Calgary,AB,CAN,CAN,R,JACK.RODEWALD,Jack Rodewald,Rodewald,Jack,RW,OTT,,,RFA,,,,,
+Sodertalje,,SWE,SWE,L,CARL.HAGELIN,Carl Hagelin,Hagelin,Carl,LW,PIT,,,UFA,TRUE - A6.0 SBP,CCM - 4-Roll Pro,CCM,CCM - Vector V08,CCM - Ribcor 50K
+St. Albert,AB,CAN,CAN,R,SPENCER.FOO,Spencer Foo,Foo,Spencer,RW,CGY,,NTC,RFA,,,,,
+Rodovre,,DNK,DNK,L,LARS.ELLER,Lars Eller,Eller,Lars,C,WSH,Illness,,UFA,,,,,
+Scarborough,ON,CAN,CAN,R,WAYNE.SIMMONDS,Wayne Simmonds,Simmonds,Wayne,RW,PHI,Upper body,,UFA,Warrior - Alpha QX,Warrior - Covert QR1,Bauer,Bauer - Re-Akt,Bauer - Supreme 1S
+Fort McMurray,AB,CAN,CAN,L,SCOTTIE.UPSHALL,Scottie Upshall,Upshall,Scottie,RW,STL,"Kidney, Knee",,UFA,Warrior - Alpha QX,Bauer - Vapor 1X,Warrior,Bauer - IMS 9.0,Bauer - Vapor 1X 2.0
+Toronto,ON,CAN,CAN,L,TREVOR.DALEY,Trevor Daley,Daley,Trevor,D,DET,"Lower body, Upper body",,UFA,CCM - Jetspeed,Warrior - Covert QRL,Warrior,Bauer - 4500,Bauer - Vapor 1X 2.0
+St. Albert,AB,CAN,CAN,L,NICK.HOLDEN,Nick Holden,Holden,Nick,D,"NYR, BOS",,,UFA,Warrior - Alpha QX,Warrior - Dynasty AX1,Warrior,Warrior - Covert PX2,TRUE - Pro Custom
+London,ON,CAN,CAN,L,NAZEM.KADRI,Nazem Kadri,Kadri,Nazem,C,TOR,Upper body,,UFA,CCM - Jetspeed,CCM - HG50,CCM,CCM - Vector V08,CCM - JetSpeed FT1
+Mississauga,ON,CAN,CAN,L,KYLE.CAPOBIANCO,Kyle Capobianco,Capobianco,Kyle,D,ARI,,,RFA,,,,,
+Ornskoldsvik,,SWE,SWE,L,VICTOR.HEDMAN,Victor Hedman,Hedman,Victor,D,TBL,Lower body,,UFA,Bauer - Nexus 1N,Bauer - Vapor 1X,Bauer,Bauer - Re-Akt,Bauer - Nexus 1N
+Dorval,QC,CAN,CAN,R,JASON.DEMERS,Jason Demers,Demers,Jason,D,ARI,Upper body,NTC,UFA,Easton - Stealth CX,CCM - HG10KX,CCM,CCM - Vector V08,CCM - Ribcor 70K
+Njurunda,,SWE,SWE,L,HENRIK.ZETTERBERG,Henrik Zetterberg,Zetterberg,Henrik,LW/C,DET,,,UFA,Warrior - Covert QRL,Warrior - Franchise,Warrior,Warrior - Covert PX2,Bauer - Nexus 1N
+Västerås,,SWE,SWE,L,PATRIK.BERGLUND,Patrik Berglund,Berglund,Patrik,C,STL,Shoulder,,UFA,Warrior - Alpha QX,Warrior - Covert QR1,Warrior,Bauer - Re-Akt,Bauer - Vapor 1X
+Guelph,ON,CAN,CAN,L,MICHEAL.HALEY,Micheal Haley,Haley,Micheal,LW/C,FLA,,,UFA,CCM - Super Tacks 2.0,STX - Surgeon 500,CCM,CCM - Vector V08,CCM - Ribcor 70K
+New Lenox,IL,USA,USA,L,ALEX.BROADHURST,Alex Broadhurst,Broadhurst,Alex,C,CBJ,,,UFA,CCM - Ribcor Trigger ASY,CCM - 4-Roll Pro,CCM,CCM - Vector V08,Bauer - Vapor 1X 2.0
+Petawawa,ON,CAN,CAN,L,MATTHEW.PECA,Matthew Peca,Peca,Matthew,C,TBL,,,UFA,,,,,
+Herning,,DNK,DNK,L,FRANS.NIELSEN,Frans Nielsen,Nielsen,Frans,C,DET,Upper body,NMC,UFA,Warrior - Covert QR EDGE,Warrior - Covert QRL,Warrior,Warrior - Covert PX2,Bauer - Supreme 1S
+Frydek-Mistek,,CZE,CZE,L,ONDREJ.PALAT,Ondrej Palat,Palat,Ondrej,LW,TBL,Lower body,,UFA,Bauer - Vapor 1X Lite,Bauer - Supreme 1S,Bauer,Bauer - Re-Akt,Bauer - Vapor 1X
+Oakville,ON,CAN,CAN,L,SCOTT.WILSON,Scott Wilson,Wilson,Scott,C,"PIT, DET, BUF",,,RFA,Bauer - Vapor 1X Lite,Bauer - Supreme 1S,Bauer,Bauer - Re-Akt,Bauer - Vapor 1X 2.0
+Edmonton,AB,CAN,CAN,L,JAY.BOUWMEESTER,Jay Bouwmeester,Bouwmeester,Jay,D,STL,"Hip, Undisclosed",NMC,UFA,Warrior - Covert QRL,Warrior - Dynasty AX1,Warrior,Bauer - 4500,Bauer - Vapor 1X
+Maple Creek,SK,CAN,CAN,L,ZACK.SMITH,Zack Smith,Smith,Zack,LW,OTT,Upper body,M-NTC,UFA,CCM - Ribcor Trigger 2 PMT,CCM - HG12,CCM,CCM - Resistance,CCM - JetSpeed FT1
+Windsor,ON,CAN,CAN,L,TREVOR.MURPHY,Trevor Murphy,Murphy,Trevor,D,ARI,,,RFA,,,,,
+Toronto,ON,CAN,CAN,R,FRANK.CORRADO,Frank Corrado,Corrado,Frank,D,PIT,,,RFA,,,,,
+Massapequa,NY,USA,USA,L,ROB.O'GARA,Rob O'Gara,O'Gara,Rob,D,"BOS, NYR",,,RFA,CCM - Super Tacks 2.0,CCM - Ultra Tacks,CCM,Bauer - Re-Akt,Bauer - Vapor 1X 2.0
+Mississauga,ON,CAN,CAN,L,MATT.STAJAN,Matt Stajan,Stajan,Matt,C,CGY,,M-NTC,UFA,Warrior - Alpha QX,Easton - Pro,Bauer,Bauer - 4500,Bauer - Nexus 1N
+Ceské Budejovice,,CZE,CZE,L,LUKAS.SEDLAK,Lukas Sedlak,Sedlak,Lukas,LW/C,CBJ,"Ankle, Head",,RFA,CCM - Super Tacks 2.0,CCM - HG12,Bauer,CCM - Resistance,TRUE - Pro Custom
+Hinsdale,IL,USA,CAN,R,JOSH.MANSON,Josh Manson,Manson,Josh,D,ANA,Upper body,,UFA,Easton - Stealth CX,Bauer - Vapor APX2,Bauer,Bauer - 4500,Bauer - Vapor 1X 2.0
+Drummondville,QC,CAN,CAN,L,DANICK.MARTEL,Danick Martel,Martel,Danick,LW,PHI,,,RFA,,,,,
+East Longmeadow,MA,USA,USA,L,FRANK.VATRANO,Frank Vatrano,Vatrano,Frank,C,"BOS, FLA","Lower body, Undisclosed",,RFA,Bauer - Nexus 1N,Bauer - Supreme 1S,Bauer,Bauer - Re-Akt,Bauer - Vapor 1X 2.0
+Fullerton,CA,USA,USA,L,CHASE.BALISY,Chase Balisy,Balisy,Chase,C,FLA,,,UFA,,,,,
+De Pere,WI,USA,USA,L,MAX.MCCORMICK,Max McCormick,McCormick,Max,LW,OTT,,,UFA,Warrior - Alpha QX,CCM - HG12,CCM,CCM - Vector V08,Bauer - Vapor 1X
+Nizhny Tagil,,RUS,RUS,L,NIKITA.SOSHNIKOV,Nikita Soshnikov,Soshnikov,Nikita,RW,"TOR, STL","Upper body, Lower body",,RFA,CCM - Ribcor Trigger ASY,CCM - Ultra Tacks,CCM,CCM - Resistance,Bauer - Nexus 1N
+Regina,SK,CAN,CAN,R,JOSH.ARCHIBALD,Josh Archibald,Archibald,Josh,RW,"PIT, ARI",,,RFA,CCM - Super Tacks 2.0,CCM - CL Pro,CCM,CCM - Vector V08,Bauer - Vapor 1X
+Boca Raton,FL,USA,USA,L,JAKOB.CHYCHRUN,Jakob Chychrun,Chychrun,Jakob,D,ARI,Lower body,,RFA,TRUE - A6.0 SBP,TRUE - Pro,CCM,Bauer - Re-Akt 100,Bauer - Supreme 1S
+Hopkins,MN,USA,USA,L,TRAVIS.BOYD,Travis Boyd,Boyd,Travis,C,WSH,,,RFA,,,,,
+London,ON,CAN,CAN,R,DYLAN.DEMELO,Dylan DeMelo,DeMelo,Dylan,D,SJS,Flu,,RFA,CCM - RBZ Revolution,CCM - HG12,CCM,CCM - Vector V08,TRUE - Pro Custom
+Barrie,ON,CAN,CAN,L,ALEX.FORMENTON,Alex Formenton,Formenton,Alex,LW,OTT,,,RFA,,,,,
+Loviisa,,FIN,FIN,R,IIRO.PAKARINEN,Iiro Pakarinen,Pakarinen,Iiro,RW,EDM,,,RFA,Bauer - Vapor 1X Lite,Bauer - Supreme 1S,Bauer,Bauer - Re-Akt,Bauer - Supreme 1S
+Hull,QC,CAN,CAN,L,DERICK.BRASSARD,Derick Brassard,Brassard,Derick,C,"OTT, PIT","Undisclosed, Groin",M-NTC,UFA,Bauer - Vapor 1X Lite,Bauer - Vapor 1X,CCM,Bauer - Re-Akt,Bauer - Vapor 1X 2.0
+Calgary,AB,CAN,CAN,R,JAY.BEAGLE,Jay Beagle,Beagle,Jay,RW/C,WSH,Upper body,,UFA,,,,,
+Mlada Boleslav,,CZE,CZE,R,TOMAS.HYKA,Tomas Hyka,Hyka,Tomas,RW,VGK,,,RFA,,,,,
+Brampton,ON,CAN,CAN,L,TYLER.GRAOVAC,Tyler Graovac,Graovac,Tyler,C,WSH,Upper body,,UFA,,,,,
+Salem,NJ,USA,USA,L,JOHNNY.GAUDREAU,Johnny Gaudreau,Gaudreau,Johnny,LW,CGY,,,UFA,Warrior - Alpha QX,Warrior - Covert QRL,Warrior,Bauer - Re-Akt,Bauer - Vapor 1X 2.0
+Boston,MA,USA,USA,L,NOAH.HANIFIN,Noah Hanifin,Hanifin,Noah,D,CAR,Concussion,,RFA,Bauer - Nexus 1N,Bauer - Vapor 1X,Bauer,Bauer - Re-Akt,Bauer - Supreme 1S
+Nizhnekamsk,,ROU,RUS,L,RINAT.VALIEV,Rinat Valiev,Valiev,Rinat,D,MTL,Lower body,,RFA,,,,,
+Shelby Twp.,MI,USA,USA,L,KYLE.CONNOR,Kyle Connor,Connor,Kyle,LW,WPG,Lower body,,RFA,CCM - Ribcor Trigger 2 PMT,CCM - 4-Roll Pro,CCM,CCM - Resistance,Bauer - Vapor 1X
+Mlada Boleslav,,CZE,CZE,R,RADIM.VRBATA,Radim Vrbata,Vrbata,Radim,RW,FLA,"Facial, Illness",,UFA,,,,,
+Boston,MA,USA,USA,R,COLIN.WHITE,Colin White,White,Colin,C,OTT,,,RFA,,,,,
+Brno,,CZE,CZE,L,PAVEL.ZACHA,Pavel Zacha,Zacha,Pavel,C,NJD,Upper body,,RFA,Bauer - Vapor 1X Lite,Bauer - Vapor 1X,Bauer,Bauer - Re-Akt,Bauer - Vapor 1X
+Richmond Hill,ON,CAN,CAN,L,CONNOR.MCDAVID,Connor McDavid,McDavid,Connor,C,EDM,,,UFA,CCM - Super Tacks,CCM - CL 500,CCM,CCM - Vector V08,CCM - JetSpeed
+North Chelmsford,MA,USA,USA,R,JACK.EICHEL,Jack Eichel,Eichel,Jack,C,BUF,Ankle,,UFA,Bauer - Supreme 1S,Bauer - Supreme 1S,Bauer,Bauer - Re-Akt,Bauer - Supreme 2S
+Landshut,,DEU,DEU,L,TOBIAS.RIEDER,Tobias Rieder,Rieder,Tobias,RW/C,"ARI, LAK",,,RFA,CCM - RBZ Speedburner,CCM - CL Pro,CCM,CCM - Vector V08,Bauer - Vapor 1X 2.0
+Mississauga,ON,CAN,CAN,L,VINCE.DUNN,Vince Dunn,Dunn,Vince,D,STL,Illness,,RFA,CCM - Ribcor Trigger 2 PMT,CCM - CL Pro,CCM,CCM - Vector V08,Bauer - Nexus 1N
+Newmarket,ON,CAN,CAN,L,TRAVIS.DERMOTT,Travis Dermott,Dermott,Travis,D,TOR,Lower body,,RFA,CCM - Super Tacks 2.0,CCM - Super Tacks,CCM,CCM - Vector V08,CCM - JetSpeed FT1
+Canton,NY,USA,USA,L,JORDAN.GREENWAY,Jordan Greenway,Greenway,Jordan,LW,MIN,,,RFA,TRUE - A6.0 SBP,Bauer - Vapor APX2,Bauer,CCM - Vector V08,Bauer - Vapor 1X 2.0
+Herisau,,CHE,CHE,L,TIMO.MEIER,Timo Meier,Meier,Timo,RW,SJS,,,RFA,CCM - Ribcor Trigger 2 PMT,CCM - Quicklite,CCM,CCM - Resistance,Bauer - Supreme 1S
+Stockholm,,SWE,SWE,L,FREDRIK.CLAESSON,Fredrik Claesson,Claesson,Fredrik,D,OTT,,,RFA,CCM - Ribcor Trigger 2 PMT,CCM - Quicklite,CCM,CCM - Vector V08,Bauer - Supreme 1S
+Milford,MI,USA,USA,L,BLAKE.PIETILA,Blake Pietila,Pietila,Blake,LW,NJD,,,RFA,,,,,
+Eden Prairie,MN,USA,USA,L,NICK.SEELER,Nick Seeler,Seeler,Nick,D,MIN,Bicep,,RFA,CCM - Super Tacks,CCM - 4-Roll Pro,CCM,CCM - Vector V08,Bauer - Vapor 1X 2.0
+Joliette,QC,CAN,CAN,L,A.J..GREER,A.J. Greer,Greer,A.J.,LW,COL,,,RFA,,,,,
+Dublin,OH,USA,USA,L,SEAN.KURALY,Sean Kuraly,Kuraly,Sean,C,BOS,Upper body,,RFA,Warrior - Alpha QX,Warrior - Covert QRL,Warrior,Warrior - Covert PX2,Bauer - Vapor 1X 2.0
+Edmonton,AB,CAN,CAN,L,BRENDAN.GUHLE,Brendan Guhle,Guhle,Brendan,D,BUF,Upper body,,RFA,,,,,
+London,ON,CAN,CAN,L,JOE.THORNTON,Joe Thornton,Thornton,Joe,C,SJS,Knee,NMC,UFA,CCM - Ribcor Trigger 2 PMT,CCM - 4-Roll Pro,CCM,CCM - Resistance,CCM - JetSpeed FT1
+Rauma,,FIN,FIN,L,SEBASTIAN.AHO,Sebastian Aho,Aho,Sebastian,RW,CAR,Concussion,,RFA,,,,,
+Belleville,ON,CAN,CAN,R,ANDREW.SHAW,Andrew Shaw,Shaw,Andrew,RW,MTL,"Head, Lower body",,UFA,CCM - Ultra Tacks,CCM - 4-Roll Pro,CCM,CCM - Vector V08,CCM - Super Tacks
+Yuzhno-Sakhalinsk,,RUS,RUS,L,EVGENY.SVECHNIKOV,Evgeny Svechnikov,Svechnikov,Evgeny,RW,DET,,,RFA,,,,,
+Chicago,IL,USA,USA,R,CHRISTIAN.FISCHER,Christian Fischer,Fischer,Christian,RW,ARI,Lower body,,RFA,CCM - Super Tacks,CCM - CL Pro,CCM,CCM - Vector V08,Bauer - Supreme 1S
+Rochester,NY,USA,USA,L,SHANE.PRINCE,Shane Prince,Prince,Shane,LW,NYI,Upper body,,RFA,CCM - RBZ Revolution,CCM - CL Pro,CCM,CCM - Vector V08,CCM - JetSpeed
+Pittsburgh,PA,USA,USA,R,VINCENT.TROCHECK,Vincent Trocheck,Trocheck,Vincent,C,FLA,,,UFA,STX - Surgeon RX2,STX - Surgeon 500,CCM,CCM - Vector V08,Bauer - Vapor 1X
+London,ON,CAN,CAN,R,TRAVIS.KONECNY,Travis Konecny,Konecny,Travis,C,PHI,Foot,,RFA,Warrior - Covert QRL,Warrior - Covert QRL,Warrior,Warrior - Covert PX2,Bauer - Vapor 1X
+Mississauga,ON,CAN,CAN,L,DYLAN.STROME,Dylan Strome,Strome,Dylan,C,ARI,,,RFA,,,,,
+Belleville,ON,CAN,CAN,L,NICK.COUSINS,Nick Cousins,Cousins,Nick,C,ARI,,NTC,RFA,Bauer - Nexus 1N,Bauer - Vapor 1X,CCM,Bauer - Re-Akt,Bauer - Vapor 1X 2.0
+Colorado Springs,CO,USA,USA,R,BRANDON.CARLO,Brandon Carlo,Carlo,Brandon,D,BOS,Lower body,,RFA,CCM - Ribcor Trigger 2 PMT,CCM - Super Tacks,CCM,CCM - Vector V08,TRUE - Pro Custom
+Burnsville,MN,USA,USA,R,BROCK.BOESER,Brock Boeser,Boeser,Brock,RW,VAN,Hand,,RFA,CCM - Jetspeed,CCM - Super Tacks,CCM,CCM - Vector V08,CCM - JetSpeed FT1
+Coquitlam,BC,CAN,CAN,R,MATHEW.BARZAL,Mathew Barzal,Barzal,Mathew,C,NYI,,,RFA,CCM - Ribcor Trigger 2 PMT,CCM - HG12,CCM,CCM - Resistance,CCM - Super Tacks
+Calgary,AB,CAN,CAN,L,NICHOLAS.MERKLEY,Nicholas Merkley,Merkley,Nicholas,RW,ARI,,,RFA,,,,,
+North York,ON,CAN,CAN,R,JOEL.WARD,Joel Ward,Ward,Joel,RW,SJS,Shoulder,M-NTC,UFA,CCM - Ribcor 40K,CCM - HG12,CCM,CCM - Fitlite 80,TRUE - Pro Custom
+Richmond Hill,ON,CAN,CAN,L,DANIEL.CATENACCI,Daniel Catenacci,Catenacci,Daniel,C,NYR,,,UFA,,,,,
+Katrineholm,,SWE,SWE,L,KLAS.DAHLBECK,Klas Dahlbeck,Dahlbeck,Klas,D,CAR,,"M-NTC, NMC",RFA,Warrior - Alpha QX,Warrior - Covert QRL,Warrior,Warrior - Covert PX2,Bauer - Vapor 1X
+Pickering,ON,CAN,CAN,L,ANDY.ANDREOFF,Andy Andreoff,Andreoff,Andy,LW,LAK,Upper body,,UFA,Bauer - Nexus 1N,Bauer - Vapor 1X,Bauer,Bauer - 4500,TRUE - Pro Custom
+Denver,CO,USA,USA,R,NICK.SHORE,Nick Shore,Shore,Nick,C,"LAK, OTT, CGY","Illness, Undisclosed",,RFA,Warrior - Alpha QX,Warrior - Covert QR1,Warrior,Warrior - Covert PX2,Bauer - Vapor 1X 2.0
+Duluth,MN,USA,USA,R,ANDY.WELINSKI,Andy Welinski,Welinski,Andy,D,ANA,,,RFA,CCM - Ribcor Trigger ASY,CCM - CL Pro,CCM,CCM - Vector V08,CCM - Super Tacks
+Belleville,ON,CAN,CAN,L,ALAN.QUINE,Alan Quine,Quine,Alan,C,NYI,"Undisclosed, Upper body",,RFA,CCM - Ribcor Trigger ASY,CCM - Tacks,CCM,CCM - Vector V08,Bauer - Vapor 1X
+Columbus,OH,USA,USA,R,JACK.ROSLOVIC,Jack Roslovic,Roslovic,Jack,C,WPG,,,RFA,Warrior - Covert QR EDGE,Warrior - Alpha QX,Warrior,Warrior - Covert PX2,Bauer - Vapor 1X 2.0
+Grosse Pointe,MI,USA,USA,L,ZACH.WERENSKI,Zach Werenski,Werenski,Zach,D,CBJ,Undisclosed,,RFA,Bauer - Nexus 1N,Bauer - Vapor 1X,Bauer,Bauer - Re-Akt,Bauer - Vapor 1X
+Amos,QC,CAN,CAN,R,NICOLAS.ROY,Nicolas Roy,Roy,Nicolas,C,CAR,,,,,,,,
+Eden Prairie,MN,USA,USA,L,KYLE.RAU,Kyle Rau,Rau,Kyle,C,MIN,,,UFA,,,,,
+Wheaton,IL,USA,USA,L,RYAN.DZINGEL,Ryan Dzingel,Dzingel,Ryan,LW,OTT,Head,,UFA,CCM - Jetspeed,CCM - Ultra Tacks,CCM,Bauer - Re-Akt,CCM - Super Tacks
+Amsterdam,,NLD,NLD,R,DANIEL.SPRONG,Daniel Sprong,Sprong,Daniel,RW,PIT,,,RFA,,,,,
+Ottawa,ON,CAN,CAN,R,JEAN-GABRIEL.PAGEAU,Jean-Gabriel Pageau,Pageau,Jean-Gabriel,C,OTT,Upper body,,UFA,Bauer - Vapor 1X Lite,Bauer - Vapor 1X,Bauer,Bauer - Re-Akt,Bauer - Vapor 1X
+Sainte-Marie,QC,CAN,CAN,L,THOMAS.CHABOT,Thomas Chabot,Chabot,Thomas,D,OTT,,,RFA,CCM - Jetspeed,CCM - Jetspeed FT1,CCM,CCM - Resistance,CCM - Super Tacks AS1
+Chicago,IL,USA,USA,L,MIKE.REILLY,Mike Reilly,Reilly,Mike,D,"MIN, MTL",Undisclosed,,RFA,Bauer - Supreme 1S,Bauer - Vapor APX2,Bauer,Bauer - Re-Akt,Bauer - Supreme 1S
+Lansing,MI,USA,USA,L,REID.BOUCHER,Reid Boucher,Boucher,Reid,C,VAN,Hand,,RFA,STX - Surgeon RX2,STX - Surgeon 500,CCM,CCM - Vector V08,TRUE - Pro Custom
+Winnipeg,MB,CAN,CAN,L,DUNCAN.KEITH,Duncan Keith,Keith,Duncan,D,CHI,,,UFA,Bauer - Supreme 1S,Warrior - Dynasty AX1,Bauer,CCM - Resistance,Bauer - Nexus 1N
+Mt. Brydges,ON,CAN,CAN,L,LAWSON.CROUSE,Lawson Crouse,Crouse,Lawson,LW,ARI,,,RFA,,,,,
+Calgary,AB,CAN,CAN,R,TY.RATTIE,Ty Rattie,Rattie,Ty,RW,EDM,,,RFA,CCM - Ribcor Trigger ASY,CCM - CL Pro,CCM,CCM - Vector V08,CCM - Ribcor 50K
+Anaheim,CA,USA,USA,R,ROCCO.GRIMALDI,Rocco Grimaldi,Grimaldi,Rocco,C,COL,Illness,,UFA,,,,,
+St. Louis,MO,USA,USA,R,SCOTT.MAYFIELD,Scott Mayfield,Mayfield,Scott,D,NYI,"Lower body, Soreness",,UFA,Warrior - Covert QRL,Warrior - Alpha QX,CCM,CCM - Vector V08,TRUE - Pro Custom
+Kosice,,SVK,SVK,L,TOMAS.JURCO,Tomas Jurco,Jurco,Tomas,LW,CHI,Illness,,RFA,Easton - Synergy GX,Bauer - Vapor APX,Bauer,Bauer - Re-Akt,Bauer - Vapor 1X
+Niagara Falls,NY,USA,USA,R,ADAM.CLENDENING,Adam Clendening,Clendening,Adam,D,ARI,,,RFA,,,,,
+Dorchester,ON,CAN,CAN,L,BOONE.JENNER,Boone Jenner,Jenner,Boone,C,CBJ,Back,,RFA,CCM - Jetspeed,Bauer - Nexus 1N,Bauer,CCM - Vector V08,Bauer - Vapor 1X 2.0
+Markham,ON,CAN,CAN,R,MITCH.MARNER,Mitch Marner,Marner,Mitchell,C,TOR,,,RFA,TRUE - A6.0 SBP,TRUE - Pro,CCM,Warrior - Covert PX2,TRUE - Pro Custom
+Omsk,,RUS,CZE,L,DMITRIJ.JASKIN,Dmitrij Jaskin,Jaskin,Dmitrij,RW,STL,,,RFA,Bauer - Vapor 1X Lite,Bauer - Vapor 1X,Bauer,Bauer - 4500,Bauer - Nexus 1N
+Leksand,,SWE,SWE,L,VICTOR.RASK,Victor Rask,Rask,Victor,C,CAR,Shoulder,,UFA,Bauer - Nexus 1N,Bauer - Vapor APX2,Bauer,Bauer - 5100,Bauer - Vapor 1X
+Pittsburgh,PA,USA,USA,L,BRANDON.SAAD,Brandon Saad,Saad,Brandon,LW,CHI,,,UFA,Warrior - Alpha QX,Warrior - Dynasty AX1,Warrior,Warrior - Covert PX2,Bauer - Nexus 1N
+Orangeville,ON,CAN,CAN,R,BRETT.RITCHIE,Brett Ritchie,Ritchie,Brett,RW,DAL,"Lower body, Upper body",,RFA,Bauer - Supreme 1S,Bauer - Vapor 1X,Bauer,CCM - Vector V08,Bauer - Supreme 1S
+Prague,,CZE,CZE,L,FILIP.CHLAPIK,Filip Chlapik,Chlapik,Filip,C,OTT,Upper body,,RFA,,,,,
+Brandon,MB,CAN,CAN,L,JOEL.EDMUNDSON,Joel Edmundson,Edmundson,Joel,D,STL,Arm,,RFA,Warrior - Alpha QX,Warrior - Dynasty AX1,CCM,CCM - Vector V08,Bauer - Vapor 1X
+Long Beach,CA,USA,USA,L,MATT.NIETO,Matthew Nieto,Nieto,Matt,LW,COL,"Lower body, Undisclosed",,RFA,CCM - Super Tacks 2.0,CCM - CL Pro,CCM,CCM - Vector V08,Bauer - Vapor 1X
+Bayonne,,FRA,FRA,L,XAVIER.OUELLET,Xavier Ouellet,Ouellet,Xavier,D,DET,,,RFA,Bauer - Vapor 1X Lite,Bauer - Vapor 1X,Bauer,Bauer - Re-Akt,TRUE - Pro Custom
+Orangeville,ON,CAN,CAN,R,ZACK.MITCHELL,Zack Mitchell,Mitchell,Zack,RW,MIN,,NTC,UFA,,,,,
+Karlstad,,SWE,SWE,L,JOEL.ERIKSSON EK,Joel Eriksson Ek,Eriksson Ek,Joel,LW/C,MIN,,,RFA,CCM - Jetspeed,CCM - Super Tacks,CCM,CCM - Resistance,CCM - Super Tacks
+Raahe,,FIN,FIN,L,MIIKKA.SALOMAKI,Miikka Salomaki,Salomaki,Miikka,RW,NSH,,,RFA,CCM - Ribcor Trigger ASY,CCM - HG12,CCM,CCM - Resistance,Bauer - Vapor 1X 2.0
+Marsta,,SWE,SWE,L,WILLIAM.KARLSSON,William Karlsson,Karlsson,William,C,VGK,,,RFA,Warrior - Alpha QX,CCM - Super Tacks,CCM,CCM - Vector V08,Bauer - Nexus 1N
+Kingston,ON,CAN,CAN,L,SCOTT.HARRINGTON,Scott Harrington,Harrington,Scott,D,CBJ,Illness,,RFA,Warrior - Alpha QX,Warrior - Alpha QX,CCM,Warrior - Covert PX2,Bauer - Supreme 1S
+Mississauga,ON,CAN,CAN,R,RYAN.SPROUL,Ryan Sproul,Sproul,Ryan,D,NYR,,,UFA,CCM - Ribcor Reckoner,CCM - 4-Roll Pro,CCM,CCM - Vector V08,CCM - JetSpeed
+Yaroslavl,,RUS,RUS,L,IVAN.PROVOROV,Ivan Provorov,Provorov,Ivan,D,PHI,,,RFA,Bauer - Nexus 2N,Bauer - Vapor 1X,Bauer,Bauer - Re-Akt,Bauer - Supreme 2S
+Maykop,,RUS,RUS,L,NIKITA.KUCHEROV,Nikita Kucherov,Kucherov,Nikita,RW,TBL,Upper body,,RFA,Bauer - Supreme 1S,Bauer - Vapor 1X,Bauer,Bauer - Re-Akt,Bauer - Nexus 1N
+Burnaby,BC,CAN,CAN,L,RYAN.NUGENT-HOPKINS,Ryan Nugent-Hopkins,Nugent-Hopkins,Ryan,C,EDM,"Lower body, Upper body",,UFA,Bauer - Nexus 1N,CCM - Quicklite,CCM,CCM - Vector V08,CCM - Super Tacks
+Stockholm,,SWE,SWE,L,GABRIEL.LANDESKOG,Gabriel Landeskog,Landeskog,Gabriel,LW,COL,,,UFA,Bauer - Vapor 1X Lite,Warrior - Alpha QX,Warrior,Bauer - Re-Akt,Bauer - Nexus 1N
+Saint-Jerome,QC,CAN,CAN,L,JONATHAN.HUBERDEAU,Jonathan Huberdeau,Huberdeau,Jonathan,LW,FLA,,,UFA,CCM - RBZ FT1,CCM - HG12,CCM,CCM - Vector V08,CCM - JetSpeed FT1
+Skellefteå,,SWE,SWE,R,ADAM.LARSSON,Adam Larsson,Larsson,Adam,D,EDM,Upper body,,UFA,TRUE - A6.0 SBP,TRUE - Pro,CCM,Bauer - 5100,Bauer - Nexus 1N
+Orebro,,SWE,SWE,L,GABRIEL.CARLSSON,Gabriel Carlsson,Carlsson,Gabriel,D,CBJ,Upper body,,RFA,,,,,
+Huddinge,,SWE,SWE,R,MIKA.ZIBANEJAD,Mika Zibanejad,Zibanejad,Mika,C,NYR,Illness,,UFA,Bauer - Vapor 1X Lite,Bauer - Supreme TotalOne MX3,Bauer,Bauer - Re-Akt,CCM - Ribcor 50K
+Kitchener,ON,CAN,CAN,R,MARK.SCHEIFELE,Mark Scheifele,Scheifele,Mark,C,WPG,Upper body,,UFA,Warrior - Alpha QX,Warrior - Covert QRL,Warrior,Warrior - Covert PX2,Bauer - Vapor 1X
+Phoenix,AZ,USA,CAN,L,SEAN.COUTURIER,Sean Couturier,Couturier,Sean,C,PHI,,,UFA,Bauer - Nexus 1N,Warrior - Covert QR1,CCM,CCM - Vector V08,Bauer - Vapor 1X
+Toronto,ON,CAN,CAN,R,DOUGIE.HAMILTON,Dougie Hamilton,Hamilton,Dougie,D,CGY,,NMC,UFA,Bauer - Vapor 1X,Bauer - Vapor APX2,Bauer,Bauer - Re-Akt,CCM - Ribcor 70K
+Karlstad,,SWE,SWE,L,JONAS.BRODIN,Jonas Brodin,Brodin,Jonas,D,MIN,Hand,,UFA,Warrior - Alpha QX,Warrior - Covert QRL,CCM,CCM - Vector V08,Bauer - Supreme 1S
+Edmonton,AB,CAN,CAN,L,DUNCAN.SIEMENS,Duncan Siemens,Siemens,Duncan,D,COL,,,RFA,Bauer - Vapor 1X Lite,CCM - HG12,CCM,CCM - Vector V08,TRUE - Pro Custom
+Aurora,ON,CAN,CAN,R,RYAN.MURPHY,Ryan Murphy,Murphy,Ryan,D,MIN,,,RFA,CCM - Ribcor Reckoner,Bauer - Vapor APX2,Bauer,Warrior - Covert PX2,Bauer - Vapor 1X
+Bern,,CHE,CHE,L,SVEN.BAERTSCHI,Sven Baertschi,Baertschi,Sven,LW,VAN,"Jaw, Shoulder",,RFA,Bauer - Vapor 1X Lite,Bauer - Vapor 1X,Bauer,Bauer - Re-Akt,TRUE - Pro Custom
+Toronto,ON,CAN,CAN,L,JAMIE.OLEKSIAK,Jamie Oleksiak,Oleksiak,Jamie,D,"DAL, PIT",,M-NTC,RFA,CCM - Ultra Tacks,CCM - 4-Roll Pro,CCM,CCM - Vector V08,Bauer - Supreme 1S
+East Palestine,OH,USA,USA,L,J.T..MILLER,J.T. Miller,Miller,J.T.,LW/C,"NYR, TBL",,,RFA,STX - Surgeon RX2,STX - Stallion 500,Bauer,CCM - Vector V08,CCM - Ribcor 50K
+Pori,,FIN,FIN,R,JOEL.ARMIA,Joel Armia,Armia,Joel,RW,WPG,Undisclosed,,RFA,Warrior - Alpha QX,Warrior - Covert QRL,Warrior,Bauer - 5100,Bauer - Vapor 1X
+Strathroy,ON,CAN,CAN,L,NATHAN.BEAULIEU,Nathan Beaulieu,Beaulieu,Nathan,D,BUF,Upper body,,RFA,Bauer - Nexus 1N,Warrior - Alpha QX,Warrior,Bauer - Re-Akt,Bauer - Vapor 1X 2.0
+Etobicoke,ON,CAN,CAN,L,ANTHONY.CIRELLI,Anthony Cirelli,Cirelli,Anthony,C,TBL,,,RFA,CCM - Jetspeed,CCM - Ultra Tacks,CCM,CCM - Vector V08,TRUE - Pro Custom
+Karlstad,,SWE,SWE,L,OSCAR.KLEFBOM,Oscar Klefbom,Klefbom,Oscar,D,EDM,"Shoulder, Undisclosed",,UFA,Warrior - Covert QRL,Warrior - Covert QR1,Warrior,CCM - Vector V08,Bauer - Vapor 1X
+Dublin,OH,USA,USA,R,CONNOR.MURPHY,Connor Murphy,Murphy,Connor,D,CHI,,,UFA,Bauer - Vapor 1X Lite,Bauer - Supreme 1S,Bauer,Bauer - Re-Akt 100,Bauer - Supreme 1S
+Plano,TX,USA,USA,R,STEFAN.NOESEN,Stefan Noesen,Noesen,Stefan,RW,NJD,,,RFA,Bauer - Vapor 1X Lite,Warrior - Covert QRL,Warrior,Warrior - Covert PX2,CCM - JetSpeed FT1
+Edmonton,AB,CAN,CAN,L,JOE.MORROW,Joseph Morrow,Morrow,Joe,D,"MTL, WPG",,,RFA,Bauer - Supreme 1S,Bauer - Supreme 1S,Bauer,CCM - Vector V08,Bauer - Vapor 1X 2.0
+Trenton,MI,USA,USA,L,ANDY.GREENE,Andy Greene,Greene,Andy,D,NJD,,,UFA,Bauer - Vapor 1X Lite,Bauer - Supreme 1S,Bauer,Bauer - 4500,Bauer - Vapor 1X 2.0
+Victoriaville,QC,CAN,CAN,L,PHILLIP.DANAULT,Phillip Danault,Danault,Phillip,LW/C,MTL,Neck,,RFA,Warrior - Alpha QX,Warrior - Alpha QX,Warrior,Warrior - Covert PX2,Bauer - Supreme 1S
+Hancock,MI,USA,USA,L,TANNER.KERO,Tanner Kero,Kero,Tanner,RW/C,CHI,Undisclosed,,RFA,,,,,
+Sundbyberg,,SWE,SWE,R,RICKARD.RAKELL,Rickard Rakell,Rakell,Rickard,C,ANA,Upper body,,UFA,CCM - Super Tacks,Easton - Synergy GX,CCM,Bauer - Re-Akt,CCM - JetSpeed FT1
+Edmonton,AB,CAN,CAN,L,JASON.CHIMERA,Jason Chimera,Chimera,Jason,LW,"NYI, ANA",,,UFA,CCM - Ribcor 40K,CCM - CL Pro,CCM,Bauer - 4500,CCM - JetSpeed
+Helsinki,,FIN,FIN,L,MARKUS.HANNIKAINEN,Markus Hannikainen,Hannikainen,Markus,LW,CBJ,,,RFA,CCM - Ribcor Trigger 2 PMT,Bauer - Supreme 1S,CCM,CCM - Vector V08,Bauer - Nexus 1N
+Toronto,ON,CAN,CAN,R,EVAN.RODRIGUES,Evan Rodrigues,Rodrigues,Evan,LW,BUF,Ribs,,RFA,Bauer - Supreme 1S,Bauer - Supreme 1S,Bauer,Bauer - Re-Akt,Bauer - Vapor 1X 2.0
+Wallaceburg,ON,CAN,CAN,R,SETH.GRIFFITH,Seth Griffith,Griffith,Seth,C,BUF,Upper body,,RFA,,,,,
+Bern,,CHE,CHE,L,MARK.STREIT,Mark Streit,Streit,Mark,D,MTL,,,,,,,,
+Pincourt,QC,CAN,CAN,L,ALEX.BURROWS,Alexandre Burrows,Burrows,Alexandre,RW,OTT,,M-NTC,UFA,Warrior - Alpha QX,Warrior - Covert QRL,Warrior,Warrior - Covert PX2,CCM - Ribcor 50K
+Calgary,AB,CAN,CAN,R,BRAYDEN.POINT,Brayden Point,Point,Brayden,C,TBL,,M-NTC,RFA,Warrior - Covert QRL,Warrior - Covert QRL,CCM,CCM - Vector V08,CCM - JetSpeed
+Bærum,,NOR,NOR,L,ANDREAS.MARTINSEN,Andreas Martinsen,Martinsen,Andreas,LW,CHI,,,UFA,,,,,
+Volketswil,,CHE,CHE,L,DEAN.KUKAN,Dean Kukan,Kukan,Dean,D,CBJ,Upper body,,RFA,CCM - Ribcor Trigger 2 PMT,CCM - 4-Roll Pro,CCM,CCM - Vector V08,Bauer - Vapor 1X
+Johnston,RI,USA,USA,R,NOEL.ACCIARI,Noel Acciari,Acciari,Noel,C,BOS,"Lower body, Upper body",,UFA,Warrior - Alpha QX,Warrior - Covert QRL,Warrior,Warrior - Covert PX2,Bauer - Vapor 1X
+Brig,,CHE,CHE,L,NICO.HISCHIER,Nico Hischier,Hischier,Nico,C,NJD,,,RFA,CCM - Ribcor Trigger 2 PMT,CCM - HG12,CCM,CCM - Resistance,CCM - JetSpeed FT1
+Sault Ste. Marie,ON,CAN,CAN,R,COLIN.MILLER,Colin Miller,Miller,Colin,D,VGK,,,RFA,CCM - Ribcor Trigger 2 PMT,CCM - Quicklite,CCM,CCM - Vector V08,Bauer - Supreme 1S
+Spokane,WA,USA,USA,R,DEREK.RYAN,Derek Ryan,Ryan,Derek,C,CAR,Upper body,,UFA,Warrior - Alpha QX,Warrior - Covert QRL,Warrior,Warrior - Covert PX2,Bauer - Vapor 1X 2.0
+Cap-Rouge,QC,CAN,CAN,R,JONATHAN.MARCHESSAULT,Jon Marchessault,Marchessault,Jonathan,C,VGK,"Lower body, Undisclosed",,UFA,CCM - Ribcor Trigger 2 PMT,CCM - HG12,CCM,CCM - Vector V08,Bauer - Supreme 1S
+White Rock,BC,CAN,CAN,L,JASON.GARRISON,Jason Garrison,Garrison,Jason,D,VGK,,,UFA,,,,,
+St. Cloud,MN,USA,USA,L,NATE.SCHMIDT,Nate Schmidt,Schmidt,Nate,D,VGK,Undisclosed,,UFA,CCM - Ribcor Trigger ASY,CCM - Quicklite,CCM,CCM - Vector V08,CCM - JetSpeed
+Gävle,,SWE,SWE,L,ANDREAS.JOHNSSON,Andreas Johnsson,Johnsson,Andreas,LW,TOR,,,RFA,CCM - Ribcor Trigger 2 PMT,CCM - Ultra Tacks,CCM,CCM - Vector V08,Bauer - Supreme 1S
+Spokane,WA,USA,USA,R,TYLER.JOHNSON,Tyler Johnson,Johnson,Tyler,C,TBL,Undisclosed,,UFA,Warrior - Alpha QX,Warrior - Dynasty AX1,Bauer,Warrior - Covert PX2,Bauer - Vapor 1X
+London,ON,CAN,CAN,R,DREW.DOUGHTY,Drew Doughty,Doughty,Drew,D,LAK,,,UFA,Easton - Synergy GX,Easton - Pro,Bauer,Bauer - 4500,Bauer - Vapor 1X 2.0
+Markham,ON,CAN,CAN,R,STEVEN.STAMKOS,Steven Stamkos,Stamkos,Steven,C,TBL,Lower body,NMC,UFA,Bauer - Supreme 1S,Bauer - Supreme 1S,Bauer,Bauer - 4500,Bauer - Vapor 1X
+King City,ON,CAN,CAN,R,ALEX.PIETRANGELO,Alex Pietrangelo,Pietrangelo,Alex,D,STL,Foot,M-NTC,UFA,Bauer - Vapor 1X Lite,Bauer - Vapor 1X,Bauer,Bauer - 4500,Bauer - Vapor 1X 2.0
+Massena,NY,USA,USA,R,ZACH.BOGOSIAN,Zach Bogosian,Bogosian,Zach,D,BUF,Lower body,,UFA,Bauer - Nexus 1N,Bauer - Vapor APX2,Bauer,CCM - Vector V08,Bauer - Supreme 1S
+Saskatoon,SK,CAN,CAN,R,LUKE.SCHENN,Luke Schenn,Schenn,Luke,D,ARI,,,UFA,Bauer - Supreme 1S,Bauer - Vapor 1X,Bauer,Bauer - Re-Akt 100,Bauer - Supreme 1S
+Greenwich,CT,USA,USA,L,COLIN.WILSON,Colin Wilson,Wilson,Colin,C,COL,Lower body,,UFA,Bauer - Supreme 1S,Warrior - Dynasty AX1,CCM,CCM - Vector V08,TRUE - Pro Custom
+Brondby,,DNK,DNK,L,MIKKEL.BOEDKER,Mikkel Boedker,Boedker,Mikkel,LW,SJS,Undisclosed,,UFA,Bauer - Vapor 1X Lite,Warrior - Covert QR1,Warrior,Bauer - Re-Akt 100,Bauer - Vapor 1X 2.0
+Bowmanville,ON,CAN,CAN,L,JOSH.BAILEY,Josh Bailey,Bailey,Josh,RW,NYI,Upper body,,UFA,Easton - Stealth CX,Easton - Pro,CCM,CCM - Vector V08,Bauer - Supreme 1S
+Houston,TX,USA,CAN,R,TYLER.MYERS,Tyler Myers,Myers,Tyler,D,WPG,,,UFA,Warrior - Alpha QX,Warrior - Alpha QX,Warrior,Warrior - Covert PX2,Bauer - Vapor 1X
+Toronto,ON,CAN,CAN,L,BARCLAY.GOODROW,Barclay Goodrow,Goodrow,Barclay,RW,SJS,Upper body,,RFA,CCM - RBZ Revolution,CCM - CL 500,CCM,CCM - Vector V08,TRUE - Pro Custom
+Landsbro,,SWE,SWE,R,ERIK.KARLSSON,Erik Karlsson,Karlsson,Erik,D,OTT,Foot,,UFA,Warrior - Covert QR EDGE,Warrior - Covert QR EDGE,Warrior,CCM - Vector V08,Bauer - Supreme 1S
+Ozieri,,ITA,CHE,L,LUCA.SBISA,Luca Sbisa,Sbisa,Luca,D,VGK,Undisclosed,,UFA,Bauer - Vapor 1X Lite,Bauer - Supreme TotalOne MX3,Bauer,Bauer - Re-Akt,Bauer - Nexus 1N
+Nousiainen,,FIN,FIN,L,MIKKO.RANTANEN,Mikko Rantanen,Rantanen,Mikko,RW,COL,Lower body,,RFA,Bauer - Supreme 1S,CCM - HG12,CCM,CCM - Vector V08,Bauer - Vapor 1X
+Minnetonka,MN,USA,USA,L,JAKE.GARDINER,Jake Gardiner,Gardiner,Jake,D,TOR,,,UFA,CCM - Super Tacks 2.0,CCM - CL Pro,CCM,CCM - Fitlite,CCM - Ribcor 70K
+Edmonton,AB,CAN,CAN,R,MATT.BENNING,Matt Benning,Benning,Matt,D,EDM,"Illness, Upper body",,RFA,CCM - Ribcor Trigger 2 PMT,CCM - Quicklite,CCM,CCM - Vector V08,Bauer - Vapor 1X 2.0
+Stouffville,ON,CAN,CAN,L,MICHAEL.DEL ZOTTO,Michael Del Zotto,Del Zotto,Michael,D,VAN,,M-NTC,UFA,Bauer - Supreme 1S,Bauer - Supreme 1S,CCM,CCM - Vector V08,Bauer - Supreme 1S
+Regina,SK,CAN,CAN,R,JORDAN.EBERLE,Jordan Eberle,Eberle,Jordan,RW/C,NYI,Undisclosed,,UFA,Bauer - Vapor 1X Lite,Bauer - Supreme 1S,Bauer,Bauer - 5100,Bauer - Supreme 1S
+Edmonton,AB,CAN,CAN,L,TYLER.ENNIS,Tyler Ennis,Ennis,Tyler,LW,MIN,,,UFA,Bauer - Nexus 1N,Warrior - Covert QR1,Bauer,Bauer - Re-Akt,TRUE - Pro Custom
+Natick,MA,USA,USA,R,JOHN.CARLSON,John Carlson,Carlson,John,D,WSH,,,UFA,,,,,
+Bern,,CHE,CHE,L,ROMAN.JOSI,Roman Josi,Josi,Roman,D,NSH,"Lower body, Upper body",M-NTC,UFA,CCM - Super Tacks 2.0,CCM - HG12,CCM,CCM - Resistance,Bauer - Vapor 1X
+Kelowna,BC,CAN,CAN,R,JUSTIN.SCHULTZ,Justin Schultz,Schultz,Justin,D,PIT,"Illness, Lower body",,UFA,Bauer - Nexus 1N,Bauer - Supreme 1S,Bauer,Bauer - Re-Akt,Bauer - Vapor 1X
+Roseau,MN,USA,USA,L,AARON.NESS,Aaron Ness,Ness,Aaron,D,WSH,,,UFA,,,,,
+Paris,ON,CAN,CAN,R,ZAC.DALPE,Zac Dalpe,Dalpe,Zac,C,CBJ,Upper body,,UFA,,,,,
+St. Malo,MB,CAN,CAN,R,TRAVIS.HAMONIC,Travis Hamonic,Hamonic,Travis,D,CGY,Upper body,,UFA,Warrior - Alpha QX,Warrior - Covert QRL,Warrior,Easton - E400,Bauer - Supreme 1S
+Hastings,MN,USA,USA,R,DEREK.STEPAN,Derek Stepan,Stepan,Derek,C,ARI,,NTC,UFA,Bauer - Supreme 1S,Bauer - Nexus 1N,Bauer,CCM - Vector V08,Bauer - Vapor 1X 2.0
+STILLWATER,MN,USA,USA,R,MITCH.REINKE,Mitch Reinke,Reinke,Mitch,D,STL,,,RFA,CCM - Super Tacks,Bauer - Vapor 1X,CCM,Bauer - Re-Akt 100,Bauer - Vapor 1X 2.0
+BELLMAWR,NJ,USA,USA,L,ERIC.ROBINSON,Eric Robinson,Robinson,Eric,LW,CBJ,,,,Bauer - Vapor 1X Lite,CCM - Ultra Tacks,CCM,CCM - Vector V08,Bauer - Vapor 1X 2.0
